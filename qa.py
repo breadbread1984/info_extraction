@@ -37,15 +37,15 @@ class QA(object):
     text_splitter = RecursiveCharacterTextSplitter(chunk_size = 500, chunk_overlap = 0)
     split_texts = text_splitter.split_text(text)
     embeddings = HuggingFaceEmbeddings(model_name = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
-    self.vectordb = Chroma.from_texts(
+    vectordb = Chroma.from_texts(
         texts = split_texts,
         embedding = embeddings,
         persist_directory = db_dir)
-    self.vectordb.persist()
+    self.retriever = vectordb.as_retriever()
     # create chain
     self.chain = get_qa_chain(chain_type, llm, tokenizer)
   def query(self, question):
-    docs = self.vectordb.get_relevant_documents(question)
+    docs = self.retriever.get_relevant_documents(question)
     res = self.chain({'input_documents': docs, 'question': question}, return_only_outputs = True)
     return res['output_text']
 

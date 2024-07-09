@@ -42,9 +42,9 @@ def main(unused_argv):
       text = ''.join([doc.page_content for doc in loader.load()])
       
       qa = QA(FLAGS.type, tokenizer, llm, text, locally = FLAGS.locally)
-      formula, _ = qa.query("what is the chemical formula of the electrolyte produced in the example?")
-      materials, _ = qa.query("what are the materials used in the example?")
-      conductivity, _ = qa.query("what is the conductivity of the electrolyte?")
+      formula = qa.query("what is the chemical formula of the electrolyte produced in the example?")
+      materials = qa.query("what are the materials used in the example?")
+      conductivity = qa.query("what is the conductivity of the electrolyte?")
       content.append({"patent":f, "summary": summary, "chemical formula": formula, "starting materials": materials, "conductivity": conductivity})
   with open(FLAGS.output_json, 'w', encoding = 'utf-8') as f:
     f.write(json.dumps(content, indent = 2, ensure_ascii = False))

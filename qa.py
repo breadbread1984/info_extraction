@@ -31,7 +31,7 @@ def get_qa_chain(chain_type, llm, tokenizer):
   return load_qa_chain(llm, chain_type, **kwargs)
 
 class QA(object):
-  def __init__(self, tokenizer, llm, text, db_dir = 'db', locally = False):
+  def __init__(self, chain_type, tokenizer, llm, text, db_dir = 'db', locally = False):
     if exists(db_dir): rmtree(db_dir)
     # load pdf to vectordb
     text_splitter = RecursiveCharacterTextSplitter(chunk_size = 500, chunk_overlap = 0)
@@ -43,7 +43,7 @@ class QA(object):
         persist_directory = db_dir)
     self.vectordb.persist()
     # create chain
-    self.chain = get_qa_chain('stuff', llm, tokenizer)
+    self.chain = get_qa_chain(chain_type, llm, tokenizer)
   def query(self, question):
     docs = self.vectordb.get_relevant_documents(question)
     res = self.chain({'input_documents': docs, 'question': question}, return_only_outputs = True)

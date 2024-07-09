@@ -45,7 +45,7 @@ def main(unused_argv):
       formula = qa.query("what is the chemical formula of the electrolyte produced in the example?")
       materials = qa.query("what are the materials used in the example?")
       conductivity = qa.query("what is the conductivity of the electrolyte?")
-      content.append({"patent":f, "summary": summary, "chemical formula": formula, "starting materials": materials, "conductivity": conductivity})
+      content.append({"patent":f, "chemical formula": formula, "starting materials": materials, "conductivity": conductivity})
   with open(FLAGS.output_json, 'w', encoding = 'utf-8') as f:
     f.write(json.dumps(content, indent = 2, ensure_ascii = False))
 

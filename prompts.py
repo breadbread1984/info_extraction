@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 from langchain_core.prompts.prompt import PromptTemplate
+from langchain.output_parsers.regex import RegexParser
 
 def map_rerank_prompt(tokenizer):
   messages = [
@@ -58,7 +59,11 @@ Question: {question}
 Helpful Answer:"""}
   ]
   prompt = tokenizer.apply_chat_template(messages, tokenize = False, add_generating_prompt = True)
-  template = PromptTemplate(template = prompt, input_variables = ['context', 'question'])
+  template = PromptTemplate(template = prompt, input_variables = ['context', 'question'],
+                            output_parser = RegexParser(
+                              regex=r"(.*?)\nScore: (.*)",
+                              output_keys=["answer", "score"],
+                            ))
   return template
 
 def stuff_prompt(tokenizer):

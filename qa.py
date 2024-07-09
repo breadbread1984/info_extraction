@@ -6,7 +6,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.embeddings.huggingface import HuggingFaceEmbeddings
 from langchain.vectorstores import Chroma
 from langchain_core.vectorstores import VectorStoreRetriever
-from langchain.chains import RetrievalQA
+from langchain.chains.question_answering import load_qa_chain
 from models import Llama3
 from prompts import *
 

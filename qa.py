@@ -12,7 +12,7 @@ from prompts import *
 
 def get_qa_chain(chain_type, llm, tokenizer):
   assert chain_type in {"stuff", "map_reduce", "refine", "map_rerank"}
-  kwargs = {
+  extra_kwargs = {
     "stuff": {
       "prompt": stuff_prompt(tokenizer)
     },
@@ -28,7 +28,7 @@ def get_qa_chain(chain_type, llm, tokenizer):
       "prompt": map_rerank_prompt(tokenizer)
     }
   }
-  return load_qa_chain(llm, chain_type, **kwargs)
+  return load_qa_chain(llm, chain_type, **extra_kwargs[chain_type])
 
 class QA(object):
   def __init__(self, chain_type, tokenizer, llm, text, db_dir = 'db', locally = False):

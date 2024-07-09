@@ -7,6 +7,7 @@ from langchain.embeddings.huggingface import HuggingFaceEmbeddings
 from langchain.vectorstores import Chroma
 from langchain_core.vectorstores import VectorStoreRetriever
 from langchain.chains.question_answering import load_qa_chain
+from langchain.output_parsers.regex import RegexParser
 from models import Llama3
 from prompts import *
 
@@ -43,7 +44,7 @@ class QA(object):
         persist_directory = db_dir)
     self.retriever = vectordb.as_retriever()
     # create chain
-    self.chain = get_qa_chain(chain_type, llm, tokenizer)
+    self.chain = get_qa_chain(chain_type, llm, tokenizer, **({"output_parser": RegexParser(regex=r"(.*?)\nScore: (.*)", output_keys=["answer", "score"],)} if chain_type == 'map_rerank' else {}))
   def query(self, question):
     docs = self.retriever.get_relevant_documents(question)
     res = self.chain({'input_documents': docs, 'question': question}, return_only_outputs = True)

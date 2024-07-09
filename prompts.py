@@ -61,7 +61,7 @@ Helpful Answer:"""}
   prompt = tokenizer.apply_chat_template(messages, tokenize = False, add_generating_prompt = True)
   template = PromptTemplate(template = prompt, input_variables = ['context', 'question'],
                             output_parser = RegexParser(
-                              regex=r"(.*?)\nScore: (.*)",
+                              regex=r"Helpful Answer: (.*?)\nScore: (.*)",
                               output_keys=["answer", "score"],
                             ))
   return template

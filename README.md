@@ -13,6 +13,6 @@ python3 -m pip install -r requirements.txt
 ## Extract
 
 ```shell
-python3 main.py --input_dir <path/to/directory/of/patents> [--output_json <path/to/output/json>]
+python3 main.py --input_dir <path/to/directory/of/patents> --method (stuff|map_reduce|refine|map_rerank) [--output_json <path/to/output/json>]
 ```
 

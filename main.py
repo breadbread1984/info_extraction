@@ -47,9 +47,8 @@ def main(unused_argv):
       text = ''.join([doc.page_content for doc in loader.load()])
       #example = example_chain.invoke({'patent': text})
       info = analyze_chain.invoke({'context': text})
-      with open('example.txt', 'w') as f:
+      with open('%s.txt' % f, 'w') as f:
         f.write(info)
-      exit()
 
 if __name__ == "__main__":
   add_options()

@@ -89,7 +89,7 @@ Output synthesis method:
 """
   system_mesg = system_mesg.replace('{','{{')
   system_mesg = system_mesg.replace('}','}}')
-  human_mesg = """For the following given context, please extract the information of an electrolyte
+  human_mesg = """For the following given context, please extract the information of an electrolyte. don't use any information given in the example.
 
 context:
 

@@ -16,7 +16,7 @@ def extract_example_template(tokenizer):
   return template
 
 def customized_template(tokenizer):
-  system_mesg = """Extracting information of the electrolyte in example 1 as it is written in the context.
+  system_mesg = """Extracting information of the electrolyte in the first example as it is written in the context.
 The information of an electrolyte includes a target electrolyte, multiple corresponding precursors set each of which can independently produce the target electrolyte, the structure (crystal system and space group) of the electrolyte, ionic conductivity conductivity and synthesis method of the electrolyte.
 
 The following are several examples of how a set of precursor is extracted from a context.

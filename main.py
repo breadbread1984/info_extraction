@@ -30,9 +30,9 @@ def main(unused_argv):
     tokenizer, llm = Qwen2(FLAGS.locally)
   else:
     raise Exception('unknown model!')
-  extract_example_prompt = customized_template(tokenizer)
-  extract_example_chain = extract_example_prompt | llm
-  example_extract_chain = extract_example_template(tokenizer) | llm
+  analyze_prompt = customized_template(tokenizer)
+  analyze_chain = analyze_prompt | llm
+  #example_chain = extract_example_template(tokenizer) | llm
   for root, dirs, files in tqdm(walk(FLAGS.input_dir)):
     for f in files:
       stem, ext = splitext(f)
@@ -45,8 +45,8 @@ def main(unused_argv):
       else:
         raise Exception('unknown format!')
       text = ''.join([doc.page_content for doc in loader.load()])
-      example = extract_example_chain.invoke({'context': text})
-      info = example_extract_chain.invoke({'patent': example})
+      #example = example_chain.invoke({'patent': text})
+      info = analyze_chain.invoke({'context': text})
       with open('example.txt', 'w') as f:
         f.write(info)
       exit()

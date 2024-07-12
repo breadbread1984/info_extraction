@@ -16,7 +16,7 @@ def add_options():
   flags.DEFINE_string('input_dir', default = None, help = 'path to directory containing pdfs')
   flags.DEFINE_boolean('locally', default = False, help = 'whether run LLM locally')
   flags.DEFINE_string('output_json', default = 'output.json', help = 'path to output json')
-  flags.DEFINE_enum('model', default = 'llama3', enum_values = {'llama2', 'llama3', 'codellama', 'qwen2'}, help = 'model name')
+  flags.DEFINE_enum('model', default = 'qwen2', enum_values = {'llama2', 'llama3', 'codellama', 'qwen2'}, help = 'model name')
   flags.DEFINE_enum('type', default = 'map_rerank', enum_values = {'stuff', 'map_reduce', 'refine', 'map_rerank'}, help = 'QA chain type')
 
 def main(unused_argv):
@@ -45,10 +45,10 @@ def main(unused_argv):
       else:
         raise Exception('unknown format!')
       text = ''.join([doc.page_content for doc in loader.load()])
-      #example = example_extract_chain.invoke({'patent': text})
       example = extract_example_chain.invoke({'context': text})
+      info = example_extract_chain.invoke({'patent': example})
       with open('example.txt', 'w') as f:
-        f.write(example)
+        f.write(info)
       exit()
 
 if __name__ == "__main__":

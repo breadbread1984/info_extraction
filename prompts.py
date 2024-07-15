@@ -8,12 +8,41 @@ from langchain.output_parsers.regex import RegexParser
 
 def extract_example_template(tokenizer):
   messages = [
-    {"role": "system", "content": """Given a full text of a petent about how an electrolyte is produced. There is several examples of how the electrlyte is produced given in the text. please extract the original text of the first example."""},
+    {"role": "system", "content": """Given a full text of a patent about how an electrolyte is produced. There is several examples of how the electrlyte is produced given in the text. please extract the original text of the first example."""},
     {"role": "user", "content": "the full text:\n\n{patent}"}
   ]
   prompt = tokenizer.apply_chat_template(messages, tokenize = False, add_generating_prompt = True)
   template = PromptTemplate(template = prompt, input_variables = ["patent"])
   return template
+
+def extract_electrolyte_template(tokenizer):
+  class Electrolyte(BaseModel):
+    electrolyte: Dict[str, str] = Field(discription = "a dictionary representing an electrolyte whose keys are elements' chemical formulas and values are their proportions in float format.")
+  paser = JsonOutputParser(pydantic_object = Electrolyte)
+  instructions = parser.get_format_instructions()
+  system_message = """Given a full text of a patent about how an electrolyte is synthesised. Extract the elements and their proportions of the electrolyte synthesised in the first example.
+""" + \
+instructions + \
+"""
+The following are several examples of how an electrolyte target is extracted from a context.
+
+Example 1
+Input context:
+---------------------
+The resultant powdery sulfide-based solid electrolyte was analyzed through powdery X-ray diffraction (XRD) using an X-ray diffractometer (XRD) (Smart Lab Apparatus, manufactured by Rigaku Corporation). Any other peak than the peaks derived from the raw materials was not detected. Analyzed using an ICP emission spectrometric apparatus, the composition was Li:S:P:Br:I (by mol)=1.390:1.590:0.400:0.109:0.101.
+---------------------
+Output electrolyte:
+{"Li":1.390,"S":1.590,"P":0.400,"Br":0.109,"I":0.101}
+"""
+  system_message = system_message.replace('{','{{')
+  system_message = system_message.replace('}','}}')
+  messages = [
+    {"role": "system", "content": system_message},
+    {"role": "user", "content": "{patent}"}
+  ]
+  prompt = tokenizer.apply_chat_template(messages, tokenize = False, add_generation_prompt = True)
+  template = PromptTemplate(template = prompt, input_variables = ['patent'])
+  return template, parser
 
 def extract_precursor_template(tokenizer):
   class Precursors(BaseModel):

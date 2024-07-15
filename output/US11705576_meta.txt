@@ -1,0 +1,21 @@
+{
+  "electrolyte": {
+    "Li": 1.39,
+    "S": 1.59,
+    "P": 0.4,
+    "Br": 0.109,
+    "I": 0.101
+  },
+  "precursors": {
+    "Li2S": "0.661g",
+    "P2S5": "0.914g",
+    "Br2": "0.164g",
+    "I2": "0.261g",
+    "Dehydrated Chlorobenzene": "20g"
+  },
+  "conductivity": "2.0×10−3 S/cm",
+  "synthesis_method": "Mechanical milling at 500 rpm for 40 hours, followed by heating at 188°C for 3 hours",
+  "crystal_system": "cubic",
+  "space_group": "Fd-3m",
+  "example": "assistant\nThe original text of the first example in the provided description is:\n\nExample 1\nA planetary ball mill (trade name: Classic Line P-7, manufactured by Fritsch Japan Co., Ltd.) was set up. 0.661 g of lithium sulfide, 0.914 g of diphosphorus pentasulfide, 0.164 g of bromine, and 0.261 g of iodine were weighed, put into a container (45 cc, made of zirconia) for the planetary ball mill, and further 4 g of dehydrated chlorobenzene (water content: 10 ppm or less) was put thereinto, and the container was completely sealed up. This container was set in the planetary ball mill, and driven for simultaneous mixing, stirring and grinding at a table rotation number of 500 rpm for 40 hours to prepare a sulfide-based solid electrolyte.\n\n20 ml of dehydrated chlorobenzene was added to the slurry product containing the resultant sulfide-based solid electrolyte and the solvent, and collected in a 50-ml Schlenk bottle, and after a powder precipitated, the supernatant solvent was removed. Next, while heated at 100° C. in an oil bath, this was dried under reduced pressure using a vacuum pump to give a powdery sulfide-based solid electrolyte (80 (0.75 Li2S/0.25 P2S5)/10 LiBr/10 LiI, Li:S:P:Br:I (by mol)=1.400:1.600:0.400:0.100:0.100). The resultant powdery sulfide-based solid electrolyte was analyzed through powdery X-ray diffraction (XRD) using an X-ray diffractometer (XRD) (Smart Lab Apparatus, manufactured by Rigaku Corporation). Any other peak than the peaks derived from the raw materials was not detected. Analyzed using an ICP emission spectrometric apparatus, the composition was Li:S:P:Br:I (by mol)=1.390:1.590:0.400:0.109:0.101.\n\nThe resultant powdery amorphous sulfide-based solid electrolyte was heated on a hot plate set in a glove box, at 188° C. for 3 hours to give a crystalline sulfide-based solid electrolyte. Powdery X-ray diffractometry (XRD) of the resultant sulfide-based solid electrolyte gave crystallization peaks at 2θ=19.9°, 23.6°. The ion conductivity of the resultant crystalline sulfide-based solid electrolyte was measured to be 5.74×10−3 (S/cm), which confirmed such a high ion conductivity."
+}

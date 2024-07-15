@@ -1,0 +1,19 @@
+{
+  "electrolyte": {
+    "Li": 5.47,
+    "S": 4.59,
+    "Cl": 0.0,
+    "I": 1.67
+  },
+  "precursors": {
+    "Li2S": "0.464g",
+    "P2S5": "0.591g",
+    "LiCl": "0.360g",
+    "S": "0.085g"
+  },
+  "conductivity": "8.9 mS/cm",
+  "synthesis_method": "A synthesis method involving mechanical milling of lithium sulfide, phosphorus pentasulfide, lithium chloride, and elemental sulfur at 370 rpm for 25 hours using a planetary ball mill, followed by heat treatment at 520°C for 8 hours in an electric furnace.",
+  "crystal_system": "orthorhombic",
+  "space_group": "Pna21",
+  "example": "assistant\nThe original text of the first example is:\n\nExample 1\n[Lithium sulfide (purity: 98.5%), phosphorus pentasulfide (manufactured by Thermophos International, purity: 99.9% or more), lithium chloride (manufactured by Sigma Aldrich Co.; purity: 99%) and an elemental sulfur (manufactured by Sigma Aldrich Co.; purity: 99.9%) were used as starting materials (hereinafter, the purity of each starting material was the same). The raw materials were mixed such that the molar ratio of lithium sulfide (Li2S), phosphorus pentasulfide (P2S5), lithium chloride (LiCl) and elemental sulfur (S) (Li2S:P2S5:LiCl:S) became 42.2:11.1:35.6:11.1. Specifically, 0.464 g of lithium sulfide, 0.591 g of phosphorus pentasulfide, 0.360 g of lithium chloride and 0.085 g of an elemental sulfur were mixed to obtain a raw material mixture.\n\nThe raw material mixture and 30 g of zirconia balls having a diameter of 10 mm were placed in a zirconia pot (45 mL) of a planetary ball mill (manufactured by Fritsch Co., Ltd., model No. P-7) and completely sealed in a glove box in an atmosphere of argon. The inside of the pot was allowed to be an argon atmosphere. The mixture was treated (mechanical milling) for 25 hours at 370 rpm by means of a planetary ball mill, and powder (intermediate) was obtained. For the resulting intermediate, the results obtained by evaluation by XRD are shown in FIG. 1. From the resulting XRD pattern, it could be confirmed that major part of the resulting intermediate was glass.\n\nApproximately 1.5 g of the above-mentioned intermediate powder was packed in a Tammann tube (PT2, manufactured by Tokyo Glass Instruments Co., Ltd.) in a grove box under an argon atmosphere, and the mouth of the Tammann tube was dosed with a quartz wool, and the container was further sealed with a SUS sealed container so that no air could enter. Thereafter, the sealed container was placed in an electric furnace (FUW243PA, manufactured by AdvanTech) and heat-treated at a rate of 2.5° C./min from room temperature to 520° C. (increased to 520° C. in 3 hours), maintained at 520° C. for 8 hours, followed by slow cooling to obtain a sulfide solid electrolyte.\n\nThe photograph of the appearance of the sulfide solid electrolyte immediately after the recovery is shown in FIG. 2. It can be confirmed that most of the sulfide solid electrolyte is powdery. Part of an agglomerated body was easily pulverized by pulverization by a mortar.\n\nThe ionic conductivity (σ) of the sulfide solid electrolyte was 8.9 mS/cm, and the electron conductivity was less than 10−6 S/cm.\n\nThe XRD pattern of the sulfide solid electrolyte is shown in FIG. 3. A peak derived from the argyrodite type crystal structure was observed at 2θ=15.6, 18.0, 25.6, 30.1, 31.5, 45.2 and 48.1 deg. On the other hand, a peak at 17.6±0.4 deg derived from the Li3PS4 crystal structure was not observed.\n\nThe sulfide solid electrolyte was subjected to an ICP analysis, and the molar ratio of each element was measured. The ionic conductivity and the residual ratio were measured. The results are shown in Table 1."
+}

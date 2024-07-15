@@ -42,8 +42,8 @@ Lithium sulfide (purity: 98.5%), phosphorus pentasulfide (manufactured by Thermo
 Output precursors:
 {"Li2S": "0.464g", "P2S5": "0.591g", "LiCl": "0.360g", "S": "0.085g"}
 """
-  system_message.replace('{','{{')
-  system_message.replace('}','}}')
+  system_message = system_message.replace('{','{{')
+  system_message = system_message.replace('}','}}')
   user_message = """Extract the precursors from following context with the output format given and the end.
 
 context:

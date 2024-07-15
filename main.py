@@ -7,7 +7,6 @@ from tqdm import tqdm
 import json
 from langchain.document_loaders import UnstructuredPDFLoader, UnstructuredHTMLLoader, TextLoader
 from models import Llama2, Llama3, CodeLlama, Qwen2
-from qa import QA
 from chains import example_chain, electrolyte_chain, precursor_chain, conductivity_chain, synthesis_chain, structure_chain
 
 FLAGS = flags.FLAGS

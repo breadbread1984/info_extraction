@@ -18,7 +18,7 @@ def extract_example_template(tokenizer):
 def extract_electrolyte_template(tokenizer):
   class Electrolyte(BaseModel):
     electrolyte: Dict[str, str] = Field(discription = "a dictionary representing an electrolyte whose keys are elements' chemical formulas and values are their proportions in float format.")
-  paser = JsonOutputParser(pydantic_object = Electrolyte)
+  parser = JsonOutputParser(pydantic_object = Electrolyte)
   instructions = parser.get_format_instructions()
   system_message = """Given a full text of a patent about how an electrolyte is synthesised. Extract the elements and their proportions of the electrolyte synthesised in the first example.
 """ + \

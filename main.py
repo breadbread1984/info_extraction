@@ -60,6 +60,8 @@ def main(unused_argv):
       output.update(conductivity)
       synthesis = synthesis_chain_.invoke({'context': example})
       output.update(synthesis)
+      structure = structure_chain_.invoke({'patent': text})
+      output.update(structure)
       output['example'] = example
       with open('%s_meta.txt' % splitext(f)[0], 'w') as fp:
         fp.write(json.dumps(output, indent = 2))

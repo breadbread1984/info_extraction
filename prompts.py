@@ -171,8 +171,8 @@ Output synthesis method:
 
 def extract_structure_template(tokenizer):
   class Structure(BaseModel):
-    crystal_system: str = Field(description = "crystal system of the electrolyte thesised in the first example. the crystal system is one among triclinic, monoclinic, orthorhombic, tetragonal, trigonal, hexagonal, cubic"),
-    space_group: str = Field(description = "space group is string descript the specific category")
+    crystal_system: str = Field(description = "crystal system of the electrolyte thesised in the first example. the crystal system is one among triclinic, monoclinic, orthorhombic, tetragonal, trigonal, hexagonal, cubic")
+    space_group: str = Field(description = "space group is a string describing the specific category")
   parser = JsonOutputParser(pydantic_object = Structure)
   instructions = parser.get_format_instructions()
   system_message = """Given a full text of a patent about how an eletrolyte is synthesised. Extract the structure including crystal system and space group of the electrolyte produced in the first example.

@@ -111,6 +111,35 @@ context:
   template = PromptTemplate(template = prompt, input_variables = ['context'])
   return template, parser
 
+def extract_conductivity_template(tokenizer):
+  class Conductivity(BaseModel):
+    conductivity: str = Field(description = "conductivity of the electrolyte produced in the first example")
+  parser = JsonOutputParser(pydantic_object = Conductivity)
+  instructions = parser.get_format_instructions()
+  system_message = """Given a full text of a patent about how an electrolyte is synthesised. Extract the conductivity of the electrolyte in the first example.
+""" + \
+instructions + \
+"""
+The following are several examples of how the conductivity of an electrolyte is extracted from a context.
+
+Example 1
+Input context:
+---------------------
+The solid electrolyte prepared in Example was subjected to compression molding to thus produce a molded measurement body (diameter of 13 mm, thickness of 0.6 mm). AC potential of 10 mV was applied to the molded body, and impedance was measured at a frequency sweep of 1×106 to 100 Hz, and thus the lithium ion conductivity of the solid electrolyte was found to be very high, specifically 2.0×10−3 S/cm. Therefore, according to the preparation method of the present invention, a solid electrolyte can have high ion conductivity.
+---------------------
+Output conducivity:
+"2.0×10−3 S/cm"
+"""
+  system_message = system_message.replace('{','{{')
+  system_message = system_message.replace('}','}}')
+  messages = [
+    {'role': 'system', 'content': system_message},
+    {'role': 'user', 'content': "{patent}"}
+  ]
+  prompt = tokenizer.apply_chat_template(messages, tokenize = False, add_generation_prompt = True)
+  template = PromptTemplate(template = prompt, input_variables = ['patent'])
+  return template, parser
+
 def customized_template(tokenizer):
   system_mesg = """Extracting information of the electrolyte in the first example as it is written in the context.
 The information of an electrolyte includes a target electrolyte, multiple corresponding precursors set each of which can independently produce the target electrolyte, the structure (crystal system and space group) of the electrolyte, ionic conductivity conductivity and synthesis method of the electrolyte.

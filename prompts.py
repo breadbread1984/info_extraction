@@ -17,13 +17,13 @@ def extract_example_template(tokenizer):
 
 def extract_precursor_template(tokenizer):
   class Precursors(BaseModel):
-    precursors: Dict[str, str] = Field(description = "a dictionary whose key is a precur's chemical formula and value is its dosage.")
+    precursors: Dict[str, str] = Field(description = "a dictionary whose keys are precurs' chemical formulas and values are their dosages used in the reaction for the target electrolyte.")
   parser = JsonOutputParser(pydantic_object = Precursors)
   instructions = parser.get_format_instructions()
-  instructions = instructions.replace('{','{{')
-  instructions = instructions.replace('}','}}')
-  system_message = """The following text is a text about how an electrolyte is produced. Please extract precursor of the eletrolyte and its dosage in the reaction that generates the electrolyte. A precursor is a material that participates in a chemical reaction that produces a target electrolyte.
-
+  system_message = """The following text is about how an electrolyte is produced. Please extract precursors of the eletrolyte and their dosages in the reaction that generates the electrolyte. Precursors are materials that participate in a chemical reaction that produces a target electrolyte.
+""" \
++ instructions + \
+"""
 There are several examples of how a set of precursors is extracted from a context.
 
 Example 1
@@ -44,7 +44,7 @@ Output precursors:
 """
   system_message = system_message.replace('{','{{')
   system_message = system_message.replace('}','}}')
-  user_message = """Extract the precursors from following context.
+  user_message = """Extract the precursors and their dosages from following context.
 
 context:
 {context}

@@ -34,7 +34,7 @@ def main(unused_argv):
   example_template = extract_example_template(tokenizer)
   precursor_template, precursor_parser = extract_precursor_template(tokenizer)
   example_chain = example_template | llm
-  precursor_chain = precursor_template | llm
+  precursor_chain = precursor_template | llm | precursor_parser
 
   for root, dirs, files in tqdm(walk(FLAGS.input_dir)):
     for f in files:
@@ -53,7 +53,7 @@ def main(unused_argv):
         fp.write(example)
       precursors = precursor_chain.invoke({'context': example})
       with open('%s_precursor.txt' % f, 'w') as fp:
-        fp.write(precursors)
+        fp.write(json.dumps(precursors))
 
 if __name__ == "__main__":
   add_options()

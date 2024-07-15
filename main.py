@@ -8,7 +8,7 @@ import json
 from langchain.document_loaders import UnstructuredPDFLoader, UnstructuredHTMLLoader, TextLoader
 from models import Llama2, Llama3, CodeLlama, Qwen2
 from qa import QA
-from prompts import extract_example_template, customized_template
+from prompts import extract_example_template, extract_precursor_template, customized_template
 
 FLAGS = flags.FLAGS
 
@@ -30,9 +30,12 @@ def main(unused_argv):
     tokenizer, llm = Qwen2(FLAGS.locally)
   else:
     raise Exception('unknown model!')
-  analyze_prompt = customized_template(tokenizer)
-  analyze_chain = analyze_prompt | llm
-  #example_chain = extract_example_template(tokenizer) | llm
+  
+  example_template = extract_example_template(tokenizer)
+  precursor_template, precursor_parser = extract_precursor_template(tokenizer)
+  example_chain = example_template | llm
+  precursor_chain = precursor_template | llm | precursor_parser
+
   for root, dirs, files in tqdm(walk(FLAGS.input_dir)):
     for f in files:
       stem, ext = splitext(f)
@@ -45,10 +48,12 @@ def main(unused_argv):
       else:
         raise Exception('unknown format!')
       text = ''.join([doc.page_content for doc in loader.load()])
-      #example = example_chain.invoke({'patent': text})
-      info = analyze_chain.invoke({'context': text})
-      with open('%s.txt' % f, 'w') as f:
-        f.write(info)
+      example = example_chain.invoke({'patent': text})
+      with open('%s_example.txt' % f, 'w') as f:
+        f.write(example)
+      precursors = precursor_chain.invoke({'context': example})
+      with open('%s_precursor.txt' % f, 'w') as f:
+        f.write(json.dumps(precursors))
 
 if __name__ == "__main__":
   add_options()

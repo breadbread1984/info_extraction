@@ -15,7 +15,7 @@ def extract_example_template(tokenizer):
   template = PromptTemplate(template = prompt, input_variables = ["patent"])
   return template
 
-def precursor_template(tokenizer):
+def extract_precursor_template(tokenizer):
   class Precursors(BaseModel):
     precursors: Dict[str, str] = Field(description = "a dictionary whose key is a precur's chemical formula and value is its dosage.")
   parser = JsonOutputParser(pydantic_object = Precursors)

@@ -22,9 +22,9 @@ def extract_precursor_template(tokenizer):
   instructions = parser.get_format_instructions()
   instructions = instructions.replace('{','{{')
   instructions = instructions.replace('}','}}')
-  system_message = """The following text is a text about how an electrolyte is produced. Please extract precursor of the eletrolyte.
+  system_message = """The following text is a text about how an electrolyte is produced. Please extract precursor of the eletrolyte and its dosage in the reaction that generates the electrolyte. A precursor is a material that participates in a chemical reaction that produces a target electrolyte.
 
-The following are several examples of how a set of precursors is extracted from a context.
+There are several examples of how a set of precursors is extracted from a context.
 
 Example 1
 Input context:
@@ -44,14 +44,11 @@ Output precursors:
 """
   system_message = system_message.replace('{','{{')
   system_message = system_message.replace('}','}}')
-  user_message = """Extract the precursors from following context with the output format given and the end.
+  user_message = """Extract the precursors from following context.
 
 context:
 {context}
-
-format instruction:
-%s
-""" % instructions
+"""
   messages = [
     {"role": "system", "content": system_message},
     {"role": "user", "content": user_message}

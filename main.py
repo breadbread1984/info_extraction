@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
-from os import walk
+from shutil import rmtree
+from os import walk, mkdir
 from os.path import splitext, join, exists
 from absl import flags, app
 from tqdm import tqdm
@@ -14,11 +15,12 @@ FLAGS = flags.FLAGS
 def add_options():
   flags.DEFINE_string('input_dir', default = None, help = 'path to directory containing pdfs')
   flags.DEFINE_boolean('locally', default = False, help = 'whether run LLM locally')
-  flags.DEFINE_string('output_json', default = 'output.json', help = 'path to output json')
+  flags.DEFINE_string('output_dir', default = 'output', help = 'path to output directory')
   flags.DEFINE_enum('model', default = 'qwen2', enum_values = {'llama2', 'llama3', 'codellama', 'qwen2'}, help = 'model name')
-  flags.DEFINE_enum('type', default = 'map_rerank', enum_values = {'stuff', 'map_reduce', 'refine', 'map_rerank'}, help = 'QA chain type')
 
 def main(unused_argv):
+  if exists(FLAGS.output_dir): rmtree(FLAGS.output_dir)
+  mkdir(FLAGS.output_dir)
   if FLAGS.model == 'llama2':
     tokenizer, llm = Llama2(FLAGS.locally)
   elif FLAGS.model == 'llama3':
@@ -62,7 +64,7 @@ def main(unused_argv):
       structure = structure_chain_.invoke({'patent': text})
       output.update(structure)
       output['example'] = example
-      with open('%s_meta.txt' % splitext(f)[0], 'w') as fp:
+      with open(join(FLAGS.output_dir, '%s_meta.txt' % splitext(f)[0]), 'w') as fp:
         fp.write(json.dumps(output, indent = 2, ensure_ascii = False))
 
 if __name__ == "__main__":

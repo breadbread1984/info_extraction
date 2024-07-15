@@ -15,6 +15,51 @@ def extract_example_template(tokenizer):
   template = PromptTemplate(template = prompt, input_variables = ["patent"])
   return template
 
+def precursor_template(tokenizer):
+  class Precursors(BaseModel):
+    precursors: Dict[str, str] = Field(description = "a dictionary whose key is a precur's chemical formula and value is its dosage.")
+  parser = JsonOutputParser(pydantic_object = Precursors)
+  instructions = parser.get_format_instructions()
+  instructions = instructions.replace('{','{{')
+  instructions = instructions.replace('}','}}')
+  system_message = """The following text is a text about how an electrolyte is produced. Please extract precursor of the eletrolyte.
+
+The following are several examples of how a set of precursors is extracted from a context.
+
+Example 1
+Input context:
+---------------------
+A planetary ball mill (trade name: Classic Line P-7, manufactured by Fritsch Japan Co., Ltd.) was set up. 0.661 g of lithium sulfide, 0.914 g of diphosphorus pentasulfide, 0.164 g of bromine, and 0.261 g of iodine were weighed, put into a container (45 cc, made of zirconia) for the planetary ball mill, and further 4 g of dehydrated chlorobenzene (water content: 10 ppm or less) was put thereinto, and the container was completely sealed up. This container was set in the planetary ball mill, and driven for simultaneous mixing, stirring and grinding at a table rotation number of 500 rpm for 40 hours to prepare a sulfide-based solid electrolyte.
+---------------------
+Output precursors:
+{"Li2S": "0.661g", "P2S5": "0.914g", "Br2": "0.164g", "I2": "0.261g"}
+
+Example 2
+Input context:
+---------------------
+Lithium sulfide (purity: 98.5%), phosphorus pentasulfide (manufactured by Thermophos International, purity: 99.9% or more), lithium chloride (manufactured by Sigma Aldrich Co.; purity: 99%) and an elemental sulfur (manufactured by Sigma Aldrich Co.; purity: 99.9%) were used as starting materials (hereinafter, the purity of each starting material was the same). The raw materials were mixed such that the molar ratio of lithium sulfide (Li2S), phosphorus pentasulfide (P2S5), lithium chloride (LiCl) and elemental sulfur (S) (Li2S:P2S5:LiCl:S) became 42.2:11.1:35.6:11.1. Specifically, 0.464 g of lithium sulfide, 0.591 g of phosphorus pentasulfide, 0.360 g of lithium chloride and 0.085 g of an elemental sulfur were mixed to obtain a raw material mixture.
+---------------------
+Output precursors:
+{"Li2S": "0.464g", "P2S5": "0.591g", "LiCl": "0.360g", "S": "0.085g"}
+"""
+  system_message.replace('{','{{')
+  system_message.replace('}','}}')
+  user_message = """Extract the precursors from following context with the output format given and the end.
+
+context:
+{context}
+
+format instruction:
+%s
+""" % instructions
+  messages = [
+    {"role": "system", "content": system_message},
+    {"role": "user", "content": user_message}
+  ]
+  prompt = tokenizer.apply_chat_template(messages, tokenize = False, add_generation_prompt = True)
+  template = PromptTemplate(template = prompt, input_variables = ['context'])
+  return template, parser
+
 def customized_template(tokenizer):
   system_mesg = """Extracting information of the electrolyte in the first example as it is written in the context.
 The information of an electrolyte includes a target electrolyte, multiple corresponding precursors set each of which can independently produce the target electrolyte, the structure (crystal system and space group) of the electrolyte, ionic conductivity conductivity and synthesis method of the electrolyte.

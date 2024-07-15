@@ -63,7 +63,7 @@ def main(unused_argv):
       output.update(structure)
       output['example'] = example
       with open('%s_meta.txt' % splitext(f)[0], 'w') as fp:
-        fp.write(json.dumps(output, indent = 2))
+        fp.write(json.dumps(output, indent = 2, ensure_ascii = False))
 
 if __name__ == "__main__":
   add_options()

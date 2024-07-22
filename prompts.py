@@ -22,8 +22,8 @@ def exists_electrolyte_template(tokenizer):
   instructions = parser.get_format_instructions()
   system_message = """The following text is about how an electrolyte is produced. Please judge whether the ratio of elements in the electrolyte mentioned in the context is given. Please return 'present' if the ratio is present, 'not present' if the ratio is not present or the specific place (table or figure) where the ratio is given.
 """ + instructions
-  system_message.replace('{','{{')
-  system_message.replace('}','}}')
+  system_message = system_message.replace('{','{{')
+  system_message = system_message.replace('}','}}')
   messages = [
     {"role": "system", "content": system_message},
     {"role": "user", "content": "{context}"}

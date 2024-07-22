@@ -14,8 +14,8 @@ def example_chain(llm, tokenizer):
   return example_chain
 
 def exists_chain(llm, tokenizer):
-  exists_template = exists_electrolyte_template(tokenizer)
-  exists_chain = exists_template | llm
+  exists_template, parser = exists_electrolyte_template(tokenizer)
+  exists_chain = exists_template | llm | parser
   return exists_chain
 
 def electrolyte_chain(llm, tokenizer):

@@ -8,7 +8,7 @@ from tqdm import tqdm
 import json
 from langchain.document_loaders import UnstructuredPDFLoader, UnstructuredHTMLLoader, TextLoader
 from models import Llama2, Llama3, CodeLlama, Qwen2
-from chains import example_chain, electrolyte_chain, precursor_chain, conductivity_chain, synthesis_chain, structure_chain
+from chains import example_chain, exists_chain, electrolyte_chain, precursor_chain, conductivity_chain, synthesis_chain, structure_chain
 
 FLAGS = flags.FLAGS
 
@@ -33,6 +33,7 @@ def main(unused_argv):
     raise Exception('unknown model!')
   
   example_chain_ = example_chain(llm, tokenizer)
+  exists_chain_ = exists_chain(llm, tokenizer)
   electrolyte_chain_ = electrolyte_chain(llm, tokenizer)
   precursor_chain_ = precursor_chain(llm, tokenizer)
   conductivity_chain_ = conductivity_chain(llm, tokenizer)
@@ -55,6 +56,8 @@ def main(unused_argv):
       example = example_chain_.invoke({'patent': text})
       electrolyte = electrolyte_chain_.invoke({'patent': text})
       output.update(electrolyte)
+      exists = exists_chain_.invoke({'context': example})
+      output.update(exists)
       precursors = precursor_chain_.invoke({'context': example})
       output.update(precursors)
       conductivity = conductivity_chain_.invoke({'patent': text})

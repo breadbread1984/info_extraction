@@ -15,9 +15,26 @@ def extract_example_template(tokenizer):
   template = PromptTemplate(template = prompt, input_variables = ["patent"])
   return template
 
+def exists_electrolyte_template(tokenizer):
+  class Result(BaseModel):
+    present: str = Field(description = "'present', 'not present' or a spepcific place (table or figure) where the ratio is given")
+  parser = JsonOutputParser(pydantic_object = Result)
+  instructions = parser.get_format_instructions()
+  system_message = """The following text is about how an electrolyte is produced. Please judge whether the ratio of elements in the electrolyte mentioned in the context is given. Please return 'present' if the ratio is present, 'not present' if the ratio is not present or the specific place (table or figure) where the ratio is given.
+""" + instructions
+  system_message.replace('{','{{')
+  system_message.replace('}','}}')
+  messages = [
+    {"role": "system", "content": system_message},
+    {"role": "user", "content": "{context}"}
+  ]
+  prompt = tokenizer.apply_chat_template(messages, tokenize = False, add_generation_prompt = True)
+  template = PromptTemplate(template = prompt, input_variables = ['context'])
+  return template, parser
+
 def extract_electrolyte_template(tokenizer):
   class Electrolyte(BaseModel):
-    electrolyte: Dict[str, str] = Field(discription = "a dictionary representing an electrolyte whose keys are elements' chemical formulas and values are their proportions in float format.")
+    electrolyte: Dict[str, str] = Field(description = "a dictionary representing an electrolyte whose keys are elements' chemical formulas and values are their proportions in float format.")
   parser = JsonOutputParser(pydantic_object = Electrolyte)
   instructions = parser.get_format_instructions()
   system_message = """Given a full text of a patent about how an electrolyte is synthesised. Extract the elements and their proportions of the electrolyte synthesised in the first example.

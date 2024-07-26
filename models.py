@@ -74,11 +74,11 @@ def Llama3(locally = False):
   tokenizer = AutoTokenizer.from_pretrained('meta-llama/Meta-Llama-3-8B-Instruct')
   if locally:
     llm = HuggingFacePipeline.from_model_id(
-      model_id = "meta-llama/Meta-Llama-3-8B-Instruct",
+      model_id = "meta-llama/Meta-Llama-3.1-8B-Instruct",
       task = "text-generation",
       device = 0,
       pipeline_kwargs = {
-        "max_length": 16384,
+        "max_length": 131072,
         "do_sample": False,
         "temperature": 0.6,
         "top_p": 0.9,
@@ -90,9 +90,9 @@ def Llama3(locally = False):
   else:
     environ['HUGGINGFACEHUB_API_TOKEN'] = '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'
     llm = HuggingFaceEndpoint(
-      endpoint_url = "meta-llama/Meta-Llama-3-8B-Instruct",
+      endpoint_url = "meta-llama/Meta-Llama-3.1-8B-Instruct",
       task = "text-generation",
-      max_length = 16384,
+      max_length = 131072,
       do_sample = False,
       temperature = 0.6,
       top_p = 0.9,

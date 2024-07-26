@@ -87,6 +87,8 @@ def Llama3(locally = False):
         "return_full_text": False
       }
     )
+    llm.pipeline.tokenizer.pad_token_id = llm.pipeline.model.config.eos_token_id[0]
+    tokenizer.pad_token_id = llm.pipeline.model.config.eos_token_id[0]
   else:
     environ['HUGGINGFACEHUB_API_TOKEN'] = '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'
     llm = HuggingFaceEndpoint(

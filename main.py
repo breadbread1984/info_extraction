@@ -16,7 +16,7 @@ def add_options():
   flags.DEFINE_string('input_dir', default = None, help = 'path to directory containing pdfs')
   flags.DEFINE_boolean('locally', default = False, help = 'whether run LLM locally')
   flags.DEFINE_string('output_dir', default = 'output', help = 'path to output directory')
-  flags.DEFINE_enum('model', default = 'qwen2', enum_values = {'llama2', 'llama3', 'codellama', 'qwen2'}, help = 'model name')
+  flags.DEFINE_enum('model', default = 'llama3', enum_values = {'llama2', 'llama3', 'codellama', 'qwen2'}, help = 'model name')
 
 def main(unused_argv):
   if exists(FLAGS.output_dir): rmtree(FLAGS.output_dir)

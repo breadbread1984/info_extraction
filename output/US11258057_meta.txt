@@ -5,15 +5,17 @@
     "Cl": 1.7,
     "P": 1.0
   },
+  "present": "not present",
+  "detail": {},
   "precursors": {
-    "S": "11.9g",
-    "P": "2.3g",
-    "Li": "2.6g",
-    "LiCl": "3.1g"
+    "Elemental Sulfur": "11.9g",
+    "Elemental Phosphorus": "2.3g",
+    "Elemental Lithium": "2.6g",
+    "Lithium Chloride": "3.1g"
   },
   "conductivity": "2.0×10−3 S/cm",
-  "synthesis_method": "Mixing elemental sulfur, phosphorus, lithium powders and lithium chloride, followed by mechanical milling at approximately 360 RPM, then thermal treatment at around 500°C for 4 hours.",
+  "synthesis_method": "Mixing elemental sulfur, phosphorus, lithium, and lithium chloride powders, followed by milling at 360 RPM to amorphize the mixture, and subsequent thermal treatment at 500°C for 4 hours to crystallize the mixture into an argyrodite-type solid electrolyte.",
   "crystal system": "orthorhombic",
   "space group": "Pna21",
-  "example": "assistant\nThe original text of the first example is:\n\n(S1) A powder mixture was obtained by mixing an elemental sulfur powder (made by Sigma Aldrich, sulfur), an elemental phosphorus powder (made by Sigma Aldrich, phosphorus), an elemental lithium powder (made by FMC, lithium powder) and a lithium chloride powder (made by Sigma Aldrich, LiCl). Specifically, 11.9 g of an elemental sulfur powder, 2.3 g of an elemental phosphorus powder, 2.6 g of an elemental lithium powder and 3.1 g of lithium chloride were weighed and mixed, thus obtaining a powder mixture. The molar ratio of the raw materials was Li:P:S:LiCl=5:1:5:1.\n\n(S2) The powder mixture was mixed with 165 g of a xylene solvent and then placed in a planetary ball mill together with 1150 g of zirconia balls. Thereafter, milling was performed at about 360 RPM, whereby the powder mixture was amorphized.\n\n(S3) The amorphized powder mixture was crystallized through thermal treatment at a temperature of about 500°C for 4 hr, thereby yielding a solid electrolyte having an argyrodite-type crystal structure, as represented by Chemical Formula 2 below.\n\nLi6PS5Cl  [Chemical Formula 2]"
+  "example": "assistant\nThe original text of the first example is:\n\n(S1) A powder mixture was obtained by mixing an elemental sulfur powder (made by Sigma Aldrich, sulfur), an elemental phosphorus powder (made by Sigma Aldrich, phosphorus), an elemental lithium powder (made by FMC, lithium powder) and a lithium chloride powder (made by Sigma Aldrich, LiCl). Specifically, 11.9 g of an elemental sulfur powder, 2.3 g of an elemental phosphorus powder, 2.6 g of an elemental lithium powder and 3.1 g of lithium chloride were weighed and mixed, thus obtaining a powder mixture. The molar ratio of the raw materials was Li:P:S:LiCl=5:1:5:1.\n\n(S2) The powder mixture was mixed with 165 g of a xylene solvent and then placed in a planetary ball mill together with 1150 g of zirconia balls. Thereafter, milling was performed at about 360 RPM, whereby the powder mixture was amorphized.\n\n(S3) The amorphized powder mixture was crystallized through thermal treatment at a temperature of about 500°C for 4 hr, thereby yielding a solid electrolyte having an argyrodite-type crystal structure, as represented by Chemical Formula 2 below.\n\nLi6PS5Cl  [Chemical Formula 2]\n\nThis example demonstrates the preparation of a solid electrolyte for an all-solid battery using elemental sulfur, phosphorus, lithium, and lithium chloride powders as starting materials. The powders are mixed, amorphized through milling, and then crystallized to form a solid electrolyte with an argyrodite-type crystal structure."
 }

@@ -80,8 +80,6 @@ def Llama3(locally = False):
       pipeline_kwargs = {
         "max_length": 131072,
         "do_sample": False,
-        "temperature": 0.6,
-        "top_p": 0.9,
         "eos_token_id": [tokenizer.eos_token_id, tokenizer.convert_tokens_to_ids("<|eot_id|>")],
         "use_cache": True,
         "return_full_text": False
@@ -96,8 +94,6 @@ def Llama3(locally = False):
       task = "text-generation",
       max_length = 131072,
       do_sample = False,
-      temperature = 0.6,
-      top_p = 0.9,
       eos_token_id = [tokenizer.eos_token_id, tokenizer.convert_tokens_to_ids("<|eot_id|>")],
       use_cache = True,
     )

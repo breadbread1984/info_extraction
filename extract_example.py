@@ -55,7 +55,7 @@ def main(unused_argv):
   example_chain_ = example_chain(llm, tokenizer)
   patents = pd.read_csv(FLAGS.input_csv)
   for i in patents.index:
-    patent = sheet.iloc[i]['Description']
+    patent = patents.iloc[i]['Description']
     example = example_chain_.invoke({'patent': patent})
     with open(join(FLAGS.output_dir, str(i) + '.txt'), 'w') as f:
       f.write(example)

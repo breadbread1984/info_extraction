@@ -52,7 +52,7 @@ def main(unused_argv):
   if exists(FLAGS.output_dir): rmtree(FLAGS.output_dir)
   mkdir(FLAGS.output_dir)
   tokenizer, llm = Qwen2()
-  example_chain_ = example_chain(ll, tokenizer)
+  example_chain_ = example_chain(llm, tokenizer)
   patents = pd.read_csv(FLAGS.input_csv)
   for i in patents.index:
     patent = sheet.iloc[i]['Description']

@@ -14,7 +14,7 @@ FLAGS = flags.FLAGS
 
 def add_options():
   flags.DEFINE_string('input_csv', default = None, help = 'path to input csv')
-  flags.DEFINE_string('ouput_dir', default = 'examples', help = 'path to output directory')
+  flags.DEFINE_string('output_dir', default = 'examples', help = 'path to output directory')
 
 def Qwen2():
   login(token = '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')

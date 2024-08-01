@@ -17,7 +17,7 @@ def add_options():
   flags.DEFINE_float('lr', default = '2e-4', help = 'learning rate')
   flags.DEFINE_integer('epoch', default = 1, help = 'epochs')
   flags.DEFINE_integer('max_seq_length', default = 4096, help = 'max sequence length')
-  flags.DEFINE_integer('batch', default = 4, help = 'batch size')
+  flags.DEFINE_integer('batch', default = 1, help = 'batch size')
 
 def main(unused_argv):
   dataset = load_dataset('json', data_files = FLAGS.dataset, split = "train")

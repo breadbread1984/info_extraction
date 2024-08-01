@@ -47,7 +47,7 @@ def main(unused_argv):
           {'user': text},
           {'assistant': label if type(label) is str else json.dumps(label)}
         ]}
-        output_file.write(json.dumps(messages) + '\n')
+        output_file.write(json.dumps(messages, ensure_ascii = False) + '\n')
 
 if __name__ == "__main__":
   add_options()

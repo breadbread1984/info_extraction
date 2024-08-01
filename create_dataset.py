@@ -26,7 +26,7 @@ def main(unused_argv):
     for root, dirs, files in tqdm(walk(FLAGS.input)):
       for f in files:
         stem, ext = splitext(f)
-        if ext != 'json': continue
+        if ext != '.json': continue
         text_path = join(root, stem + '.txt')
         label_path = join(root, f)
         with open(text_path, 'r') as text_file:

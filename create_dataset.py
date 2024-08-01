@@ -42,7 +42,7 @@ def main(unused_argv):
           label = label['conductivity']
         else:
           raise Exception('unknown mode')
-        messages = {"message": [
+        messages = {"messages": [
           {'role': system_message},
           {'user': text},
           {'assistant': label if type(label) is str else json.dumps(label)}

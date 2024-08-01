@@ -40,8 +40,7 @@ def main(unused_argv):
     tokenizer = tokenizer,
     args = model_training_args,
     packing = True,
-    peft_config = lora_peft_config,
-    dataset_text_field = "message")
+    peft_config = lora_peft_config)
   trainer.train()
 
 if __name__ == "__main__":

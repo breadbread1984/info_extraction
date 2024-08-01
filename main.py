@@ -59,7 +59,7 @@ def main(unused_argv):
         raise Exception('unknown format!')
       text = ''.join([doc.page_content for doc in loader.load()])
       example = example_chain_.invoke({'patent': text})
-      output = chain.invoke({'patent': example})
+      output = chain.invoke({'context': example})
       with open(join(FLAGS.output_dir, '%s_meta.txt' % splitext(f)[0]), 'w') as fp:
         fp.write(output)
 

@@ -39,7 +39,7 @@ def extract_conductivity_template(tokenizer):
     {'role': 'user', 'content': '{context}'}
   ]
   prompt = tokenizer.apply_chat_template(messages, tokenize = False, add_generation_prompt = True)
-  template = PromptTemplate(template = prompt, input_variables = ['patent'])
+  template = PromptTemplate(template = prompt, input_variables = ['context'])
   return template
 
 def extract_synthesis_template(tokenizer):

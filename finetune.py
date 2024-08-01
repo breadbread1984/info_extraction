@@ -20,7 +20,7 @@ def add_options():
 
 def main(unused_argv):
   dataset = load_dataset('json', data_files = FLAGS.dataset, split = "train")
-  model = AutoModelForCausalLM.from_pretrained(FLAGS.pretrained_ckpt, attn_implementation = "flash_attention_2", trust_remote_code = True)
+  model = AutoModelForCausalLM.from_pretrained(FLAGS.pretrained_ckpt, trust_remote_code = True)
   tokenizer = AutoTokenizer.from_pretrained(FLAGS.pretrained_ckpt, trust_remote_code = True)
   model_training_args = TrainingArguments(
     output_dir = FLAGS.sft_ckpt,
@@ -40,7 +40,8 @@ def main(unused_argv):
     tokenizer = tokenizer,
     args = model_training_args,
     packing = True,
-    peft_config = lora_peft_config)
+    peft_config = lora_peft_config,
+    dataset_text_field = "message")
   trainer.train()
 
 if __name__ == "__main__":

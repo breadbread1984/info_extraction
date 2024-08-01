@@ -4,7 +4,7 @@ from absl import flags, app
 import torch
 from trl import SFTTrainer
 from datasets import load_dataset
-from peft import LoraConfig, get_peft_model, prepare_model_for_int8_training
+from peft import LoraConfig
 from transformers import AutoModelForCausalLM, AutoTokenizer, TrainingArguments
 
 FLAGS = flags.FLAGS

@@ -29,6 +29,7 @@ def main(unused_argv):
         if ext != '.json': continue
         text_path = join(root, stem + '.txt')
         label_path = join(root, f)
+        print('processing', label_path)
         with open(text_path, 'r') as text_file:
           text = text_file.read()
         with open(label_path, 'r') as label_file:

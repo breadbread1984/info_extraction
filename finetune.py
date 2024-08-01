@@ -17,6 +17,7 @@ def add_options():
   flags.DEFINE_float('lr', default = '2e-4', help = 'learning rate')
   flags.DEFINE_integer('epoch', default = 1, help = 'epochs')
   flags.DEFINE_integer('max_seq_length', default = 4096, help = 'max sequence length')
+  flags.DEFINE_integer('batch', default = 4, help = 'batch size')
 
 def main(unused_argv):
   dataset = load_dataset('json', data_files = FLAGS.dataset, split = "train")
@@ -24,7 +25,7 @@ def main(unused_argv):
   tokenizer = AutoTokenizer.from_pretrained(FLAGS.pretrained_ckpt, trust_remote_code = True)
   model_training_args = TrainingArguments(
     output_dir = FLAGS.sft_ckpt,
-    per_device_train_batch_size = 4,
+    per_device_train_batch_size = FLAGS.batch,
     optim = "adamw_torch",
     logging_steps = 80,
     learning_rate = FLAGS.lr,

@@ -1,0 +1,10 @@
+{
+    "electrolyte": {"Li":"0.43","P":"0.09","Cl":"0.10","S":"0.38"},
+    "precursors": {"Li2S":"none","P2S5":"none","LiCl":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involved weighing and mixing lithium sulfide, diphosphorus pentasulfide, and lithium chloride powders, ball milling the mixture, heating it in a tubular electric furnace with hydrogen sulfide gas flow, further heating at 500°C, crushing and sieving the sample, all conducted in a controlled environment, leading to the synthesis of a compound with a cubic argyrodite-type crystal structure of Li5.0PS4.4Cl1.2. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"Li2S":"none","P2S5":"none","Li3PO4":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involved mixing lithium sulfide, phosphorus pentasulfide, and lithium phosphate in a specific mol ratio, ball milling the mixture, forming a solid electrolyte glass through planetary ball milling, pelletizing, heating to 500°C, and cooling to obtain glass ceramics, constituting the solid electrolyte material. ",
+    "structure": {
+  "crystal_system": "ZrO2",
+  "space_group": "none"
+  }
+  }

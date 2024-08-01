@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"Li2S":"none","LiI":"none", "LiBr":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involved weighing Li2S, LiBr, and LiI in a specific ratio, subjecting them to mechanical milling treatment using a planetary ball mill, followed by pressing the obtained material into a pellet and analyzing the resulting composition through XRD patterns to confirm the presence of LiI, LiBr, and Li2S peaks. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

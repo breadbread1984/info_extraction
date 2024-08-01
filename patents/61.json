@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"Li2S":"none","P2S5":"none","LiI":"none", "LiBr":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involves weighing lithium sulfide, diphosphorus pentasulfide, lithium iodide, and lithium bromide according to a specific composition formula, mixing the raw materials, ball milling the mixture with ZrO2 balls in a planetary ball mill for 45 hours, heating the sulfide glass at a temperature higher than its crystallization temperature to obtain a glass ceramic, resulting in a sulfide-based solid electrolyte. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

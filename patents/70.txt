@@ -1,0 +1,8 @@
+assistant
+The original text of the first example is as follows:
+
+**Example 1:**
+
+As starting materials, lithium sulfide (Li2S) and diphosphorus pentasulfide (P2S5) were used. Next, in a glove box under an Ar atmosphere (dew point −70 °C.), Li2S and P2S5 have a molar ratio of 75Li2S · 25P2S5 (Li3PS4, ortho composition). Weighed as follows. 2 g of this mixture was mixed for 5 minutes in an agate mortar. Then, 2 g of the obtained mixture was put into a planetary ball mill container (45 cc, made of ZrO2), 4 g of dehydrated heptane (moisture content of 30 ppm or less) was added, and 53 g of ZrO2 balls (φ = 5 mm) were added. The container was completely sealed (Ar atmosphere). This container was attached to a planetary ball mill (P7 made by Fritsch), and mechanical milling was performed for 40 hours at a base plate rotation speed of 500 rpm. Thereafter, the obtained sample was dried at 150 °C. to obtain 75Li2S · 25P2S5 glass (sulfide solid electrolyte particles). Next, the obtained 75Li2S · 25P2S5 glass was heated to 700 °C. in vacuum to carbonize the heptane remaining on the surface, thereby obtaining the solid electrolyte material of the present invention.
+
+This example demonstrates the production of a solid electrolyte material through the preparation of sulfide solid electrolyte particles, followed by the carbonization of a liquid component (heptane) on their surface to form a carbon coat layer, resulting in a material with improved electronic conductivity.

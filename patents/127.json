@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"Li2S":"none", "LiBr":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involves preparing a lithium sulfide (Li2S) and lithium bromide (LiBr) material in a 1:1 molar ratio under an argon atmosphere, ball milling the mixture, subjecting it to high-pressure synthesis at 5.0 GPa and 300°C for 30 minutes, and finally characterizing the material's ionic conductivity through AC impedance spectroscopy testing. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

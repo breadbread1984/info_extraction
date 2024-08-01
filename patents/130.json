@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"YBr":"none", "LiBr":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involves mixing LiBr and YBr powders in a specific mole ratio under an argon atmosphere, grinding, milling at 600rpm for 25 hours using a planetary ball mill, and firing the mixture at 400°C for 48 hours in an argon atmosphere to produce a solid electrolyte material containing a Li-deficient crystal phase. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

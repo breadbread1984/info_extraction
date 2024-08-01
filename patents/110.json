@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"Li2S":"none","P2S5":"none","LiCl":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involved weighing Lithium sulfide (Li2S), diphosphorus pentasulfide (P2S5), and Lithium chloride (LiCl) powders, milling them for 15 hours, adding simple sulfur powder, mixing, filling the mixture in a carbon container, heating in a tubular electric furnace under Ar gas at specific temperatures, pulverizing the sample, and sieving to obtain a powdery sample. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

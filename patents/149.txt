@@ -1,0 +1,18 @@
+assistant
+The original text of the first example is:
+
+Example 1
+
+Li1 obtained by a known technique in which an oxide containing Ni as a main component and lithium hydroxide are mixed and fired. 025 Ni 0. 91 Co 0. 06 Al 0. 03 O &lt; 2  &gt; was used as a base material.
+
+100 g of pure water at 25 DEG C was added to 150 g of the base material to prepare a slurry, which was then washed with water for 15 minutes. After washing with water, the mixture was subjected to solid-liquid separation by filtration using Nutsche. The moisture content of the cleaning cake was 8.5% by mass.
+
+Next, 1.08 g of tungsten oxide (WO 3 ) was added to the washing cake so that the amount of W was 0.30 at% with respect to the total number of atoms of Ni, Co and Al contained in the lithium-nickel composite oxide, and TURBULA Type T2C manufactured by WAB Co., Ltd.) to obtain a mixed powder.
+
+The obtained mixed powder was placed in a bag made of aluminum, purged with nitrogen gas, laminated, and placed in a dryer heated to 80 DEG C for about 1 hour. After warming, it was taken out from the aluminum bag, transferred into a container made of SUS, allowed to stand dry for 10 hours using a vacuum drier heated to 190 占 폚, and then furnace-cooled.
+
+Finally, a sieve having an eye size of 38 탆 was sieved to obtain a positive electrode active material having a lithium tungstate compound on the surface of the primary particles.
+
+The obtained positive electrode active material was analyzed by the ICP method. As a result, it was confirmed that the tungsten content was 0.30 at.% Based on the total number of atoms of Ni, Co and Al, and that Li / Me was 0.99. The content of sulfuric acid radicals calculated on the basis of the sulfur content measured by the IPC method was 0.01 mass%.
+
+The positive electrode active material of Example 1 was used to manufacture a coin-type battery 1 as described in the text, and the battery characteristics were evaluated.

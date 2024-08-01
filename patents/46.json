@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"Li2S":"none","P2S5":"none","LiI":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involves weighing lithium sulfide, phosphorus pentoxide, and lithium iodide in a glove box under an Ar atmosphere to achieve specific molar ratios, milling the mixture in a planetary ball mill with dehydrated heptane, drying the sample to obtain a sulfide solid electrolyte material with a composition of 10LiI · 90(0.75Li2S · 0.25P2S5). ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

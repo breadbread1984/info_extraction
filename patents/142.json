@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"Li(C2H3O2)·2(H2O)":"20.4g","Mn(C2H3O2)":"24.5g","H2O":"none", "methanol":"none", "tetramethoxysilane":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involves mixing lithium acetate dihydrate, manganese acetate tetrahydrate, and tetramethoxysilane, grinding the mixture with zirconia pellets for 60 hours, drying, powdering, heat treating at 350°C, and further treating at 800°C in a reducing air stream to yield 13 g of Li2MnSiO4 with an 81% yield. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

@@ -1,0 +1,4 @@
+assistant
+The original text of the first example is as follows:
+
+Use lithium sulfide (Li2S) powder, phosphorus sulfide (P2S5) powder, and lithium chloride (LiCl) powder so that the total amount is 5 g so that the composition formula shown in Table 1 is obtained. Each was weighed and pulverized and mixed with a ball mill for 15 hours to prepare a mixed powder. The mixed powder is filled in a carbon container, and this is heated at a temperature rising / lowering rate of 200 °C./h while circulating 1.0 L/min of hydrogen sulfide gas (H2S, purity 100%) in a tubular electric furnace. Baked at 500 °C. for 4 hours. Thereafter, the sample was crushed with a mortar and sized with a sieve having an opening of 53 μm to obtain a powdery sample.

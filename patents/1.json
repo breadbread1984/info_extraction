@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"Li2S":"none","P2S5":"none","LiCl":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involves weighing and mixing lithium sulfide, diphosphorus pentasulfide, and lithium chloride powders, ball milling the mixture for 15 hours, filling it in a carbon container, heating it in a tubular electric furnace at 500°C while circulating hydrogen sulfide gas, crushing and sieving the resultant powder in a glove box filled with dried Ar gas. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

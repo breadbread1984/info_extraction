@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"Li2S":"none","P2S5":"none","LiSn":"none", "S":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involved two stages: 1) High-energy ball milling of lithium, phosphoric sulfide, lithium-tin alloy powder, and Cosan in a specific molar ratio in a planetary ball mill for 5 hours to create a Lithium sulfur phosphor tin mixture, and 2) Secondary high-energy ball milling with added silver iodide and silver chlorate in a glove box under argon gas for 36 hours to obtain an amorphous li sulfur phosphor tin mixture containing the silver compounds. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

@@ -1,0 +1,8 @@
+assistant
+The original text of the first example is as follows:
+
+**Example 1**
+
+As starting materials, lithium sulfide (Li2S, manufactured by Nippon Kagaku Kogyo Co., Ltd.), diphosphorus pentasulfide (P2S5, manufactured by Aldrich) and tin sulfide (SnS2, manufactured by High Purity Chemical Co., Ltd.) were used. These powders were mixed in a glove box under an argon atmosphere at a ratio of 0.365069 g of Li2S, 0.390958 g of P2S5 and 0.243972 g of SnS2 to obtain a raw material composition. Next, 1 g of the raw material composition was placed in a zirconia pot (45 ml) together with zirconia balls (10 mmφ, 10 pieces), and the pot was completely sealed (argon atmosphere). This pot was attached to a planetary ball mill (P7 made by Fritsch), and mechanical milling was performed at a base plate rotation speed of 370 rpm for 40 hours. Thereby, an amorphous ion conductive material was obtained.
+
+Next, the obtained ion conductive material powder was placed in a carbon-coated quartz tube and vacuum-sealed. The pressure of the vacuum sealed quartz tube was about 30 Pa. Next, the quartz tube was placed in a firing furnace, heated from room temperature to 550 °C. over 6 hours, maintained at 550 °C. for 8 hours, and then gradually cooled to room temperature. Thus, a crystalline sulfide solid electrolyte material having a composition of Li3.275Sn0.275P0.725S4 was obtained. The above composition corresponds to the composition of Li = 0.25, δ = 1 in Li(4-x)((M2x)1−δSnδ)(1-x)PxS4.

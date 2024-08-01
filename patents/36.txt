@@ -1,0 +1,6 @@
+assistant
+Based on the description in the patent text, the original text of the first example for producing the sulfide-type compound particles is:
+
+"In order to allow a compound having an argyrodite-type crystal structure to have a composition of Li5.4PS4.4Cl0.8Br0.8, a lithium sulfide (Li2S) powder, a diphosphorus pentasulfide (P2S5) powder, a lithium chloride (LiCl) powder, and a lithium bromide (LiBr) powder were each weighed so as to be 5 g in the total amount, and pulverized and mixed in a ball mill for 15 hours. Then, 0.26 g of an elemental sulfur powder (α-sulfur, impurity content: 0.5% by mass, melting point: 112.8° C., boiling point: 444.6° C.), which represented 5 wt % of the total mixing powders, was added, and mixing was conducted in a mortar to obtain a mixed powder."
+
+This example describes the process of mixing lithium sulfide, diphosphorus pentasulfide, lithium chloride, and lithium bromide powders, adding 5 wt% elemental sulfur powder, and then mixing them in a mortar to produce the sulfide-type compound particles.

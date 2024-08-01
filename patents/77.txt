@@ -1,0 +1,7 @@
+assistant
+The original text of the first example is:
+
+```
+[ production of solid electrolyte Material ]
+409.3mg of LiCl and 547.3mg of YCl were weighed in an argon atmosphere having a dew point of-60 ℃ or lower3And 49.4mg SrCl2And mixing. Thereafter, a grinding treatment was performed at 600rpm for 12 hours using a planetary ball mill.
+```

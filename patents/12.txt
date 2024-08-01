@@ -1,0 +1,11 @@
+assistant
+
+The original text of the first example is:
+
+Example 1:
+80(0.70Li2S·0.30P2S5)·20Li3/2Al1/2N was synthesized by the following process.
+(preparation process) Li3N and AlN were weighed so that the molar ratio was 1.2:1, mixed in a mortar, and then pelletized. Next, heat treatment was performed at 750° C. for 1 hour to produce Li3/2Al1/2N. It was confirmed by XRD measurement that the main phase of the produced Li3/2Al1/2N was Li3/2Al1/2N. Next, Li2S (99.98%, Aldrich), P2S5 (99%, Aldrich) and Li3/2Al1/2N were added in moles in a glove box with an argon atmosphere with a dew point of -50°C or lower. After weighing so that the ratio was 56:24:20, they were mixed in a mortar to prepare a composition containing Li, P, S, N, and Al.
+
+(reaction process) The above composition was placed in a closed 80 mL zirconia pot containing 160 g of zirconia balls with a diameter of 4 mm. Milling was performed for 45 hours at a revolution speed of 510 rpm using a planetary ball mill (manufactured by FRITSCH, model number Premium line P-7) to obtain an intermediate. 
+
+(heat treatment process) The intermediate was heat-treated for 2 hours to obtain a sulfide solid electrolyte. This heat treatment was performed at a temperature that was higher than the crystallization temperature and not higher than 100° C. than the crystallization temperature. The crystallization temperature was determined by measuring DSC. DSC measurements were performed under the following conditions. That is, the temperature was raised from room temperature to 400° C. at a rate of 10° C./min using a DSC device (Thermo Plus DSC8230, manufactured by Rigaku Corporation) using a sealed SUS pan. The composition prepared by the above synthesis procedure was Sample A, the intermediate was Sample B, and the sulfide solid electrolyte was Sample C.

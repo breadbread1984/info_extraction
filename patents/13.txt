@@ -1,0 +1,13 @@
+assistant
+The original text of the first example in the provided document describes the preparation of a solid electrolyte for an all-solid battery using elemental sulfur, elemental phosphorus, elemental lithium, and a halogen compound. Here is the original text of the first example:
+
+(S1) A powder mixture was obtained by mixing elemental sulfur powder (manufactured by Sigma Aldrich, sulfur), elemental phosphorus powder (manufactured by Sigma Aldrich, phosphorus), elemental lithium powder (manufactured by FMC, lithium powder), and lithium chloride powder (manufactured by Sigma Aldrich, LiCl).
+
+Specifically, 11.9g of elemental sulfur powder, 2.3g of elemental phosphorus powder, 2.6g of elemental lithium powder, and 3.1g of lithium chloride were weighed and mixed to obtain a powder mixture. The molar ratio of the raw materials was Li: P: S: LiCl = 5:1:5: 1.
+
+(S2) The powder mixture was mixed with 165g of xylene solvent, and then placed in a planetary ball mill together with 1150g of zirconia balls. Thereafter, milling was performed at about 360RPM, thereby amorphizing the powder mixture.
+
+(S3) Crystallizing the amorphized powder mixture by heat treatment at a temperature of about 500°C for 4 hours, thereby producing a solid electrolyte having a digermorite-type crystal structure, as shown in chemical formula 2 below.
+
+[chemical formula 2]
+Li6PS5Cl

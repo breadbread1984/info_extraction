@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"Li2S":"none","P2S5":"none","LiCl":"none", "LiBr":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involved weighing lithium sulfide, lithium chloride, lithium bromide, and phosphorus pentasulfide powders, preparing a slurry with heptane, milling the mixture in a planetary ball mill for 50 hours using ZrO2 balls as the medium, resulting in the formation of a sulfide solid electrolyte. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

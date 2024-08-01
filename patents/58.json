@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"Li2S":"none","P2S5":"none","LiCl":"none", "LiBr":"none", "Li2O":"none"},
+    "conductivity": "3.6 mS/cm",
+    "synthesis_method": "The electrolyte synthesis process involves weighing lithium sulfide, lithium oxide, phosphorus pentasulfide, lithium chloride, and lithium bromide to a total of 5g, preparing a slurry with heptane, milling in a planetary ball mill with ZrO2 balls for 10 hours at 100 rpm, and firing the mixture at 500°C in an argon atmosphere for 4 hours to produce the solid electrolyte. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

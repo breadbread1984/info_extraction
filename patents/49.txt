@@ -1,0 +1,6 @@
+assistant
+The original text of the first example is:
+
+Example 1:
+>
+Li is formed in a molar ratio in an argon glove box in an Ar atmosphere having a dew point of-60 ℃ or lower 2 S:P 2 S 5 Li is weighed in a manner of=75:25 2 S powder and P 2 S 5 And (3) powder. They were put into a mortar for pulverization and mixing. The mixture was subjected to a grinding treatment at 510rpm using a planetary ball mill for 10 hours to obtain a glassy solid electrolyte. The glassy solid electrolyte was heat treated at 270℃for 15 minutes under an inert atmosphere. Thus, a glass-ceramic sulfide solid electrolyte was obtainedThe material being Li 2 S-P 2 S 5 And (3) powder. The sulfide solid electrolyte material of example 1 has a composition of Li 3 PS 4.

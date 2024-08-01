@@ -1,0 +1,10 @@
+{
+    "electrolyte": {"Li":"0.40","P":"0.08","Ge":"0.04", "S":"0.48"},
+    "precursors": {"Li2S":"0.7811g","P2S5":"0.7329g","GeS2":"0.4860g"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involved mixing lithium sulfide, diphosphorus pentasulfide, and germanium sulfide in a glove box under argon, milling the mixture in a planetary ball mill with ZrO2 balls for 40 hours to obtain an amorphous ion conductive material, followed by vacuum-sealing and heat treatment to produce sulfide solid electrolyte particles with a composition of Li3.35Ge0.35P0.65S4 (glass ceramic). ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

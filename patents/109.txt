@@ -1,0 +1,5 @@
+assistant
+The original text of the first example is:
+
+(Comparative Example 1)  
+As raw materials for the solid electrolyte, Li2S (manufactured by Mitsuwa Chemical Industry Co., Ltd.), P2S5 (manufactured by Aldrich Co.), and LiCl (manufactured by Kojundo Chemical Co., Ltd.) were used as Li5.4PS4.4Cl1.6. A total of 2 g was weighed to obtain the composition. That is, in the composition of the obtained solid electrolyte, the amount of Li element replaced by Na element (monovalent metal element M having a smaller ionization tendency than Li element) is 0. The raw material was put into a 45 mL ZrO2 pot together with a φ5 mm ZrO2 ball and 4 g of heptane to obtain a mixture. The precursor powder was obtained by milling the mixture at 500 rpm for 20 hours. The obtained precursor (500 mg) was pelletized, placed in a quartz tube, and vacuum-sealed. After firing the precursor at 350 °C. for 3 hours, the pellets were crushed in a mortar to obtain a powder sample of the solid electrolyte.

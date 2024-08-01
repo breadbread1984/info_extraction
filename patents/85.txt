@@ -1,0 +1,8 @@
+assistant
+The original text of the first example is:
+
+(preparation of Positive electrode mixture)
+Preparing elemental sulfur (positive electrode active material, high purity chemical), GeS2 (sulfide) and VGCF (conductive aid). These were weighed in the weight ratios shown in table 1, and the respective raw materials were mixed for 15 minutes in an agate mortar to obtain a raw material mixture. The resulting raw material mixture was charged into a container (45cc, ZrO) of a planetary ball mill 2 Preparation) and then adding ZrO2 The ball (phi 4mm, 96g) was sealed completely. This vessel was mounted on a planetary ball mill (P7, manufactured by Fritsch), and mechanical polishing was repeatedly carried out for a total of 48 hours by repeating a cycle of 1 hour of mechanical polishing (platform rotation speed 510rpm), 15 minutes of stopping, 1 hour of mechanical polishing in reverse (platform rotation speed 510rpm), and 15 minutes of stopping. Thus, a positive electrode mixture was obtained.
+
+(preparation of all-solid-State Battery)
+To 1cm2 The ceramic mold was charged with 100mg of solid electrolyte at a rate of 1 ton/cm2 Pressing to obtain the solid electrolyte layer. To one side of the mixture was added 7.8mg of a positive electrode mixture at 6 tons/cm2 Is pressed to prepareAnd a positive electrode layer. Lithium metal foil as a negative electrode layer was disposed on the opposite side thereof at a rate of 1 ton/cm2 And pressed, thereby obtaining a power generating element. An Al foil (positive electrode current collector) is disposed on the positive electrode layer side, and a Cu foil (negative electrode current collector) is disposed on the negative electrode layer side. Thus, an all-solid battery was obtained.

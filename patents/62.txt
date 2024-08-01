@@ -1,0 +1,11 @@
+assistant
+The original text of the first example is:
+
+Embodiment 1
+The present embodiment provides a method for preparing a solid electrolyte and a solid electrolyte prepared thereof. The method includes following steps.
+
+(1) Powders of Li2CO3, Y2O3, ZrO2 and NH4H2PO4 were mixed together and ball milled to form a powder mixture, in which amounts of these powders were based on the stoichiometric ratio of Li1.1Y0.1Zr1.9(PO4)3. Then the powder mixture was placed on an alumina crucible and calcined at 800°C for 6 h in a muffle furnace, and then cooled to obtain the internal component. The internal component was tested by X-ray diffraction (XRD), and the test results show that the internal component has a chemical formula Li1.1Y0.1Zr1.9(PO4)3.
+
+(2) Powders of LiOH, H3BO3 and NH4H2PO4 and internal component powders were added into deionized water with stirring, in which amounts of these powders of LiOH, H3BO3 and NH4H2PO4 were based on the stoichiometric ratio of Li0.15B0.95PO4 and the internal component was 98 wt% of the total weight of the solid electrolyte, and then the pH of the system was adjusted in such a way that a uniform gel of formula Li0.15B0.95PO4 was generated and coated on the surface of the internal component to form a composite. The composite was dried. The coated component of the composite was tested by inductively coupled plasma-atomic emission spectrometry (ICP-AES) and phosphorus molybdenum blue colorimetric, and the results showed that the coated component has a chemical formula Li0.15B0.95PO4.
+
+(3) The dried composite was molded into sheets by pressing. The sheets were placed on an alumina crucible and the crucible was placed in a muffle furnace. Then the muffle furnace is operated, such that the temperature of the sheets was increased to 1000°C with a heating rate of 2°C/min, and the sheets were kept at 1000°C for 24h. The heated sheet was cooled to obtain a solid electrolyte A1 for lithium ion batteries.

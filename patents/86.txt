@@ -1,0 +1,9 @@
+assistant
+The original text of the first example is:
+
+[ production of solid electrolyte Material ]
+Subjecting raw material powder LiCl, YCl to argon atmosphere with dew point below-60 deg.C3And ZrCl4The molar ratio of LiCl to YCl3:ZrCl4The weight was 2.9:0.9: 0.1. These were pulverized and mixed in a mortar. Then, a milling treatment was performed at 600rpm for 25 hours using a planetary ball mill.
+
+By the above, Li is obtained2.9Y0.9Zr0.1Cl6A powder of the solid electrolyte material of example 1 represented by the compositional formula (iv).
+
+The content of Li per unit weight in the entire solid electrolyte material of example 1 was measured by atomic absorption spectrometry, and the content of Y was measured by ICP emission spectrometry, with the contents of Li: Y: Zr being converted to a molar ratio. The ratio of Li to Y to Zr was 2.9:0.9:0.1 as prepared.

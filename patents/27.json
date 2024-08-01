@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"Li(OH)2":"242.91g","Mg(OH)2":"14.79g","LiNO3":"34.97g"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process includes preparing a precursor compound by mixing lithium hydroxide, magnesium hydroxide, and lithium nitrate, combining it with nickel hydroxide, subjecting the mixture to a sintering process with specific temperature profiles, followed by cooling, grinding to break aggregates, and sieving to obtain 10 μm particles. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

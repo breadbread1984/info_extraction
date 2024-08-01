@@ -1,0 +1,8 @@
+assistant
+The original text of the first example is as follows:
+
+**Example 1: Synthesis of sulfide solid electrolyte material without bridging sulfur**
+
+As starting materials, lithium sulfide (Li2S) and phosphorus pentasulfide (P2S5) were used. These powders were weighed in a glove box under an argon atmosphere so that Li2S: P2S5 = 75: 25 (molar ratio) and mixed in an agate mortar to obtain a raw material composition. Next, 1 g of the obtained raw material composition was put into a 45 ml zirconia pot, and zirconia balls (Φ10 mm, 10 pieces) were put into it, and the pot was completely sealed. This pot was attached to a planetary ball mill and mechanical milling was performed at a rotation speed of 370 rpm for 40 hours to obtain a sulfide solid electrolyte material (first sulfide solid electrolyte material) having no bridging sulfur.
+
+The relationship of Li2S: P2S5 = 75: 25 (molar ratio) is a relationship for obtaining the ortho composition described above, and the obtained sulfide solid electrolyte material does not have bridging sulfur.

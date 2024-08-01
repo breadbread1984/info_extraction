@@ -1,0 +1,3 @@
+assistant
+Example 1
+0.4359gLi will be mixed2S(99.999％)、0.3710gP2S5(99.999%) and 0.0323gP2O5(99.999 percent) and 0.1608g of LiCl (99.999 percent) are put into a mortar in a glove box protected by inert gas for full mixing, the mixed powder is tabletted by a tablet machine, the tabletted tablet is put into a quartz tube with one closed end, the quartz tube is vacuumized to 0.1Pa and sealed by burning; and then putting the sealed quartz tube into a muffle furnace, heating to 400 ℃ at the heating rate of 0.3 ℃/min, preserving the heat for 12 hours, and finally cooling in the furnace. Taking out the cooled block from the quartz tube, putting into a glove box, manually grinding into powder with a mortar to obtain cubic phase Li6PS4.4O0.6A Cl sulfide solid electrolyte.

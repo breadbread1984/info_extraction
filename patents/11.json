@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"Li2S":"0.88185g","P2S5":"0.70412g","LiCl":"0.316g", "SiO2":"0.06718g"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involved weighing and mixing lithium sulfide, diphosphorus pentasulfide, lithium chloride, and silicon dioxide, milling the mixture for over 2 hours, compressing the mixture into pellets, subjecting the pellets to heat treatment in a vacuum atmosphere up to 550°C, maintaining the temperature for 6 hours, and then cooling naturally to obtain the synthesized material in powder form. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

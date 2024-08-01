@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"S":"none","C":"none","N":"none", "O":"none", "Me":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involves creating metallorganic compounds of metals (Me) with materials like carbon (C), sulfur (S), nitrogen (N), and oxygen (O) in various combinations denoted as MeXCYNZSXXOYY, where Me represents metals like tin (Sn), antimony (Sb), lead (Pb), or their alloys, with specific variable definitions for X, Y, Z, XX, and YY. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

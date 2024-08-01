@@ -1,0 +1,7 @@
+assistant
+The original text of the first example is as follows:
+
+[Example 1]  
+As starting materials, lithium sulfide (Li 2 S, purity 99.9%, manufactured by Nippon Chemical Industry Co., Ltd.), diphosphorus pentasulfide (P 2 S 5, purity 99%, manufactured by Aldrich), and lithium phosphate (Li 3 PO 4). Next, in a glove box under an Ar atmosphere (dew point -70 ° C.), Li 2 S, P 2 S 5 and Li 3 PO 4 are replaced with Li 2 S: P 2 S 5 : Li 3 PO 4 = 37.5. Mixed at a molar ratio of 12.5: 50. This composition ratio corresponds to Li 3 PS 4 : Li 3 PO 4 = 1: 1, and corresponds to x = 2 in Li 3 PS 4-x O x.
+
+2 g of this mixture is put into a planetary ball mill container (45 cc, made of ZrO 2), dehydrated heptane (moisture content of 30 ppm or less, 4 g) is added, and ZrO 2 balls (φ = 10 mm, 10 pieces) are further added. The container was completely sealed (Ar atmosphere). This container was attached to a planetary ball mill (P7 made by Fritsch), and mechanical milling was performed 40 times with a base plate rotation speed of 500 rpm and a one-hour treatment and a 15-minute pause. Next, in order to remove heptane, drying was performed at 100 ° C. for 1 hour. Thereby, solid electrolyte glass (amorphous body) was obtained. Then, glass ceramics (solid electrolyte material) were obtained by performing heat processing with respect to solid electrolyte glass on conditions of Ar atmosphere and 500 degreeC for 10 hours.

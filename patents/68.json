@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"Li":"none","F":"none","Cl":"none", "Br":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involves creating a compound crystal with a specific composition formula, conducting X-ray diffraction measurements to identify characteristic peaks, adjusting preparation conditions for enhanced room temperature ionic conductivity, and utilizing the crystal as a solid electrolyte material with superior performance in all-solid-state lithium batteries. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

@@ -1,0 +1,47 @@
+assistant
+The original text of the first example is:
+
+[ production of solid electrolyte Material ]
+Subjecting raw material powders LiCl and YCl to argon atmosphere with dew point of-60 deg.C or below3As LiCl in terms of molar ratios: YCl32.7: 1.1. They were ground in a mortar and mixed. Thereafter, a milling treatment was performed at 600rpm for 25 hours using a planetary ball mill. Further, the resultant was fired in a furnace at 400 ℃ for 48 hours in an Ar (argon) atmosphere.
+
+By the above operation, the powder of the solid electrolyte material of example 1 containing the Li-deficient crystal phase was obtained.
+
+[ evaluation of lithium ion conductivity ]
+FIG. 3 is a schematic view showing a method of evaluating the ion conductivity.
+The press-molding die 300 is composed of an electrically insulating polycarbonate frame die 301, an electrically conductive stainless steel punch upper portion 303, and a punch lower portion 302.
+Using the configuration shown in fig. 3, the ion conductivity was evaluated by the following method.
+The powder of the solid electrolyte material of example 1 was filled in a die 300 for press molding in a dry atmosphere having a dew point of-30 ℃ or lower, and uniaxially pressed at 400MPa to prepare a conductivity measurement cell of example 1.
+The wire was wired from the upper punch part 303 and the lower punch part 302 while maintaining the pressurized state, and connected to a potentiostat (VersaSTAT 4, Princeton Applied Research) equipped with a frequency response analyzer, and the ionic conductivity at room temperature was measured by electrochemical impedance measurement.
+Preparation of solid electrolyte Material of example 1 measured at 22 deg.CThe ionic conductivity was 3.0X 10-4S/cm.
+
+[ evaluation of phase transition ]
+Fig. 4 is a graph showing the temperature dependence of the ion conductivity of the solid electrolyte.
+The results shown in fig. 4 were measured by the following method.
+That is, the conductivity measuring cell of example 1 was placed in a thermostatic bath, and the temperature dependence of the conductivity was measured in the temperature increasing step and the temperature decreasing step at a temperature in the range of-20 ℃ to 80 ℃.
+As shown in fig. 4, no sharp change in the conductance indicating a phase change (i.e., phase transition) was seen.
+
+[ analysis of Crystal Structure ]
+Fig. 5 is a diagram showing an XRD pattern.
+The results shown in fig. 5 were measured by the following method.
+That is, in the analysis of the crystal structure of the solid electrolyte, an X-ray diffraction pattern was measured in a dry environment with a dew point of-45 ℃ or lower using an X-ray diffraction apparatus (MiniFlex 600, rig aku). As the X-ray source, Cu-K alpha rays are used. That is, Cu-Ka radiation (wavelength: X)And) As the X-ray, X-ray diffraction was measured by the θ -2 θ method.
+In the X-ray diffraction pattern in example 1, peaks with relatively high intensities were observed at 15.74 °, 31.28 °, 40.76 °, 48.68 °, 53.46 °, and 59.08 °.
+These peaks and the lattice constantThe peak positions of a part of the X-ray diffraction patterns observed in the LYC phase when α is 90 °, β is 90 °, and γ is 90 ° are substantially coincident.
+Full width at half maximum (FWHM) of peak at 31.28 ° 2 θ and peak center value 2 θpHas a relationship of FWHM/2 thetap＝0.68％.
+Diffraction peaks derived from LiCl or from YCl3Peaks indicating the presence of phases other than the 1 st crystal phase, such as diffraction peaks, were not confirmed.
+The content of Li per unit weight in the entire solid electrolyte material of example 1 was measured by atomic absorption spectrometry, the content of Y was measured by ICP emission spectrometry, and the contents of Li and Y were converted to a molar ratio xLi，Total/xY，Total。xLi，Total/xY，Total2.62. Therefore, the solid electrolyte material described in example 1 contains Li represented by the composition formula2.80Y1.07Cl6The 1 st crystal phase deficient in Li represented by the composition formula (1).
+
+[ production of Secondary Battery ]
+The solid electrolyte material of example 1 and LiCoO as an active material were placed in an argon glove box2And (3) adding 70: 30 by volume. A mixture was prepared by mixing them in an agate mortar.
+In the insulating outer cylinder, the solid electrolyte material of example 1 in an amount corresponding to a thickness of 700 μm, the mixture agent 8.5mg and the Al powder 11.5mg were stacked in this order. The first electrode and the solid electrolyte layer were obtained by pressure molding them at a pressure of 300 MPa.
+Next, metal In (200 μm In thickness) was laminated on the opposite side of the solid electrolyte layer from the side In contact with the 1 st electrode. The laminate was press-molded at a pressure of 80MPa to produce a laminate composed of the first electrode, the solid electrolyte layer, and the second electrode.
+Next, stainless steel current collectors were disposed on the upper and lower sides of the laminate, and current collecting leads were attached to the current collectors.
+Finally, the inside of the insulating outer cylinder is sealed by using an insulating ferrule (ferule) while being blocked from the outside air atmosphere.
+Through the above operations, the secondary battery of example 1 was produced.
+
+[ Charge/discharge test ]
+Fig. 6 is a graph showing initial discharge characteristics.
+The results shown in fig. 6 were measured by the following method.
+That is, the secondary battery of example 1 was placed in a thermostatic bath at 25 ℃.
+Constant current charging was performed at a current value of 0.05C rate (20 hour rate) with respect to the theoretical capacity of the battery, and the charging was terminated at a voltage of 3.6V.
+Then, similarly, the discharge was performed at a current value of 0.05C rate, and the discharge was terminated at a voltage of 1.9V.
+As a result of the above measurement, the initial discharge capacity of the secondary battery of example 1 was 596 μ Ah.

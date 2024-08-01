@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"LiBr":"none","YBr":"none","LiCl":"none", "YCl3":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involves weighing and mixing LiBr, YBr, LiCl, and YCl3 powders in a specific molar ratio within a controlled dry, low-oxygen atmosphere, followed by pulverization, mixing, and 25 hours of grinding using a planetary ball mill in a glove box environment. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

@@ -1,0 +1,13 @@
+assistant
+The original text of the first example is as follows:
+
+(1) Preparation of Sulfide Solid Electrolyte (Intermediate)
+The Li2S produced in Production Example 1, diphosphorus pentasulfide (P2S5, manufactured by Sigma-Aldrich Co. LLC), and lithium chloride (LiCl, manufactured by Sigma-Aldrich Co. LLC) were mixed so that the molar ratio (Li2S:P2S5:LiCl) was 19:5:16 to obtain a mixture of starting materials. 200 g of the mixture and 1780 g of 20 mm-diameter zirconia balls were placed in a container made of SUS (volume 6 L). The container was attached to a vibrating mill (MD-3, manufactured by Chuo Kakohki Co., Ltd.) and mechanical energy was added (mechanical milling treatment) to obtain a sulfide solid electrolyte (intermediate), a white-yellowish powder. The processing conditions of the vibration mill were 1500 revolutions per second and 120 hours at 40° C. under a nitrogen atmosphere having a dew point of −40° C. or less.
+
+(2) Particulation of Intermediate
+30 g of the above intermediate were particulated in a nitrogen-atmosphere glove box using a jet mill (NJ-50, manufactured by Aisin Nano Technologies, CO., LTD). The treatment condition was that treatment rate was 180 g/hour (treatment time: 10 minutes), nitrogen was used as the grinding gas, the input gas pressure was 2.0 MPa, and the grinding gas pressure was 2.0 MPa.
+
+(3) Production of Sulfide Solid Electrolyte Particles
+Approximately 10 g of the intermediate particles produced in the above (2) were packed into a Tamman tube (manufactured by Tokyo Garasu Kikai Co., Ltd.) in a glove box under an Ar atmosphere, the opening of the Tamman tube was dosed with quartz wool, and sealed with an enclosed container made of SUS so as not to enter the atmosphere. The enclosed container was then placed in an electric furnace (FUW243PA, manufactured by Advantech Toyo Kaisha, Ltd.) and heat treated. Specifically, the temperature was raised from room temperature to 430° C. at 2.5° C./min, and held at 430° C. for 1 hour. Thereafter, it was gradually cooled to obtain sulfide solid electrolyte particles.
+
+The D50 of the sulfide solid electrolyte particles was 4.3 μm. The ionic conductivity (σ) was 9.1 mS/cm.

@@ -1,0 +1,10 @@
+{
+    "electrolyte": {"Li":"0.43","P":"0.11","S":"0.46"},
+    "precursors": {"Li2S":"0.470526g","P2S5":"0.515941g","P":"0.013533g"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involves mixing lithium sulfide, diphosphorus pentasulfide, and red phosphorus powders in a glove box under an argon atmosphere, heating the mixture in a quartz tube to 550°C to obtain sample A, grinding the sample in a vibrating mill, heating the ground powder to 950°C to obtain sample B (an amorphized ion conductive material), and further heating the material to 300°C to obtain a sulfide solid electrolyte material with a composition of Li3.75P0.93S4. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

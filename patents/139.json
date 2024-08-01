@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"VPO4":"none","FNa":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The synthesis process involves combining specific transition metal compounds with sodium and phosphate sources using various starting materials, such as metal oxides and carbon as a reducing agent, followed by X-ray diffraction analysis to confirm the crystal structure and suitability for reversible sodium ion cycling in batteries. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

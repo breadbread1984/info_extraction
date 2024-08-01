@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"Li2S":"none","P2S5":"none","LiI":"none", "LiBr":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involves weighing lithium sulfide, phosphorus pentasulfide, lithium bromide, and lithium iodide in a specific molar ratio, milling them with tridecane and ZrO2 balls in a planetary ball mill for 20 hours to amorphize the raw materials, and then collecting and vacuum drying the resulting material to obtain the sulfide solid electrolyte. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

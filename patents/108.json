@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"Li2S":"none","P2S5":"none","LiX":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involves preparing a binary Co-doped S-Ag-Ge ore type solid electrolyte by mixing lithium sulfide (Li2S), phosphorus pentasulfide (P2S5), and lithium halide (LiX), grinding the mixture to obtain a stoichiometric ratio of Li6-xPS5-xX1+x, adding doping raw materials, uniformly grinding again, sintering the powder, keeping it warm, cooling, and grinding to achieve the final solid electrolyte powder. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

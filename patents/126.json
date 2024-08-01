@@ -1,0 +1,10 @@
+{
+    "electrolyte": {"Li":"0.33","Ti":"0.16", "S":"0.51"},
+    "precursors": {"Li2S":"none","TiS2":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involved weighing and mixing lithium sulfide (Li2S) and titanium disulfide (TiS2) powders in a 1:1 molar ratio in an argon-filled glove box, followed by mechanical milling treatment at 510 rpm for 20 to 100 hours using a ball mill with zirconia balls to produce Li2TiS3 powder. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

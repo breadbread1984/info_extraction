@@ -1,0 +1,10 @@
+{
+    "electrolyte": {"Li":"0.40","P":"0.09","Sn":"0.03", "S":"0.48"},
+    "precursors": {"Li2S":"0.365069g","P2S5":"0.390958g","SnS2":"0.243972g"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involves mixing lithium sulfide and diphosphorus pentasulfide powders with tin disulfide, milling the mixture in a planetary ball mill for 40 hours to obtain an amorphous ion conductive material, followed by heating the material in a firing furnace to 550°C for 8 hours to produce a crystalline sulfide solid electrolyte material with a composition of Li3.275Sn0.275P0.725S4. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

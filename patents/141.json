@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"Li2S":"0.3827g","P2S5":"0.6173g"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involves weighing lithium sulfide (Li2S) and phosphorus pentasulfide (P2S5) in a glove box under an argon atmosphere to achieve a specific molar ratio, mixing the powders in an agate mortar to obtain a raw material composition, which is then subjected to mechanical milling in a planetary ball mill for 40 hours to produce an amorphized sulfide solid electrolyte material. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

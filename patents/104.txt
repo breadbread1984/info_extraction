@@ -1,0 +1,14 @@
+assistant
+The original text of the first example is as follows:
+
+---
+
+**Example 1**
+
+As starting materials, lithium sulfide (Li2S, manufactured by Nippon Kagaku Kogyo Co., Ltd.), diphosphorus pentasulfide (P2S5, manufactured by Aldrich) and red phosphorus (P, manufactured by High Purity Chemical Laboratory) were weighed at the ratio shown in Table 1. The mixed raw material composition was placed in a carbon-coated quartz tube and vacuum sealed. The pressure of the vacuum sealed quartz tube was about 30 Pa. Next, the quartz tube was placed in a firing furnace, heated from room temperature to 550 °C. over 6 hours, maintained at 550 °C. for 8 hours, and then gradually cooled to room temperature. As a result, Sample A was obtained.
+
+Next, the obtained powder of Sample A was pulverized using a vibration mill. TI-100 manufactured by CM Science Co., Ltd. was used for the vibration mill. Specifically, 2 g of the sample A obtained by the above method and an alumina vibrator (φ36.3 mm, height 48.9 mm) are placed in a 10 mL zirconia pot and treated at a rotational speed of 1440 rpm for 30 minutes. Went. Thereafter, the obtained powder was placed in a carbon-coated quartz tube and vacuum-sealed. The pressure of the vacuum sealed quartz tube was about 30 Pa. Next, the quartz tube was placed in a baking furnace, heated from room temperature to 950 °C. over 2 hours, maintained at 950 °C. for 1 hour, and then the quartz tube was put into ice water and rapidly cooled. Thereby, a sulfide solid electrolyte material having a composition of Li3.75P0.93S4 (x = 0.07, y = 0.2, Li/P = 4.03) was obtained.
+
+---
+
+This example demonstrates the production of a sulfide solid electrolyte material with a specific composition through a series of steps involving heating, vacuum sealing, and rapid cooling, followed by further milling and heat treatment to achieve the desired properties.

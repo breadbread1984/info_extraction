@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"Li2S":"1.5g","P2S5":"0.5g"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involved mixing lithium sulfide (Li2S) and diphosphorus pentasulfide (P2S5) in a specific molar ratio, mechanically milling the mixture in a planetary ball mill with dehydrated heptane and ZrO2 balls under an Ar atmosphere, followed by drying, heating, and vacuum treatment to produce the solid electrolyte material. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

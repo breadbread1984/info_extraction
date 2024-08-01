@@ -1,0 +1,10 @@
+assistant
+The original text of the first example is:
+
+Comparative Example 1:
+The following experiment was carried out in a glove box under an Ar gas atmosphere at a dew point of −70° C. or less, unless otherwise stated.
+As starting materials, lithium sulfide (Li2S, manufactured by Mitsuwa Chemicals Co., Ltd.), diphosphorus pentasulfide (P2S5, manufactured by Aldrich), lithium iodide (LiI, manufactured by Aldrich) and lithium bromide (LiBr, manufactured by Aldrich) were used.
+The raw materials were weighed out according to the following composition formula: 10LiI·15LiBr·75(0.75Li2S·0.25P2S5) (mol %). Then, the raw materials were mixed to obtain a mixture.
+Next, 1 g of the mixture and 500 ZrO2 balls (diameter 4 mm) were put in a ZrO2 container (45 mL). Then, the container was hermetically closed.
+The container was installed in a planetary ball mill (product name: P-7, manufactured by: Fritsch) and subjected to mechanical milling at a plate rotational frequency of 510 rpm for 45 hours, thereby obtaining a sulfide glass.
+Under an Ar gas atmosphere, the sulfide glass was heated at a higher temperature (200° C. to 350° C.) than the crystallization temperature (Tc) of the sulfide glass measured by thermal analysis measurement, thereby obtaining a glass ceramic. The composition of the thus-obtained glass ceramic was 10LiI·15LiBr·75(0.75Li2S·0.25P2S5) on a molar basis. The thus-obtained glass ceramic was deemed as the sulfide-based solid electrolyte of Comparative Example 1. The BET specific surface area and crystallinity of the thus-obtained sulfide-based solid electrolyte were measured. The results are shown in Table 1.

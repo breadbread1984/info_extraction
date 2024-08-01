@@ -1,0 +1,5 @@
+assistant
+The original text of the first example is:
+
+Example 1: li3YCl5.7F0.3Solid electrolyte material
+Anhydrous YCl was weighed in a molar ratio of 0.9:3:0.1, respectively3LiCl and YF3Mixing uniformly, placing in a sealed quartz tube, heating to 520 ℃ under vacuum condition, preserving heat for 12h, carrying out solid phase sintering, cooling, grinding and crushing. The obtained product is F-Anion doped Li3YCl5.7F0.3A solid electrolyte material.

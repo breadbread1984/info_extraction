@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"Li2S":"none","B":"none","S":"none", "LiI":"none", "SiO2":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involved preparing a mixture of Li2S, Boron, Sulfur, SiO2, and LiI in specific molar ratios, pelletizing the mixtures, subjecting them to heat treatment at 500°C for 12 hours and 800°C for 20 hours in a quartz tube under vacuum, followed by quenching in ice water to obtain the desired powder material. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

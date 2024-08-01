@@ -1,0 +1,10 @@
+{
+    "electrolyte": {"Na":"none","K":"none","Fe":"none", "Mn":"none","O":"none"},
+    "precursors": {"FeC2O4":"none","(CH3COO)2Mn":"none","CH3COOK":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involves preparing potassium-rich layered metal oxides P3-KxFe0.2Mn0.8O2 via a high-temperature solid phase method, intercalating sodium ions by grinding with sodium blocks and the oxide material, wetting the mixture with NaClO4/EC/DEC electrolyte, washing the resulting slurry, centrifuging to obtain a precipitate, and finally drying the precipitate to obtain the Na-K co-embedded metal oxide cathode material NayKzFe0.2Mn0.8O2. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

@@ -1,0 +1,7 @@
+assistant
+The original text of the first example is:
+
+[Example 1]
+As a starting material sulfide, lithium (Li2S, from Nippon Chemical Co., Ltd.), a softening lithium (LiCl, kojyun FIG Chemical Laboratory, Ltd.) and, ohhwang tetroxide in (P2S5, available from Aldrich Chemical Co., Inc.) and sulfide, silicon (SiS2, Manufactured by Kojundo Chemical Co., Ltd.) was used. These powders were mixed in a glove box under an argon atmosphere at the weight ratios shown in Table 1 below to obtain a raw material composition. Subsequently, 1 g of the raw material composition was placed in a zirconia pot (45 ml) together with zirconia balls (10 mm?, 10 pieces), and the pot was completely sealed (argon atmosphere). This port was attached to a planetary ball mill (pre-production P7) and subjected to mechanical milling for 40 hours at 370 rpm. Thereby, an amorphized ion conductive material was obtained.
+
+Next, the obtained powder of the ion conductive material was placed in a carbon-coated quartz tube and vacuum-filled. The pressure of the vacuum enclosed quartz tube was about 30 Pa. Next, a quartz tube was set in a firing furnace, and the temperature was raised from room temperature to 475 DEG C over 6 hours, and the temperature was kept at 475 DEG C for 8 hours, and then the temperature was reduced to room temperature. Thus, a sulfide solid electrolyte material having a composition of Li0.39 Si0.076 P0.05 S0.45 Cl0.03 was obtained.

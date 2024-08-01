@@ -1,0 +1,8 @@
+assistant
+The original text of the first example is as follows:
+
+(1) Mixing Li2S、SnS2And P2S5Ball-milling for 1h in a high-energy ball mill (PM 400 type high-energy ball mill of Retsch company, the same below) at a rotation speed of 100rpm in an argon atmosphere at a molar ratio of 5:1:1 until uniform mixing is achieved, pressing the mixed powder into a tablet at a pressure of 10MPa, calcining the obtained tablet at 600 ℃ for 8h in an argon atmosphere, and obtaining a crystalline inorganic solid electrolyte as a solid material by XRD measurement, wherein the solid electrolyte comprises Li10SnP2S12The XRD pattern of the crystal particles of (1) is shown in fig. 2;
+
+(2) the obtained Li is mixed according to the mass ratio of 4:110SnP2S12Crystal particles and Li2S and P2S5Mixture of (Li)2S and P2S5In a mixture of (A) and (B) Li2S and P2S5In a molar ratio of 75:25) in an argon atmosphere at a rotation speed of 370rpm for 12h to prepare a solid electrolyte material, and measuring by a transmission electron microscopy and electron diffraction analysis method thereof in Li10SnP2S12Has a composition of 75Li grown in situ on the surface of the crystal particles2S-25P2S5The SEM picture of the amorphous inorganic solid electrolyte of (1) is shown in fig. 1.
+
+The obtained solid electrolyte material was subjected to a test after tabletting, and had an ionic conductivity of 1 at 25 ℃.42×10-3S/cm, and an ionic conductivity at 100 ℃ of 7.09X 10-3S/cm.

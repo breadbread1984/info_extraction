@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"Li2S":"none","P2S5":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involves weighing lithium sulfide (Li₂S) and phosphoric sulfide (P₂S₅) in a glove box to achieve a molar ratio of 75:25, mixing them in an agate mortar to obtain 1g compositions, followed by mechanical lapping in a planetary ball mill for 40 hours to produce a solid electrolyte material (75Li₂S·25P₂S₅ Glass), and then adding cupric oxide (CuO) as an inhibitor at 30% based on the solid electrolyte material and mixing in an agate mortar to obtain the lithium ion conducting material. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

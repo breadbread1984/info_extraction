@@ -1,0 +1,11 @@
+assistant
+The original text of the first example is as follows:
+
+[Example 1: Production of Li1.3Al0.3Ti1.7(PO4)3]
+1037.7 g of orthophosphoric acid (85%) was charged to the reactor. While vigorously stirring a mixture of 144.3 g Li2CO3, 431.5 g TiO2 (anatase form), and 46.8 g Al(OH)3 (gibbsite) using a Teflon coated anchor stirrer, a slow addition through the channel was made. The mixture was added very slowly over a period of 1 to 1.5 hours while reacting Li2CO3 and phosphoric acid to the end with vigorous foaming of the suspension due to CO2 formation. By the end of the addition, the white suspension became more viscous but still had the ability to form droplets.
+
+Subsequently, the mixture was heated in a furnace to 225°C and left at this temperature for 2 hours. A hard, friable crude product was formed that could only be partially removed from the reactor with difficulty. From the liquid state, complete solidification of the suspension via rubbery consistency occurred relatively quickly. However, for example, a sand bath or a hot water bath can be used instead of the furnace.
+
+The crude product was then pulverized over 6 hours to obtain a particle size of less than 50 μm.
+
+The pulverized premix was heated from 200°C to 900°C within 6 hours at a heating rate of 2°C/min. Otherwise, the heterogeneous phase of the crystals can be detected by powder X-ray diffraction (XRD). The product was then sintered at 900°C for 24 hours and then pulverized with a ball mill having porcelain spheres. The total amount of magnetic Fe, Cr, and Ni or these magnetic compounds was 0.75 ppm. The total amount of Fe and its magnetic compound was 0.25 ppm.

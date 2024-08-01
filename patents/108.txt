@@ -1,0 +1,22 @@
+assistant
+A process for preparing binary Co-doped S-Ag-Ge ore type solid electrolyte includes such steps as preparing lithium sulfide (Li2S), phosphorus pentasulfide (P)2S5) Mixing with lithium halide (LiX) and grinding uniformly to obtain a stoichiometric ratio of Li6-xPS5-xX1+x Adding the mixed material with x being more than or equal to 0 and less than or equal to 1, and then adding the doping raw material and grinding uniformly to obtain mixed powder; and then the mixed powder is sintered, kept warm for a period of time, cooled to room temperature and ground again to obtain the binary co-doped sulfur silver germanium ore type solid electrolyte powder.
+
+In the mixed powder, the mass percentage of lithium sulfide is 25-45%, the mass percentage of phosphorus pentasulfide is 20-40%, the mass percentage of lithium halide is 15-30%, and the mass percentage of doping raw materials is 5-25%.
+
+The lithium halide comprises lithium chloride, lithium bromide or lithium iodide; the halogen in the lithium halide comprises chlorine, bromine or iodine.
+
+The doping raw material comprises a doping material used for forming a P layer 5+ Site-doping of cations Mn+ Compound 1 of (2) and for use in S2- Site-doping anions Yz- Compound 2 of (a); the two elements of the binary co-doping come from different compounds 1 and 2 respectively, and no elements except lithium, phosphorus and sulfur are introduced.
+
+At P5+ Site-doped cation Mn+ Is greater than the ionic radius of phosphorus, compound 1 comprises M2Sn or MS(MS)n/2 Compound 2 comprises Liyz or PzY5 The method comprises the steps of carrying out a first treatment on the surface of the The molar ratio of the compound 1 to the compound 2 is 0.5-5: 1.
+
+The doping cation Mn+ Comprises Sn4+, As3+, Sb5+, Cu2+, Ce3+ Or In3+ The method comprises the steps of carrying out a first treatment on the surface of the Doping anions Yz- Includes F-, Cl-, Br-, I-, O2-, Se2- Or N3-.
+
+The compound 1 comprises SnS2, As2S3, Sb2S5, CuS, Ce2S3 Or In2S3 The method comprises the steps of carrying out a first treatment on the surface of the Compound 2 includes LiF, liCl, liBr, liI, li2O、P2O5、Li2Se、P2Se5 Or Li(lithium)3N.
+
+The grinding is carried out in a ball milling tank provided with grinding balls; the ball milling tank is made of stainless steel, polytetrafluoroethylene, corundum, polypropylene, nylon, polyurethane or zirconia, and the grinding balls comprise zirconia balls, agate balls, corundum balls or tungsten carbide balls.
+
+The mass ratio of the grinding balls to the balls of lithium sulfide, phosphorus pentasulfide and lithium halide is 1-20: 1, the ball milling rotating speed is 100-500 r min-1 The ball milling time is 0.5-6 h.
+
+The temperature rising rate of the mixed powder sintering is 1-10 ℃ for min-1 The sintering temperature is 300-550 ℃, and the heat preservation time is 3-24 hours.
+
+The mixed powder is sintered in an alumina crucible, a magnesia crucible or a platinum crucible which are nested in a quartz crucible or directly sealed in a quartz tube.

@@ -1,0 +1,14 @@
+assistant
+The original text of the first example is as follows:
+
+The electrolyte according to the present invention contains sulfur dioxide. The ratio of SO2 with respect to the conductive salt is a conductive salt per mole SO2 is at least 0.5 mol, in particular, conductive salt per mole SO2 is at least 0.1 mol. When the SO2 concentration was too low, an increase in the specific resistance of the electrolyte was observed. The electrolyte is a gel formed by the involvement of fluorosulphinate. For this purpose, fluoro sulfinate is, [SO2F]- are understood as a salt formed from an anion and any cation.
+
+A gel is usually understood as a dispersion consisting of at least two components, one of which is a solid, colloidal dispersion, often referred to as a thickener or gelling agent. Hereinafter, the term “gelling agent” is used. This gelling agent forms a spatial network within the gel, where the particles are linked to one another in several ways (eg by van der Waals forces, ionic crosslinking, SO2 crosslinking). The second component exists in the interstitial space of the network.
+
+In the context of the present invention, it has been found that a salt electrolyte containing a fluorosulfinate anion can create a gel electrolyte having highly advantageous properties by participating in the gel-forming reaction. This finding is based on experimental observations that the electrolyte system LiAlCl4xSO2 (SO2 system electrolyte containing lithium tetrachloroaluminate as a conductive salt) forms a gel when an appropriate fluoride is added. Further experimentation has revealed that the fluoride reacts with SO2 in the electrolyte to form a salt whose anion is [SO2F]−. If the cation in the fluoride is named Me, the reaction to form fluorosulfinate can be described as follows. (I) MeFy + SO2 → Me(MeSO2F)y
+
+Regarding the subsequent gel formation, the following mechanism is suggested based on the present inventor's current knowledge, but this is not yet fully confirmed. Hereinafter, for the purpose of illustration, the monovalent metal cation Me+ will be described.
+
+Reaction of fluorosulfinate with conductive salt, tetrachloroaluminate. This forms the Lewis acid aluminum chloride, which reacts with the fluorosulfinate in the Lewis acid / Lewis base reaction. This forms a metal complex and solid LiCl. By adding the metal halide MX to the electrolyte solution in advance, the precipitation of solid LiCl can be suppressed or completely prevented. Here, M is a metal from the third main group of the periodic table, and X is any one of fluorine, chlorine, bromine and iodine halogen. (II) LiAlCl4 + MeSO2F → LiCl + Me+ + [SO2FACl3]-
+
+Complex ion binding and network-like structure formation by sulfur dioxide in electrolyte solution: (III) Me+ + [SO2FACl3]− + LiAlCl4−·xSO2 → network-like structure

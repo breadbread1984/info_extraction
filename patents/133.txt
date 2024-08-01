@@ -1,0 +1,53 @@
+assistant
+The original text of the first example is as follows:
+
+(Example 1)
+
+(1) Production of lithium-nickel-containing composite oxide particles
+First, nickel sulfate hexahydrate and cobalt sulfate heptahydrate were dissolved in water at an atomic ratio of Ni: Co 82: 15 to prepare a 1.9 mol/L aqueous raw material solution, and an aqueous sodium hydroxide solution as a pH adjuster and aqueous ammonia as an ammonium ion donor were added dropwise to the aqueous raw material solution, and the solution temperature was adjusted to 50 °C and the pH value based on the solution temperature of 25 °C was adjusted to 12.0 to coprecipitate nickel-cobalt composite hydroxide particles.
+
+While stirring the slurry, a 1.7 mol/L aqueous solution of sodium aluminate and 64 mass% sulfuric acid as a pH adjuster were added so that the atomic ratio of Ni to Co to Al was 82 to 15 to 3, and the pH was adjusted to 9.5 based on the liquid temperature of 25 °C.
+
+The obtained aluminum-coated nickel-cobalt composite hydroxide particles (hereinafter referred to as "composite hydroxide particles") were washed with water, filtered, and dried to obtain powdery composite hydroxide particles. Emission spectroscopic analysis by ICPThe analysis results of the Ni, Co, and Al components obtained confirmed that the composite hydroxide particles were represented by the general formula: ni0.82Co0.15Al0.03(OH)2And (4) showing.
+
+The composite hydroxide particles and lithium hydroxide monohydrate were mixed at a predetermined mass ratio, and the lithium mixture was fired at 730 °C for 24 hours in an oxygen atmosphere to obtain lithium nickel-containing composite oxide particles as a starting material of the present invention, more specifically, lithium nickel cobalt aluminum composite oxide particles, and the composition analysis of L i, Ni, Co and Al was performed on the element ratio (atomic ratio) of the sintered particles by ICP emission spectrometry, and it was confirmed that the sintered particles were L i in terms of the amount of the sintered particles1.03Ni0.82Co0.15Al0.03O2And (4) showing.
+
+(2) Preparation of composite oxides containing lithium and nickel
+(2-1) mixing step
+The lithium nickel-containing composite oxide particles obtained above, lithium hydroxide monohydrate (manufactured by wako pure chemical industries, ltd., purity 98.0% to 102.0%), which is a lithium compound, and sodium chloride (manufactured by wako pure chemical industries, ltd., purity 99.5%) which is an alkali metal compound were weighed out, and mixed in a mortar so that the ratio of the amount of L i in the lithium compound to the total amount of the substances of nickel, cobalt, and aluminum elements in the lithium nickel-containing composite oxide particles was 0.2 and the ratio of the amount of the substance of sodium chloride to the total amount of the substances of nickel, cobalt, aluminum, and sodium chloride in the lithium nickel-containing composite oxide particles was 0.2, thereby obtaining a mixed powder.
+
+(2-2) first firing Process
+The mixed powder was fired by raising the temperature from room temperature (25 °C) to 830 °C at a rate of 1000 °C/h in an oxygen atmosphere, holding the mixture at 830 °C for 2 hours, and then lowering the temperature at a rate of 200 °C/h, thereby obtaining sintered particles.
+
+(2-3) washing step
+Next, the obtained sintered pellets were placed in a beaker, and about 1 g of the sintered pellets was added to 2g of the sintered pellets000ml of water (temperature 90 °C C.), washed, suction-filtered to remove flux components, and dried at 120 °C for 5 hours in a vacuum oven, and the element ratios (atomic ratios) of the dried sintered particles were analyzed by ICP emission spectrometry for L i, Ni, Co, and Al components, and the result showed that the sintered particles were L i0.97Ni0.82Co0.15Al0.03O2。
+
+(2-4) second firing Process
+As an amount for supplementing the deficiency of L i in the composition formula obtained by ICP emission spectrometry, lithium hydroxide monohydrate was weighed so that the amount of the substance in the washed sintered particles was 0.05 with respect to lithium nickel cobalt-containing composite oxide particles (sintered particles), and after mixing in a mortar, the temperature was raised from room temperature (25 °C) to 750 °C at a temperature rise rate of 1000 °C/h in an oxygen atmosphere, the temperature was maintained at 750 °C for 5 hours, and then the temperature was lowered at a temperature fall rate of 200 °C/h, whereby the sintered particles were fired to obtain a lithium nickel-containing composite oxide (lithium nickel cobalt aluminum composite oxide) as a positive electrode active material.
+
+The composition analysis of L i, Ni, Co and Al was carried out by ICP emission spectrometry, and it was confirmed that the element ratio (atomic ratio) of the finally obtained particles was L i as well as the predetermined constituent element ratio (atomic ratio)1.02Ni0.8Co0.2Al0.022O2。
+
+It was confirmed by X-ray powder diffraction measurement (using equipment, X' pert ProMPD (model number) manufactured by Sekiji (Spectris) K.K., measurement conditions, Cu-K α line, acceleration voltage 45kV), that the crystal had a layered rock salt crystal structure (α -NaFeO)2Structure). The ratio of the peak intensities [ (003)/(104) obtained from the X-ray powder diffraction intensity]Is 1.91, [ (006) + (102)]The value of 0.48 was assigned to "/(101). The L i site occupancy rate by the Tavorad analysis was 98.0%.
+
+The average particle size of the primary particles was 3.4 μm as observed by SEM (using equipment, JCM-5700, manufactured by Japan Electron Ltd., JEO L Co., Ltd.) and the BET specific surface area of the powder was 0.31m2G, andthe content of sodium derived from the flux component was 0.51 atomic% (when the total number of atoms of Ni, Co, and Al was regarded as 100).
+
+(3) Production and evaluation of Secondary Battery
+The obtained positive electrode active material comprising a lithium-nickel-containing composite oxide was used as a positive electrode material for a secondary battery, and battery characteristics were evaluated, specifically, charge/discharge characteristics and retention characteristics were measured to determine whether the positive electrode active material was used for a positive electrode active material.
+
+A 2032 type coin battery 1 shown in fig. 4 was produced. The 2032-type coin battery 1 is composed of a case 2 and electrodes 3 housed in the case 2.
+
+The case 2 has a hollow positive electrode can 2a with one end open, and a negative electrode can 2b disposed in an opening portion of the positive electrode can 2a, and a space for accommodating the electrode 3 is formed between the negative electrode can 2b and the positive electrode can 2a when the negative electrode can 2b is disposed in the opening portion of the positive electrode can 2 a.
+
+The electrode 3 is formed by stacking a positive electrode 3a, a spacer 3c, and a negative electrode 3b in this order, the positive electrode 3a is housed in the case 2 so as to be in contact with the inner surface of the positive electrode can 2a, and the negative electrode 3b is housed in the case 2 so as to be in contact with the inner surface of the negative electrode can 2 b.
+
+The case 2 further includes a gasket 2c, and the positive electrode can 2a and the negative electrode can 2b are fixed by the gasket 2c so as to be electrically insulated from each other. The gasket 2c also has a function of sealing a gap between the positive electrode can 2a and the negative electrode can 2b to seal the inside and outside of the case 2 in a gas-tight and liquid-tight manner.
+
+The 2032-type coin-type battery 1 was produced as follows. First, 90 mass% of the positive electrode active material, 5 mass% of acetylene black, and PVDF5 were weighed and mixed, and then an appropriate amount of NMP (n-methylpyrrolidone) was added thereto to prepare a paste. The positive electrode composite material paste was coated on an aluminum foil so that the surface density of the positive electrode active material was 3mg/cm2～5mg/cm2After vacuum drying at 120 °C and punching into a disk shape with a diameter of 14mm, the positive electrode 3a was produced. Lithium metal was used for the negative electrode 3b, and the electrolyte solution wasUsing L iPF containing 1M6Ethylene Carbonate (EC) and diethyl carbonate (DEC) as supporting salts were 3: the mixed solution at a ratio of 7 was assembled into a 2032 type coin cell 1 in a glove box having a dew point controlled at-80 °C in an Ar atmosphere.
+
+[ Charge-discharge Capacity ]
+After the production of the 2032-type coin-type cell 1, the cell was left to stand for about 24 hours, and after the open circuit voltage ocv (open circuit voltage) was stabilized, a charge/discharge test was carried out, in which the current density at 25 °C to the positive electrode was set to 10mA/g by weight of the positive electrode active material, the cell was charged to a cut-off voltage of 4.3V, and after 1 hour was stopped, the discharge capacity at the time of discharging to a cut-off voltage of 3.0V was measured, and the initial discharge capacity was determined, thereby evaluating the charge/discharge capacity. In this case, a multichannel voltage/current generator (R6741A, manufactured by edbons, ltd. アドバンテスト) was used for measuring the charge/discharge capacity.
+
+[ Retention characteristics ]
+After the coin-type cell 1 of 2032 type was produced and left to stand for about 24 hours, after the open circuit voltage ocv (open circuit voltage) was stabilized, constant current charging was carried out at 60 °C with the current density to the positive electrode set at 100mA/g based on the weight of the positive electrode active material and the cut-off voltage set at 4.300V, and then constant voltage charging was carried out until the current value became 10mA/g while maintaining the voltage at 4.300V. Then, the cell voltage was measured at a time point of holding at 60 °C for 70 hours.
+
+The production conditions of example 1 and the evaluation results of the characteristics of the secondary battery are shown in tables 1 and 2.

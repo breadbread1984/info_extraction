@@ -1,0 +1,9 @@
+assistant
+The original text of the first example is:
+
+Example 1
+1) Taking ferrous oxalate (FeC)2O4) And manganese acetate ((CH)3COO)2Mn) as a transition metal salt, potassium acetate (CH)3COOK) as potassium salt.
+2) Prepared by a high-temperature solid phase methodPotassium-rich layered metal oxides P3-K to P3 phasexFe0.2Mn0.8O2The method comprises the following steps: weighing 5mmol FeC2O4、20mmol(CH3COO)2Mn and 15mmol CH3COOK, grinding uniformly, placing into crucible, heating to 700 deg.C with muffle furnace at 2.5 deg.C/min, holding for 2 hr, taking out, and quenching in air to obtain P3-KxFe0.2Mn0.8O2(since K will evaporate a little, x here is about 0.5).
+3) Sodium ions are intercalated by a grinding method, which comprises the following steps: 200mg of sodium blocks (simple sodium) and 800mg of P3-K prepared in step 2) were weighed in a glove box (i.e. under an inert atmosphere)xFe0.2Mn0.8O2Grinding and mixing the mixture in a mortar, and dropwise adding 1ml of NaClO4the/EC/DEC electrolyte (sodium ion electrolyte) was used to wet the mixture and milling was continued for 15 minutes until a uniform, viscous slurry was formed.
+4) The slurry was allowed to stand in a glove box (i.e., under an inert atmosphere) for 1 hour, washed with absolute ethanol three times or more, and centrifuged to obtain a precipitate.
+5) Drying the precipitate obtained by centrifugation in a vacuum drying oven at 60 ℃ overnight to obtain the Na-K co-embedded metal oxide cathode material NayKzFe0.2Mn0.8O2。

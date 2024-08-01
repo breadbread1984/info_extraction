@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"Li2S":"0.598g","P2S5":"0.867g","I":"0.264g", "LiBr":"0.271g"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involved weighing lithium sulfide, diphosphorus pentasulfide, lithium bromide, and iodine, placing them in a container with dehydrated toluene, sealing it, ball milling the mixture for 40 hours at 500 rpm to create a sulfide-based solid electrolyte, precipitating the powder in dehydrated toluene, removing the solvent, and drying the powder at 80°C to obtain an amorphous sulfide-based solid electrolyte. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

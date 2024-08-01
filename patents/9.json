@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"Li2S":"0.464g","P2S5":"0.591g","LiCl":"0.360g", "LiBr":"0.085g"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involves mixing lithium sulfide, diphosphorus pentasulfide, lithium chloride, and elemental sulfur in a specific molar ratio, ball milling the mixture with zirconia balls in a planetary ball mill under an argon atmosphere for 25 hours to obtain an intermediate powder, transferring the powder to a Tanman tube in an Ar-filled glove box, heat treating it in an electric furnace by gradually raising the temperature to 520°C over 8 hours, maintaining it at 520°C for 8 hours, and then slowly cooling to obtain a sulfide solid electrolyte. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

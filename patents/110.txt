@@ -1,0 +1,6 @@
+assistant
+The original text of the first example is:
+
+"Lithium sulfide (Li 2 S) powder, diphosphorus pentasulfide (P 2 S 5 ) powder, and Lithium chloride (LiCl) powder was weighed so that the total amount was 5 g, and after pulverization and mixing in a ball mill for 15 hours, an amount of simple sulfur powder (α sulfur, melting point 113°C, boiling point 444°C) was added and mixed in a mortar to obtain a mixed powder. Then, the obtained mixed powder was filled to 80% volume of a carbon container (40 mm × 30 mm × 20 mm, non-airtight), and this was placed in a tubular electric furnace while Ar gas was circulated at 1.0 l / min. C. (product temperature) for 4 hours, and then further heated at 500.degree. C. (product temperature) for 4 hours. The temperature increasing/decreasing rate was 200° C./hr. Thereafter, the sample was pulverized in a mortar and sized with a sieve having an opening of 53 μm to obtain a powdery sample."
+
+This example describes a method for producing a crystalline sulfide-based solid electrolyte by adding simple sulfur powder to a mixture of lithium sulfide, diphosphorus pentasulfide, and lithium chloride powders, and then firing the mixture at a temperature higher than 300°C.

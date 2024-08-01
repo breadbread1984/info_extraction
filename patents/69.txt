@@ -1,0 +1,17 @@
+assistant
+The original text of the first example for producing the solid electrolyte is as follows:
+
+**Production Example 2 [Production of sulfide-based solid electrolyte glass (Li2S / P2S5 (molar ratio) = 75/25) —mechanical milling method—]**
+
+Using the lithium sulfide produced in **Production Example 1**, sulfide glass was produced by the method according to Example 1 of International Publication No. 07/0666539.
+
+Specifically, it was performed as follows:
+- 0.383 g (0.00833 mol) of lithium sulfide produced in **Production Example 1** and 0.618 g (0.00278 mol) of diphosphorus pentasulfide (Aldrich) were mixed well.
+- The mixed powder, 10 zirconia balls having a diameter of 10 mm, and a planetary ball mill (Fritsch Co., Ltd.: Model No. P-7) were put into an alumina pot and completely sealed, with the alumina pot filled with nitrogen as the atmosphere.
+- For the first few minutes, the planetary ball mill was rotated at a low speed (85 rpm) to sufficiently mix lithium sulfide and diphosphorus pentasulfide.
+- Thereafter, the rotational speed of the planetary ball mill was gradually increased to 370 rpm, and mechanical milling was performed at a rotational speed of 370 rpm for 20 hours.
+- As a result of evaluating the white yellow powder obtained by the mechanical milling treatment by X-ray measurement, it was confirmed that the powder was vitrified (sulfide glass).
+- When the thermophysical properties of this glass were examined by DSC, the glass transition point (Tg) was 172 °C. and the crystallization temperature (Tc) was 231 °C.
+- When 31 P-NMR measurement was performed as described below, the first peak was shown at 85.0 ppm, and the highest one of the intensity ratios of other peaks to the first peak (Iother/Ifirst) was 0.21.
+
+The 31 P-NMR measurement was carried out at room temperature by attaching a 5 mm CP / MAS probe to a JNM-CMXP302 NMR apparatus manufactured by JEOL Ltd. The 31 P-NMR spectrum was measured using a single pulse method at a 90° pulse of 4 μs and a magic angle rotation number of 8.6 kHz. Chemical shifts were obtained by using ammonium hydrogen phosphate as an external standard (1.3 ppm). The measurement range was 0 to 150 rpm.

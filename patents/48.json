@@ -1,0 +1,10 @@
+{
+    "electrolyte": {"Li":"0.74","ClO":"0.24","F":"0.02"},
+    "precursors": {"LiNO3":"6.528g","LiF":"0.048g","HNO3":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involves dissolving LiNO3 and LiF powders in HNO3, reacting for 12 hours, drying, sintering at 900°C for 3 days, washing with distilled water, calcining at 600°C, mixing with LiCl powder, adding water to form a gel-like mixture, heat-treating in an autoclave at 600°C for 2 hours in an oxygen atmosphere, and finally drying to obtain Li3-xClO1-xHalx (Li2.963ClO0.963F0.037). ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

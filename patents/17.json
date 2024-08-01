@@ -1,0 +1,10 @@
+{
+    "electrolyte": {"Li":"0.39","P":"0.09","Ge":"0.03","S":"0.49"},
+    "precursors": {"Li2S":"0.7769g","P2S5":"0.8673g","GeS2":"0.3558g"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involved mixing lithium sulfide, sodium sulfite, and germanium sulfide powders, molding the composition into pellets, vacuum-sealing in a quartz tube at about 30 Pa, heating in a furnace to 700°C for 8 hours to obtain Li3.25Ge0.25P0.75S4, pulverizing the material in a vibrating mill, remolding into pellets, vacuum-sealing, heating to 550°C for 8 hours, and cooling to room temperature to produce a crystalline sulphide solid electrolyte material with the same composition. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

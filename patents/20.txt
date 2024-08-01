@@ -1,0 +1,7 @@
+assistant
+The original text of the first example is:
+
+[Example 1: Synthesis of a-NbS3 powder]
+In a glove box in an argon atmosphere, a commercially available niobium sulfide (NbS2) powder and a commercially available sulfur (S8) powder are each made to have an element ratio of Nb:S = 1:3 and a charged weight of 1.0 g. After that, by using a 45 mL zirconia container containing about 500 zirconia balls having a diameter of 4 mm and performing mechanical milling treatment at 510 rpm for 60 hours with a ball mill apparatus (Fritche P7), it is amorphous. Sex NbS3 powder was obtained. The impurity concentration of the amorphous NbS3 powder was 2% by weight or less.
+
+This example describes the synthesis of amorphous niobium sulfide (a-NbS3) powder through mechanical milling of niobium sulfide (NbS2) and sulfur (S8) powders under argon atmosphere. The resulting powder has an element ratio of Nb:S = 1:3, an impurity concentration of 2% by weight or less, and is amorphous.

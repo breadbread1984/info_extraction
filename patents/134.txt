@@ -1,0 +1,6 @@
+assistant
+The original text of the first example is:
+
+Starting materials Li2S, P2S5, and LiCl were weighed in molar ratios and mixed in the mortar and then uniformly mixed for 6 hours on a planetary mill. The mixture thus obtained was made into pellets having a size of 15 pi and then subjected to a 550 degree heat treatment under a vacuum atmosphere to synthesize Li6PS5Cl.
+
+95 mg and 5 mg of the sulfide compound of Li6PS5Cl and TiO2 having an average particle diameter of about 100 nm were respectively weighed. The starting material was placed in a mixing vessel, and mixed at 2000 rpm for 1 minute or more. The mixture was recovered and compressed into a hydraulic press to be processed into pellets to prepare a solid electrolyte.

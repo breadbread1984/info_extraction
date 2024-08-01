@@ -1,0 +1,10 @@
+{
+    "electrolyte": {"Li":"0.63","P":"0.12","O":"0.01", "Ge":"0.07", "S":"0.17"},
+    "precursors": {"Li2S":"0.3495g","P2S5":"0.372641g","Li2O":"0.03082g", "GeS2":"0.2469g"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involves mixing lithium sulfide, lithium oxide, phosphorus pentoxide, and germanium sulfide in specific ratios under an argon atmosphere, pulverizing the composition using a vibration mill, molding the ion conductive material into a pellet shape, vacuum-sealing the pellet in a carbon-coated quartz tube, heating to 550°C, maintaining for 8 hours, and slowly cooling to room temperature to obtain a crystalline sulphide solid electrolyte material with a specific composition. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

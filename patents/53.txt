@@ -1,0 +1,8 @@
+assistant
+The original text of the first example is:
+
+"Lithium sulfide (Li 2 S), lithium oxide (Li 2 O), phosphorus pentoxide (P 2 S 5 ), and germanium sulfide (GeS 2 ) were used as starting materials. These powders were mixed with 0.3495 g of Li 2 S, 0.03082 g of Li 2 O, 0.372641 g of P 2 S 5 and 0.2469 g of GeS 2 in a glove box under an argon atmosphere to obtain a raw material composition. The obtained raw material composition was pulverized using a vibration mill. The vibratory mill used was TI-100 manufactured by CMT Scientific Corporation. Specifically, 1 g of the raw material composition and an alumina vibrator (36.3 mm in diameter, 48.9 mm in height) were placed in a 10-mL pot, and the treatment was carried out at a rotation number of 1440 rpm for 30 minutes. Thereby, an amorphized ion conductive material having a composition of Li 3.35 Ge 0.35 P 0.65 (S 0.95 O 0.05 ) 4 was obtained.
+
+Subsequently, the obtained ion conductive material was molded into a pellet shape, and the obtained pellet was placed in a carbon coated quartz tube and vacuum-sealed. The pressure of the vacuum-sealed quartz tube was about 30Pa. Subsequently, the quartz tube was placed in a firing furnace, and the temperature was raised from room temperature to 550 °C over 6 hours, maintained at 550 °C for 8 hours, and then slowly cooled to room temperature. Thereby, a crystalline sulphide solid electrolyte material having a composition of Li 3.35 Ge 0.35 P 0.65 (S 0.95 O 0.05 ) 4 was obtained."
+
+This example describes the synthesis of a sulfide solid electrolyte material by mixing lithium sulfide, lithium oxide, phosphorus pentoxide, and germanium sulfide in a specific ratio, followed by milling and heat treatment to obtain the desired material.

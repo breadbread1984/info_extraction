@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"Na2O":"none"," NiO":"none","CrO + FeO + MnO + CoO":"none", "p2o5 + sio2 + b2o3":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process for the positive electrode active material of a sodium ion secondary battery involves creating a composition with specific ranges of Na2O, NiO, and other metal oxide components, ensuring the presence of 15 to 70% of amorphous phase, crucial for ion movement, with careful control of each component's content to facilitate sodium ion occlusion and release during charging and discharging cycles. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

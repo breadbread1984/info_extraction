@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"Li2S":"none","P2S5":"none","LiCl":"none", "LiBr":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involves weighing and mixing lithium sulfide, phosphorus pentoxide, lithium chloride, and lithium bromide powders to form Li5.2PS4.2Cl0.9Br0.9, wet pulverization and mixing for 10 hours, vacuum drying, filling the mixed powder in a carbon container, passing hydrogen sulfide gas, heating at 300°C for 4 hours and then at 500°C for 4 hours, followed by pulverization, wet mixing, and sieving to obtain a powdery sulfur-containing compound in a controlled environment. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

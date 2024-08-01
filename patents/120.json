@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"Li2S":"none","P2S5":"none","LiI":"none", "LiBr":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involved weighing Li2S, P2S5, LiI, and LiBr to achieve a specific composition, mixing them in an agate mortar, then subjecting the mixture to two rounds of mechanical milling in a planetary ball mill with dehydrated heptane, followed by drying to obtain a coarse material, further pulverizing it into minute particles, and conducting additional mechanical milling with a different solvent mix to produce an amorphous sulfide solid electrolyte material. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

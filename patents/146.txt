@@ -1,0 +1,13 @@
+assistant
+The original text of the first example is as follows:
+
+**Production Example 1**
+*Manufacture of lithium sulfide*
+
+(1) **Manufacture of lithium sulfide**
+
+Lithium sulfide was manufactured according to the method of the 1st aspect (2 process method) in Unexamined-Japanese-Patent No. 7-330312. Specifically, N-methyl-2-pyrrolidone (NMP) 3326.4 g (33.6 mol) and lithium hydroxide 287.4 g (12 mol) were charged into a 10 liter autoclave equipped with a stirring blade, and at 300 rpm, the temperature was raised to 130 ° C. After the temperature rise, hydrogen sulfide was blown into the liquid at a supply rate of 3 liters / minute for 2 hours. Subsequently, this reaction solution was heated under a nitrogen stream (200 cc / min), and the reacted lithium hydrosulfide was dehydrosulfurized to obtain lithium sulfide. As the temperature increased, water produced as a by-product due to the reaction between hydrogen sulfide and lithium hydroxide started to evaporate, but this water was condensed by the condenser and extracted out of the system. While water was distilled out of the system, the temperature of the reaction solution rose, but when the temperature reached 180 ° C., the temperature increase was stopped and the temperature was kept constant. The reaction was completed after the dehydrosulfurization reaction of lithium hydrosulfide (about 80 minutes) to obtain lithium sulfide.
+
+(2) **Purification of lithium sulfide**
+
+After decanting NMP in the 500 mL slurry reaction solution (NMP-lithium sulfide slurry) obtained above, 100 mL of dehydrated NMP was added and stirred at 105 ° C. for about 1 hour. NMP was decanted at that temperature. Further, 100 mL of NMP was added, stirred at 105 ° C. for about 1 hour, NMP was decanted at that temperature, and the same operation was repeated a total of 4 times. After completion of the decantation, lithium sulfide was dried at 230 ° C. (temperature higher than the boiling point of NMP) under a nitrogen stream for 3 hours under normal pressure. The impurity content in the obtained lithium sulfide was measured.

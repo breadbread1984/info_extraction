@@ -1,0 +1,10 @@
+{
+    "electrolyte": {"LiI":"10%", "LiBr":"15%", "Li3P(S(1-x)Ox)4":"75%"},
+    "precursors": {"Li2S":"0.5157g","P2S5":"0.8317g","LiI":"0.2819g", "LiBr":"0.2744g", "Li3PO4":"0.0963g"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process entailed dry synthesis of a sulfide solid electrolyte material by mixing Li2S, P2S5, LiI, LiBr, and Li3PO4, ball milling the composition in a ZrO2 pot with heptane, forming a sulfide glass, pelletizing, vacuum sealing, heat treating at 180°C for 2 hours, and conducting a cracking treatment to achieve a sulfide solid electrolyte material with an oxygen substitution amount of 10 mol%. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

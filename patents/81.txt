@@ -1,0 +1,7 @@
+assistant
+The original text of the first example is:
+
+Example 1
+A sulfide solid electrolyte material was synthesized by a dry synthesis method. First, Li2S, P2S5, LiI, LiBr, and Li3PO4 were used as the raw materials. Mixed were 0.5157 g of Li2S, 0.8317 g of P2S5, 0.2819 g of LiI, 0.2744 g of LiBr, and 0.0963 g of Li3PO4 to obtain a raw material composition. The obtained raw material composition was projected into a ZrO2 pot (45 ml); further, 4 g of heptane and a ZrO2 ball (approximately 53 g) were projected thereinto to hermetically seal the pot completely. The hermetically sealed pot was mounted on a planetary ball mill machine (P7™ manufactured by FRITSCH JAPAN CO, LTD.) to perform mechanical milling at the number of soleplate revolutions of 500 rpm, for 1 hour and 15 minutes pause as a set, 20 sets. Thereafter the heptane was removed by drying at 100° C. for 1 hour on a hot plate inside the glove box to obtain a sulfide glass.
+
+The obtained 200 mg of the sulfide glass was formed into a pellet and vacuum sealed in a quartz tube; thereafter heat treated at 180° C. for 2 hours in a muffle furnace. Thereby, a sulfide solid electrolyte material was obtained. The composition of the obtained sulfide solid electrolyte material corresponded to “x”=0.1 (oxygen substitution amount: 10 mol %) in 10LiI.15LiBr.75(Li3P(S(1-x)Ox)4). Incidentally, a cracking treatment was appropriately conducted to uniform the particle size of the obtained sulfide solid electrolyte material.

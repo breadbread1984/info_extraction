@@ -1,0 +1,15 @@
+assistant
+The original text of the first example is as follows:
+
+Example 1
+(Synthesizing Step)
+The following were used as raw material for an electrolyte: lithium sulfide (Li2S manufactured by Nippon Chemical Industrial Co., Ltd, 99.9% purity. Hereinafter the same was used), phosphorus pentasulfide (P2S5 manufactured by Aldrich, 99.9% purity. Hereinafter the same was used), lithium bromide (LiBr manufactured by Kojundo Chemical Laboratory Co., Ltd., 99.9% purity. Hereinafter the same was used) and lithium iodide (LiI manufactured by Aldrich, 99.9% purity. Hereinafter the same was used). This raw material for an electrolyte was weighed so as to have the molar ratio of Li2S:P2S5:LiBr:LiI=56.25:18.75:15:10. Into a vessel of a planetary ball mill (45 ml, made from ZrO2), the weighed raw material for an electrolyte along with tridecane, and further balls made from ZrO2, having 5 mm in diameter, were loaded, and the vessel was completely sealed hermetically. The raw material for an electrolyte was amorphized by mechanical milling at 290 rpm for 20 hours, and material for a sulfide solid electrolyte (75(0.75Li2S.0.25P2S5).15LiBr.10LiI) was synthesized. After mechanical milling was ended, 75(0.75Li2S.0.25P2S5).15LiBr.10LiI was collected from the vessel, and was subjected to vacuum drying at 80° C., to remove tridecane, whereby the material for a sulfide solid electrolyte of 75(0.75Li2S.0.25P2S5).15LiBr.10LiI was obtained.
+
+(Pulverizing Step)
+The following were loaded into a pot made from ZrO2: 75 g of the material for a sulfide solid electrolyte collected from the vessel after the synthesizing step; 120 g of dehydrated heptane (manufactured by Kishida Chemical Co., Ltd.); 80 g of dehydrated n-butyl ether (manufactured by Kishida Chemical Co., Ltd.); and 400 g of grinding media made from ZrO2 (particle diameter Φ: 0.3 mm), and the pot was completely sealed hermetically (Ar atmosphere). This pot was attached to a planetary ball mill (P-5 manufactured by FRITSCH), and wet mechanical milling was carried out at 150 rpm for 22 hours, to pulverize the material for a sulfide solid electrolyte.
+
+(Drying Step)
+Slurry of the material for a sulfide solid electrolyte that was obtained by separating the grinding media from the pulverized material was dried on a hot plate at 120° C. in setting temperature for 3 hours, to obtain the material for a sulfide solid electrolyte of 0.5 μm in mean particle size (D50). Here, as the mean particle size (D50), employed was a median diameter equivalent to cumulative 50 volume % on the particle side in the particle diameter distribution on the basis of volume, which was measured using a particle size distribution measurement instrument by laser scattering and diffraction analysis (Microtrac MT 3300EX II manufactured by Nikkiso Co., Ltd.).
+
+(Gas Flow Heating Step)
+Into a two-neck round-bottom flask, 15 g of the dried material for a sulfide solid electrolyte was loaded, and was heated in an oil bath at 200° C. for 3 hours while circulating gas (gas mixture of H2S: 150 mL/min, and Ar: 150 mL/min), to obtain a sulfide solid electrolyte according to the example 1.

@@ -1,0 +1,10 @@
+assistant
+As per the provided text, the original text of the first example is:
+
+**Embodiment 1**
+
+As initiation material, using lithium sulfide (Li2S, Japan Chemical Industry society system), phosphorus pentasulfide (P2S5, ア Le De リ ッ チ society system) and lithium phosphate (Li3PO4).Then, under an argon atmosphere in the glove box of (- 70 °C of dew point), by Li2S、P2S5With Li3PO4With Li2S:P2S5:Li3PO4=56.25:18.75:25 mol ratio is mixed.This ratio of components is equivalent to Li3PS4:Li3PO4=3:1, be equivalent to Li3PS4-xOxIn x=1.
+
+Using agate mortar, this mixture 2g is mixed 10 minutes.The mixture obtaining is loaded the container of planetary type ball-milling (45cc, ZrO2System), load ZrO2Ball (10), container is fully sealed (argon atmosphere).This container is pacified It is loaded on planetary ball mill (Off リ ッ チ ュ P7), carry out 40 times 1 hour processing with desk tray revolution 400rpm and stop for 15 minutes mechanical lapping.Thus, obtain solid electrolyte glass (noncrystal).The solid electrolyte glass obtaining in XRD determining not There is Li2The peak of S.This solid electrolyte glass is pulverized, is granulated (pelleted).This granule is put in test tube, vacuum sealing.With programming rate, 5 °C/min are warming up to 500 °C, keep 10 hours, natural cooling.Thus, glass ceramics are obtained (solid electrolyte material).
+
+This example describes the preparation of a solid electrolyte material through a series of steps involving mixing of lithium sulfide, phosphorus pentasulfide, and lithium phosphate, followed by mechanical lapping and heat treatment to produce a glass ceramic material.

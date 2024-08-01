@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"Li2S":"0.64g","P2S5":"1.03g","LiI":"1.33g"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involved synthesizing LiI-Li3PS4 as a halogen-added sulfide solid electrolyte by mechanically milling a mixture of Li2S, P2S5, and LiI, followed by mixing sulfur, disulfide, activated carbon, and the halogen-added sulfide solid electrolyte to obtain a positive electrode mixture with specific weight ratios for each component. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

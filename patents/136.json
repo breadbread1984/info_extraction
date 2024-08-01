@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"AlF":"none","Li":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involves weighing aluminum fluoride (AlF)3 and lithium (Li) metal in specific molar ratios in a glove box, premixing them in a mortar and pestle made of agate for about 1 hour to obtain a raw material mixed powder for the production of modified aluminum fluoride. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

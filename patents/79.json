@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"FeC2O4":"none","P2S5":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involved combining 0.03 mol of iron oxalate (FeC2O4.2H2O) and 0.03 mol of lithium silicate (Li2SiO3) with a carbonate mixture, followed by ball milling, drying, heating in a mixed-gas atmosphere of carbon dioxide and hydrogen at 550°C for 21 hours, rapid cooling, grinding with acetic anhydride, reacting with acetic acid, and finally obtaining a powder of iron-containing lithium-silicate compound through filtration. ",
+    "structure": {
+  "crystal_system": "Li2FeSiO4-type",
+  "space_group": "P21"
+  }
+  }

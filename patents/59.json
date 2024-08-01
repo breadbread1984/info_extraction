@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"Li2S":"none","Sb2S3":"none","LiI":"none", "S":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involves preparing precursors in powder form, mixing them according to stoichiometry, forming pellets, heat treating the pellets in a vitreous carbon crucible within a quartz tube under vacuum at specific temperatures and durations depending on the precursor, cooling the reaction products, grinding the solid material, and annealing at 500°C for 7 days to obtain solid materials with a specific composition. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

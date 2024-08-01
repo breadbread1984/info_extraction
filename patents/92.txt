@@ -1,0 +1,21 @@
+assistant
+
+The original text for the first example of producing the nickel manganese composite hydroxide particles is:
+
+Example 1
+[Manufacturing of the Composite Hydroxide Particles]
+   The composite hydroxide particles were manufactured as described below. For all samples, the composite hydroxide particles, cathode active material and secondary battery were manufactured using high grade specimens manufactured by Wako Pure Chemical Industries, Ltd.
+
+(Nucleation Step)
+   First, 7 liters of water is put into the reaction tank (34 L) and while stirring, the temperature inside the tank is set to 70° C., and nitrogen gas is caused to be circulated for 30 minutes, and the oxygen concentration in the space inside the reaction tank is kept at 1% or less. An appropriate amount of 25% by volume sodium hydroxide aqueous solution is added to the water in the reaction tank, and the pH value of the aqueous solution in the reaction tank before reaction is adjusted to a value of 13.1 at a standard solution temperature of 25° C.
+
+Next, nickel sulfate and manganese sulfate is dissolved in the water to prepare a ⅛ mol/L mixed solution. The mixed solution is adjusted so that the elemental mole ratio of each metal is Ni:Mn=50:50.
+
+This mixed solution is added at a rate of 88 ml/min to the aqueous solution in the reaction tank before reaction to form a reaction solution. At the same time, 25% by volume sodium hydroxide aqueous solution is also added at a constant rate to the reaction solution, and while circulating nitrogen gas though the reaction solution, and while performing control to keep the pH value of the reaction solution (aqueous solution for nucleation) at a value of 13.1 (nucleation pH value), nucleation was performed by allowing crystallization for 2 minutes 30 seconds. The range of fluctuation of the pH value was ±0.2. Moreover, the temperature inside the tank was maintained at 60° C. or greater.
+
+(Particle Growth Step)
+   After nucleation ended, the temperature inside the tank was maintained at 60° C. or greater, and sulfuric acid was added until the pH value of the reaction solution reached a value of 10.6 at a standard solution temperature of 25° C. After the pH value of the reaction solution reached 10.6, the mixed solution and the 25% by volume sodium hydroxide aqueous solution were one again supplied to the reaction solution (aqueous solution for particle growth), and while performing control to keep that pH value at 10.6 at a standard solution temperature of 25° C., crystallization was performed for 4 hours. The grown material was then washed, filtered and dried to obtain composite hydroxide particles.
+
+During the crystallization above, the pH was controlled using a pH controller to adjust the supply flow rate of sodium hydroxide aqueous solution, and the range of fluctuation was within the range of ±0.2 of the set value.
+
+Can you summarize the key steps in the first example for producing the nickel manganese composite hydroxide particles?

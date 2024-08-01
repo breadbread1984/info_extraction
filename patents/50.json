@@ -1,0 +1,10 @@
+{
+    "electrolyte": {"Li":"0.39","P":"0.12","S":"0.49"},
+    "precursors": {"Li2S":"none","P2S5":"none","P":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involves mixing lithium sulfide, diphosphorus pentasulfide, and red phosphorus in a specific weight ratio, mechanically milling the mixture in a planetary ball mill for 40 hours, collecting and pulverizing the sample multiple times, vacuum-sealing the obtained material, heating it to 260°C, maintaining the temperature for 4 hours, and gradually cooling to room temperature to produce a sulfide solid electrolyte material with a composition of Li3.2PS4. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

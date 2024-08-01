@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"Li2S":"0.75g","P2S5":"0.25g","Li3PO4":"1g"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involves mixing lithium sulfide, diphosphorus pentasulfide, and lithium phosphate in a specific molar ratio under an argon atmosphere, ball milling the mixture with dehydrated heptane in a planetary ball mill, drying, and then subjecting the resulting solid electrolyte glass to heat treatment at 500°C in an argon atmosphere to obtain glass ceramics as the solid electrolyte material. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

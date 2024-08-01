@@ -1,0 +1,6 @@
+assistant
+The original text of the first example is:
+
+Experimental Example 1 (Production of Li3P4)
+   A lithium sulfide (Li2S) powder and a diphosphorus pentasulfide (P2S5) powder were weighed so that a molar ratio of Li, P and S was 3:1:4, and these materials were mixed. Next, the mixed powder was put together with zirconia balls having a diameter of 15 mm into a planetary ball mill machine (container: made of zirconia) manufactured by Frisch, and mechanical milling was performed for 20 hours under the condition of a rotation speed of 600 rpm.
+    The conductivity of the obtained reaction product (solid composition) as a solid electrolyte was measured and found to be 2.0×10−3 S/cm at a temperature of 90° C.

@@ -1,0 +1,5 @@
+assistant
+The original text of the first example is:
+
+Reference example 1  
+20.4 g lithium acetate dihydrate Li (C 2 H 3 O 2 ) · 2 (H 2 O), 24.5 g manganese acetate tetrahydrate (Mn (C 2 H 3 O 2 ) in 90 ml water and 10 ml methanol ) 2 · 4 (H 2 O)) and 14.8 ml of tetramethoxysilane are added. The mixture is ground for 60 hours with zirconia pellets in a thick-walled plastic container on a roller mill. The dense slurry is put into a PTFE evaporating dish and air is circulated in an oven to dry at 90 ° C. The resulting material is powdered in a mortar and heat treated at 350 ° C. in air to remove organic residues. The resulting brown-green powder is transferred to an alumina boat and the composite is treated at 800 ° C. in an electric furnace with a reducing air stream containing 8% hydrogen diluted with argon. 13 g of Li 2 MnSiO 4 are obtained (yield 81%).

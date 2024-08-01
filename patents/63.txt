@@ -1,0 +1,16 @@
+assistant
+The original text of the first example is:
+
+(Example 1)
+
+As a silicon oxide powder which is a raw material for producing Li-containing silicon oxide powder, an amorphous SiO powder prepared by a precipitation method was prepared. The median diameter of this raw material SiO powder was 8.0 micrometers. With respect to the raw material SiO powder, as a heat treatment for the C coat, a carbonized gas in which argon and propane were mixed at a weight ratio of 1: 1 was supplied in a furnace at a flow rate of 1 liter per minute, and the SiO powder was supplied from the furnace. Heat treatment was performed at 850 ° C. for 30 minutes.
+
+When the SiO powder after C coating was used for the combustion infrared absorption method, it was confirmed that the conductive carbon film of 1.00% was formed in the weight ratio to the particle | grains which comprise Si powder. The median diameter (D1) of the SiO powder after C coating was 8.2 µm.
+
+LiH powder was selected as a powder lithium source mixed with raw material SiO. Its original median diameter is 20.8 μm, which is significantly larger than the median diameter of the SiO powder after C coat. Thus, this LiH powder was pulverized using mortar in a glove box in argon atmosphere, and classified by a test sieve of 16 µm in size.
+
+The dry particle size distribution measurement was performed about the pulverized LiH powder using the laser diffraction type particle size distribution measuring device HELOS by Sympatec. The median diameter (D2) of the LiH powder after pulverization is 5.1 µm smaller than the median diameter (D1) (8.2 µm) of the SiO powder after C coating, and the median diameter ratio (D2 / D1) is 0.62.
+
+SiO powder (median diameter 8.2 micrometers) after C coating was mixed so that the LiH powder after grinding | pulverization and Li / O molar ratio may be set to 0.5 for Li dope process, and argon atmosphere (1atm, 600 degreeC) in an atmosphere furnace. ) For 72 hours.
+
+Height (P1) of the peak resulting from Li 2 Si 2 O 5 in which the diffraction angle (2θ) appears in the range of 24.4 to 25.0 ° when X-ray diffraction measurement using CuKα rays is performed on the produced Li-containing SiO powder., Peak P2 attributable to Li 2 SiO 3 at a diffraction angle 2θ of 18.6 to 19.2 °, and crystalline Si at diffraction angle 2θ of 27.4 to 29.4 °. The height P3 of the peak was investigated to calculate P2 / P1 and P3 / P1.

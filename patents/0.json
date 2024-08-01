@@ -1,0 +1,11 @@
+{
+  "electrolyte": "none",
+  "precursors": {"Li2S":"none","P2S5":"none","LiCl":"75g", "LiBr":"75g"},
+  "conductivity": "none",
+  "synthesis_method": "75 g each of lithium chloride (LiCl) and lithium bromide (LiBr) powders are pulverized, mixed for 6 hours, filled into a carbon container, heated in a tubular electric furnace at a rate of 200°C/h under flowing hydrogen sulfide gas (H2S), and fired at 500°C for 4 hours to produce a solid electrolyte. ",
+  "structure": {
+"crystal_system": "none",
+"space_group": "none"
+}
+}
+

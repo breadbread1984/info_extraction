@@ -1,0 +1,7 @@
+assistant
+The original text of the first example is:
+
+"Example 1
+   In a glove box filled with an Ar gas with a dew point of −60° C. or lower, 500 mg of the glass-ceramic sulfide solid electrolyte material prepared in Comparative Example 1 (Li2S—P2S5—LiI; Li2S:P2S5:LiI=60:20:20) was put into a sealable container. After the container was sealed and evacuated, 17.5 cc of oxygen gas was introduced into the container. The container was then placed in an electric furnace, and the sulfide solid electrolyte material was heated at 210° C. for 5000 seconds. This gave a sulfide solid electrolyte material of Example 1. The sulfide solid electrolyte material of Example 1 had an oxide layer."
+
+This example describes the preparation of a sulfide solid electrolyte material (Example 1) by heating a glass-ceramic sulfide solid electrolyte material (prepared in Comparative Example 1) in an electric furnace at 210°C for 5000 seconds after introducing oxygen gas into a sealed container containing the material. The resulting material is said to have an oxide layer.

@@ -1,0 +1,8 @@
+assistant
+The original text of the first example is:
+
+```
+[ production of solid electrolyte Material ]
+In an argon atmosphere with a dew point below-60 ℃, adding LiCl: YCl3：CaCl23.05: 0.95: LiCl and YCl were weighed at a molar ratio of 0.053And CaCl2Raw material powder. They were pulverized in a mortar and mixed. Then, the treatment was carried out for 25 hours by milling at 600rpm using a planetary ball mill.
+In the above manner, Li is obtained3.05Y0.95Ca0.05Cl6A powder of the solid electrolyte material of example 1 represented by the compositional formula (iv).
+```

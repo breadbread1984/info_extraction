@@ -1,0 +1,32 @@
+assistant
+The original text of the first example is as follows:
+
+≪Example A1≫ [Preparation of solid electrolyte material] In an argon atmosphere with a dew point of -60°C or lower, raw material powder LiCl, YCl3 and ZrCl4 were weighed so that the molar ratio was LiCl:YCl3:ZrCl4 = 2.5:0.5:0.5. did. Thereafter, milling was performed using a planetary ball mill at 600 rpm for 12 hours.
+
+[Analysis of crystal structure] The results shown in Figure 4A were measured by the method described below.
+
+That is, to analyze the crystal structure of the solid electrolyte, an X-ray diffraction pattern was measured in a dry environment with a dew point of -45° C. or lower using an X-ray diffraction device (RIGAKU MiniFlex 600). As for the X-ray source, Cu-Kα rays were used.
+
+In Figure 4B, the horizontal axis 2θ of the above-mentioned XRD pattern is converted by q = 4πsin(θ)/λ, and the q value at the above-mentioned peak position 2θ = 31.64°, q2 = 2.222 Å−1. This is a diffraction pattern when the normalized value of q/q2 is plotted on the horizontal axis. In Figure 4B, peaks were observed at the positions of q/q2 = 0.507, 1.289, and 1.530. The q values of these peaks are set as q1/q2 = 0.507, q3/q2 = 1.289, and q4/q2 = 1.530, and the value of aave is calculated using equation (2). The calculated value was 5.232 Å. When a LiX is calculated using xCl = 1, xBr = 0, and xI = 0 in equation (3), and the value of aave/aLiX is calculated, aave/aLiX = 1.020.
+
+[Preparation of secondary battery] In an argon glove box, the solid electrolyte material of Example A1 and LiCoO2 as an active material were weighed at a volume ratio of 70:30. A mixture was prepared by mixing these in an agate mortar.
+
+In an insulating outer cylinder, the solid electrolyte material of Example A1 equivalent to a thickness of 700 μm, 8.5 mg of the above-mentioned mixture, and 16.5 mg of Al powder were laminated in this order. A first electrode and a solid electrolyte layer were obtained by press-molding this at a pressure of 300 MPa.
+
+Next, metal In (thickness: 200 μm) was laminated on the side of the solid electrolyte layer opposite to the side in contact with the first electrode. By press-molding this at a pressure of 80 MPa, a laminate consisting of the first electrode, solid electrolyte layer, and second electrode was produced.
+
+Next, stainless steel current collectors were placed above and below the laminate, and current collection leads were attached to the current collectors.
+
+Finally, the inside of the insulating outer cylinder was isolated and sealed from the outside atmosphere using an insulating ferrule.
+
+Through the above steps, a secondary battery of Example A1 was manufactured.
+
+[Charge/discharge test] A charge/discharge test of the secondary battery of Example A1 was conducted in the following manner.
+
+The secondary battery of Example A1 was placed in a constant temperature bath at 25°C.
+
+Constant current charging was performed at a current value of 0.05 C rate (20 hour rate) with respect to the theoretical capacity of the battery, and charging was completed at a voltage of 3.6 V.
+
+Next, the battery was discharged at a current value of the same rate of 0.05C, and the discharge was terminated at a voltage of 1.9V.
+
+As a result of the above measurements, the initial discharge capacity of the secondary battery of Example A1 was 0.467 mAh.

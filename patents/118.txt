@@ -1,0 +1,18 @@
+assistant
+The original text of the first example is as follows:
+
+---
+
+**[Example 1]**
+
+**(Preparation of sulfide solid electrolyte particles)**  
+As starting materials, lithium sulfide (Li2S, manufactured by Nippon Kagaku Kogyo Co., Ltd.), diphosphorus pentasulfide (P2S5, manufactured by Aldrich) and germanium sulfide (GeS2, manufactured by High Purity Chemical Co., Ltd.) are used. These powders were mixed in a glove box under an argon atmosphere at a ratio of 0.7811 g of Li2S, 0.7329 g of P2S5 and 0.4860 g of GeS2. 1 g of this mixture was put into a planetary ball mill container (45 cc, made of ZrO2), and ZrO2 balls (φ = 10 mm, 10 pieces) were further put into the container to completely seal the container (argon atmosphere). This container was attached to a planetary ball mill (P7 made by Fritsch), and mechanical milling was performed at a base plate rotation speed of 370 rpm for 40 hours. Thereby, an amorphous ion conductive material was obtained. Next, the obtained ion conductive material powder was placed in a carbon-coated quartz tube and vacuum-sealed. The pressure of the vacuum sealed quartz tube was about 30 Pa. Next, the quartz tube was placed in a firing furnace, heated from room temperature to 700 °C. over 6 hours, maintained at 700 °C. for 8 hours, and then gradually cooled to room temperature. This gave a sulfide solid electrolyte particles having a composition of   Li3.35Ge0.35P0.65S4   ( glass ceramic).
+
+**Production of Evaluation Battery 1**  
+The obtained sulfide solid electrolyte particles (D50 = 1 μm), a positive electrode active material (LiCoO2, D50 = 5 μm, manufactured by Toda Kogyo Co., Ltd.), and a conductive material (VGCF, D50 = 1 μm) were prepared. 304.2 mg of the sulfide solid electrolyte particles, 180.7 mg of the positive electrode active material, and 15.1 mg of the conductive material were mixed together to obtain a positive electrode mixture. 250 mg of the sulfide solid electrolyte particles and 250 mg of the negative electrode active material were mixed together to obtain a negative electrode mixture.
+
+65 mg of sulfide solid electrolyte particles (sulfide glass having a composition of 20LiI · 80 (0.75Li2S · 0.25P2S5)) is placed in a cylinder made of Macor having a cross-sectional area of 1 cm2 and pressed at 100 MPa. Thus, a solid electrolyte layer was formed. Next, 140 mg of the negative electrode mixture was put on one surface of the solid electrolyte layer and pressed at 100 MPa to form a negative electrode active material layer. Next, 8 mg of the positive electrode mixture was put on the other surface of the solid electrolyte layer, and pressed at 350 MPa to form a negative electrode active material layer. In this way, an evaluation battery 1 was obtained.
+
+---
+
+This example demonstrates the preparation of sulfide solid electrolyte particles through mechanical milling and subsequent heat treatment, followed by the assembly of these particles into an all-solid-state battery with a positive electrode active material and a negative electrode active material.

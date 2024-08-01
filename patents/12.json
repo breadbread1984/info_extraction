@@ -1,0 +1,11 @@
+{
+  "electrolyte": "none",
+  "precursors": {"Li2S":"none","P2S5":"none","Li3N":"none", "AlN":"none"},
+  "conductivity": "none",
+  "synthesis_method": "The electrolyte synthesis involved mixing Li3N and AlN in a 1.2:1 molar ratio, pelletizing the mixture after heat treatment at 750°C, then adding Li2S, P2S5, and Li3/2Al1/2N in a glove box with argon, followed by milling for 45 hours at 510 rpm using a planetary ball mill and subsequent heat treatment below 100°C for 2 hours to yield the sulfide solid electrolyte.",
+  "structure": {
+"crystal_system": "none",
+"space_group": "none"
+}
+}
+

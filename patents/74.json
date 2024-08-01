@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"Li2S":"0.306g","P2S5":"0.494g","LiI":"0.200g"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involved mixing lithium sulfide, phosphorus pentasulfide, and lithium iodide in specific proportions, mechanically milling the mixture in a planetary ball mill under argon atmosphere, confirming the formation of sulfide glass by X-ray measurement, determining the crystallization temperature (Tc) at 189°C, and heat-treating the electrolyte precursor at 210°C for 2 hours to obtain a heat-treated solid electrolyte. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

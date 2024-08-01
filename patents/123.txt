@@ -1,0 +1,7 @@
+assistant
+The original text of the first example is as follows:
+
+Example 1:
+Li2S (made by Idemitsu Kosan Co., Ltd.: purity 99.9% or more), LiBr (made by Aldrich: purity 99.9%), and LiI (made by Aldrich: purity 99.9%) are weighed in a 50:25:0.3 ratio so that the molar ratio is 25.50Li2S·50(0.5LiBr·0.5LiI) is obtained by subjecting the weighed product to mechanical milling treatment. As the processing device, Pulverisete P-7 manufactured by Fritsch, which is a planetary ball mill equipped with a pot and a ball, was used. The pots and balls were made of zirconium oxide, and 160 balls with a diameter of 4 mm were used in a 45 ml pot. The treatment conditions were room temperature (about 25 °C.), 510 revolutions/min, and 10 hours.
+
+10 mg of the obtained 50Li2S·50(0.5LiBr·0.5LiI) was pressed (pressure 360 MPa) to obtain a pellet (positive electrode) having a diameter of 10 mm and a thickness of about 0.05 mm. An XRD pattern of 50Li2S·50(0.5LiBr·0.5LiI) is shown in Fig. 1. In the lower part of Fig. 1, an XRD pattern of 0.5LiBr·0.5LiI obtained by mechanical milling is described. In Fig. 1, ● represents a peak corresponding to LiI, ○ represents a peak corresponding to LiBr, and ▽ represents a peak corresponding to Li2S.

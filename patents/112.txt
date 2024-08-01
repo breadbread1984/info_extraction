@@ -1,0 +1,15 @@
+assistant
+The original text of the first example is as follows:
+
+**Production Example 2**
+**[Production of a sulfide solid electrolyte (sulfide solid electrolyte (A1)) having an algirodite type crystal structure]**
+
+Li2S, P2S5 (manufactured by Thermophos), LiCl (manufactured by Sigma Aldrich, purity 99%) and LiBr (manufactured by Sigma Aldrich, purity 99%) manufactured in **Production Example 1** were used as starting materials. 
+
+2.98 g of Li2S, 3.79 g of P2S5, 1.45 g of LiCl, and 1.78 g of LiBr were mixed to obtain a raw material mixture.
+
+The raw material mixture and 600 g of zirconia balls having a diameter of 10 mm were placed in a planetary ball mill (manufactured by Fritsch: model number P-5) zirconia pot (500 mL) and completely sealed. The inside of the pot was in an argon atmosphere. The mixture was processed (mechanical milling) for 72 hours with a planetary ball mill at a rotational speed of 220 rpm to obtain a glassy powder (intermediate).
+
+About 2 g of the above intermediate powder is packed in a Tanman tube (PT2, manufactured by Tokyo Glass Instruments Co., Ltd.) in a glove box under an Ar atmosphere, the mouth of the Tanman tube is closed with quartz wool, and a stainless steel container is used. I sealed it so that the atmosphere could not enter. Thereafter, the sealed container was placed in an electric furnace (FUW 243 PA, manufactured by Advantec) and heat-treated. Specifically, the temperature was raised from room temperature to 430 °C. at 2.5 °C./min (heated to 430 °C. in 3 hours), and held at 430 °C. for 8 hours. Thereafter, the resultant was gradually cooled, recovered in a glove box under an Ar atmosphere, and ground in a mortar to obtain a sulfide solid electrolyte (A1). 
+
+The ionic conductivity and compaction of the sulfide solid electrolyte (A1) were evaluated. The results are shown in Table 1 (Comparative Example 1). The XRD pattern of the sulfide solid electrolyte (A1) is shown in Figure 4. In the XRD pattern, peaks derived from the algirodite type crystal structure were observed at 2θ = 25.4 deg, 29.9 deg, and the like. The true density of the sulfide solid electrolyte (A1) was 2.0 g/cm3. The volume based average particle size (D50) was 50 μm.

@@ -1,0 +1,36 @@
+assistant
+The original text of the first example is as follows:
+
+---
+
+**Embodiment 1**
+
+1) **sulfide ready-mixed operation**：
+   - By mass percentage, weigh 40% lithium sulfide and 60% phosphoric sulfide to contain in low moisture (≤1ppm), hypoxemia
+   - Dispensing mixing, after coordinating with zirconia balls ball grinder is enclosed in the glove box with argon gas atmosphere protection of amount (≤1ppm),
+   - Zirconia balls in tank are 2 with the ball material mass ratio of compound:0.7；Ball milling after sealing is potted in planetary milling
+   - Ball milling is pre-mixed using dry type ball milling in machine, Ball-milling Time is 5 hours, (abbreviation LiPS mixes to obtain lithium sulphur phosphorus ternary mixture
+   - Thing)；
+
+2) **secondary high-energy ball milling operation**：
+   - In the low moisture (≤1ppm), low oxygen content (≤1ppm) for having safety light (such as ruddiness) with argon gas atmosphere
+   - In the glove box of protection, will be equivalent to above-mentioned LiPS mixture qualities 2.5% iodate silver powder (granularity be 200-250 mesh),
+   - Equivalent to the bromination silver powder (granularity is 200-250 mesh) of LiPS mixture qualities 1% and equivalent to LiPS mixture qualities
+   - By hand stirring mixes 1% chlorination silver powder (granularity is 200-250 mesh) with LiPS mixtures, and gained mixed material presses again 2:
+   - 0.7 ball material mass ratio, encloses ball grinder after the zirconia balls of fit diameter 3-10mm, sealing, and by the ball milling after sealing
+   - It is canned enter planetary milling ball mill in carry out high energy dry type ball milling, Ball-milling Time is 36 hours, is obtained containing silver iodide, bromine
+   - Change the amorphous li sulphur phosphate mixture of silver and silver chlorate；
+
+3) **evolution reaction operation in situ**：
+   - By the amorphous li sulphur phosphate mixture containing silver iodide, silver bromide and silver chlorate of gained, there is safety light (as red
+   - Light) low moisture (≤1ppm), low oxygen content (≤1ppm) with argon gas atmosphere protection glove box in, sealing, after
+   - Heated under vacuum to 150 DEG C is heat-treated 2 hours, that is, obtain the lithium sulfide system solid electricity of argentiferous halogen compound composite powder
+   - Solution material.In heat treatment process, a part of silver ion in silver iodide, silver bromide and silver chlorate cubic structure iodine/bromine/
+   - While chlorion stable cubic structure, with the sulphur in lithium sulfide around nanoscale silver sulfide is combined to form, at the same with iodine/bromine/
+   - The atom vacancy that can be used for lithium ion diffusion in a large number is formed in cubic structure based on chlorine；On the other hand, also formed and there is ion
+   - Conductive product silver sulfide and lithium iodide/lithium bromide/lithium chloride, so that the ion of gained solid electrolyte material is passed
+   - Lead characteristic to be further enhanced.
+
+---
+
+This example outlines the preparation of a lithium sulfide system solid electrolyte material using a composite powder of argentiferous halogen compounds, detailing the steps involved in the synthesis process.

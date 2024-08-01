@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"Li2S":"0.383g","P2S5":"0.618g"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involved mixing lithium sulfide and diphosphorus pentasulfide, mechanically milling the mixture in a planetary ball mill under a nitrogen atmosphere, resulting in the formation of a white yellow sulfide glass exhibiting specific thermophysical properties and analyzed via X-ray and 31P-NMR measurements. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

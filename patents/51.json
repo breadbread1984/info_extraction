@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"YF3":"92mg","YBr3":"415mg", "LiBr":"493mg"},
+    "conductivity": "2.6 × 10-4 S/cm",
+    "synthesis_method": "The electrolyte synthesis process involves preparing and mixing LiBr, YBr3, and YF3 in an argon atmosphere with a dew point of -60°C or less, followed by milling processing at 500 rpm for 12 hours using a planetary ball mill to produce a solid electrolyte material. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

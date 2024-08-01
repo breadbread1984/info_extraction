@@ -1,0 +1,28 @@
+assistant
+
+The original text of the first example is:
+
+Example 1:
+- Production of Lithium Metal Composite Oxide Powder 1:
+After putting water in a reaction vessel equipped with a stirrer and an overflow pipe, an aqueous sodium hydroxide solution was added to maintain the liquid temperature at 60 °C.
+The atomic ratio of nickel atom, cobalt atom, manganese atom and zirconium atom of nickel sulfate aqueous solution, cobalt sulfate aqueous solution, manganese sulfate aqueous solution and zirconium sulfate solution is 0.60: 0.20: 0.195: 0.005. To prepare a mixed raw material solution.
+Next, the mixed raw material solution and the ammonium sulfate aqueous solution were continuously added as a complexing agent into the reaction vessel under stirring, and nitrogen gas was continuously aerated in the reaction vessel. An aqueous sodium hydroxide solution was added dropwise in an appropriate manner so that the pH of the solution in the reaction vessel became 11.7. In addition, a 20% by mass sodium hydroxide aqueous solution was used, and the volumetric flow rate of the alkaline solution was made smaller than the volumetric flow rate of the mixed raw material solution. Nickel cobalt manganese zirconium composite hydroxide particles are obtained by the above operation, washed, dehydrated with a centrifuge, washed, dehydrated, and isolated and dried at 105 °C. to obtain nickel cobalt manganese zirconium composite hydroxide 1. It was.
+Nickel cobalt manganese zirconium composite hydroxide 1 and lithium hydroxide powder are weighed and mixed so that Li / (Ni + Co + Mn + Zr) = 1.07 (molar ratio), and then calcined at 650 °C. for 5 hours in an oxygen atmosphere. Then, after crushing, it was calcined at 970 °C. for 5 hours in an oxygen atmosphere to obtain a raw material compound 1.
+Then, the raw material compound 1 and boric acid are weighed and mixed so as to have B / (Ni + Co + Mn + Zr) = 0.005 (molar ratio), and then heat-treated at 400 °C. for 5 hours in an atmosphere of oxygen and a relative humidity of 10% or less. The lithium metal composite oxide powder 1 was obtained.
+
+The key points of this example are:
+
+- Produces a lithium metal composite oxide powder with a layered crystal structure containing Li, Ni, Co, Mn, Zr, and B, Si, S, or P.
+- Controls the content of element M (B, Si, S, or P) to be 0.01 mol% to 5 mol% of the total amount of Ni and Co.
+- Controls the ratio of Ni content to the total amount of Ni and Co to be 0.4 or more.
+- Controls the molar ratio of Li concentration to element M concentration to continuously increase from the particle surface to the particle center.
+- Controls the molar ratio of O concentration to element M concentration to continuously increase from the particle surface to the particle center.
+- Controls the molar ratio of element M concentration to O concentration inside the particle to be 0.05 or less.
+- Achieves a BET specific surface area of 2 m^2/g or less.
+- Achieves an average primary particle size of 0.3 μm to 8 μm.
+- Achieves a 50% cumulative diameter (D50) of 2 μm to 10 μm and a relationship of (D90-D10)/D50 between 0.3 and 3.
+- Achieves a value of water content (mass%) divided by BET specific surface area (m^2/g) between 0.005 and 0.7.
+- Achieves a maximum concentration gradient RLi/M in the range where Li concentration continuously increases from the particle surface to the particle center to be less than a maximum concentration gradient RO/M in the range where O concentration continuously increases.
+- Achieves a 10 CA/0.2 CA discharge capacity ratio of 60 to 98%.
+
+This example demonstrates a method to produce a lithium metal composite oxide powder with specific compositions and properties that improve the discharge capacity retention rate at high current rates for lithium secondary batteries.

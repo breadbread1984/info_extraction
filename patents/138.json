@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"Li2S":"none","P2S5":"none", "LiBr":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involves weighing Li2S powder, P2S5 powder, and LiBr powder as per a specific composition, pulverizing and mixing them using a planetary ball mill to create a raw material composition, calcining the composition in a tubular electric furnace under nitrogen gas at 500°C for 4 hours to obtain a calcined product with an argentite-type crystal structure. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

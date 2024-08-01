@@ -1,0 +1,8 @@
+assistant
+The original text of the first example is:
+
+Example 1: Synthesis of Li2TiS3 powder
+
+In a glove box in an argon atmosphere, commercially available lithium sulfide (Li2S) powder and titanium disulfide (TiS2) powder were weighed and mixed so that each had a molar ratio of 1:1, and then 4 mm in diameter. Li2TiS3 powder was obtained by performing mechanical milling treatment at 510 rpm for 20 to 100 hours with a ball mill apparatus (Fritche P7, Classic Line) using a 45 mL container containing about 500 zirconia balls.
+
+The text describes the synthesis of lithium titanium sulfide (Li2TiS3) powder through mechanical milling of lithium sulfide (Li2S) and titanium disulfide (TiS2) powders in a glove box under argon atmosphere. The powders are mixed in a molar ratio of 1:1 and then subjected to mechanical milling treatment using a ball mill apparatus at 510 rpm for a period ranging from 20 to 100 hours.

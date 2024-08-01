@@ -1,0 +1,15 @@
+assistant
+The original text of the first example is as follows:
+
+**Embodiment 1**
+
+1) **High-energy ball milling operation is mixed:**
+   In low moisture (≤1ppm), the glove box with argon gas atmosphere protection of low oxygen content (≤1ppm), will vulcanized lithium, phosphoric sulfide, lithium-tin alloy powder and Cosan are in molar ratio 4：1：0.1：0.05 ratio dispensing, stirring mixing, it is and straight The zirconia balls of footpath 3-10mm enclose ball grinder after coordinating, and the zirconia balls in tank are 2 with the ball material mass ratio of compound：0.7；Ball grinder after sealing uses dry type mixing ball milling in planetary high-energy ball mill, and Ball-milling Time is 5 hours, is obtained Lithium sulphur phosphor tin mixture;
+
+2) **Secondary high-energy ball milling operation:**
+   Protected with argon gas atmosphere in the low moisture (≤1ppm), low oxygen content (≤1ppm) for having safety light (such as feux rouges) In the glove box of shield, the iodate silver powder (granularity is 300 mesh) and phase of above-mentioned lithium sulphur phosphor tin mixture quality 1% are will be equivalent to When the chlorination silver powder (granularity is 300 mesh) in above-mentioned lithium sulphur phosphor tin mixture quality 1.5% and lithium sulphur phosphor tin mixture craft Stirring mixing, gained mixed material presses 2 again:0.7 ball material mass ratio, ball is enclosed after the zirconia balls of fit diameter 3-10mm Grinding jar, sealing, and the ball grinder after sealing is fitted into high energy dry type ball milling is carried out in planetary milling ball mill, during ball milling Between be 36 hours, obtain the amorphous li sulphur phosphor tin mixture containing silver iodide and silver chlorate;
+
+3) **Heat treatment step:**
+   By gained, the amorphous li sulphur phosphor tin mixture containing silver iodide and silver chlorate, contains in low moisture (≤1ppm), hypoxemia Amount (≤1ppm) with argon gas atmosphere protection glove box in seal, after heated under vacuum to 150 DEG C heat treatment 2 Hour, that is, obtain the lithium sulfide system solid electrolyte material of addition lithium-tin alloy of the present invention, silver iodide and silver chlorate.
+
+After solid electrolyte powder is pressed into standard sample of photo obtained in the present embodiment, using CHI660 electrochemical operations Stand, using AC impedence method, at 25 DEG C of room temperature, the ionic conductance for measuring the print of the present embodiment is 2.9 × 10-4S/cm.

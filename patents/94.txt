@@ -1,0 +1,43 @@
+assistant
+
+The original text of the first example is:
+
+Example 1 [Raw Material Ratio: Li2S/P2S5/LiBr=75/25/16.8): MM Method]
+
+(1) Synthesis of Solid Electrolyte Glass
+
+0.337 g (0.00717 mol) of lithium sulfide produced in Production Example 1, 0.532 g (0.00239 mol) of phosphorus pentasulfide (manufactured by Sigma-Aldrich Co.) and 0.140 g (0.00161 mol) of lithium bromide (manufactured by Sigma-Aldrich Co.) were mixed sufficiently in a glove box in an argon atmosphere. Then, the mixed power and 10 zirconia balls (each having a diameter of 10 mm) were put in an alumina pot of a planetary ball mill (P-7; manufactured by Fritsch) and completely sealed. The inside of the pot was argon atmosphere.
+
+For initial several minutes, the planetary ball mill was rotated at a low speed (100 rpm) to mix lithium sulfide and phosphorus pentasulfide sufficiently. Thereafter, the rotation speed of the planetary ball mill was raised gradually to 370 rpm. With the rotation speed of the planetary ball mill being 370 rpm, mechanical milling was conducted for 20 hours.
+
+When the peak on the low-temperature side was taken as the first peak and the peak on the high-temperature side was taken as the second peak, among the exothermic peaks observed in a range of 150° C. to 350° C., the position of each peak top (Tc1 and Tc2) and the temperature differences between the peaks (ΔT) are shown in Table 1.
+
+Meanwhile, the differential scanning calorimetric measurement was conducted in a dry nitrogen atmosphere at a temperature-elevation rate of 10° C./min from 20 to 600° C. A differential thermo-gravimetric measurement apparatus (TGA/DSC1 manufactured by Mettler-Toledo International Inc.) was used with about 20 mg of the solid electrolyte glass.
+
+(2) Synthesis of Solid Electrolyte Glass Ceramic
+
+The obtained solid electrolyte glass was subjected to a heat treatment in an argon atmosphere for 2 hours at a temperature (230° C.) between the two exothermic peaks.
+
+The results of the differential thermal analysis after the heat treatment are shown in FIG. 1.
+
+It can be confirmed that, as a result of the heat treatment, the peak on the low-temperature side disappeared and only the second peak on the high-temperature side appeared.
+
+In the differential thermal analysis results, the peak value was integrated by using an analysis software attached to the apparatus. Specifically, the curve of the differential thermal analysis result was standardized by the weight, and the integration range was specified and integration was conducted. As the base line, one obtained by approximating a range of 75 to 150° C. by a straight line, followed by extrapolation, was used. However, as for a curve in which a crystallization peak or bending by a glass transition point was judged to appear in the range of 75 to 150° C., the curve was approximated by a straight line in a range excluding this range, whereby this line was determined as a base line. The range of integration was set to be in a range of ±20° C. from the peak top position of each peak, a range from a position where the absolute value of the (Heat flow value−base line value at each temperature) becomes smallest on the low-temperature side from the peak top to a position where the absolute value of the (Heat flow value−base line value at each temperature) becomes smallest on the high-temperature side from the peak top. In this range, the integrated intensity was calculated by means of the analysis software.
+
+The peak positions Tc1 and Tc2 and the peak integrated intensities Hc1, Hc2, Hc1p and Hc2p were obtained.
+
+The ionic conductivity (σ) measured after the heat treatment is shown in Table 1.
+
+The ionic conductivity was measured as follows.
+
+Ionic Conductivity (σ)
+
+A powder sample of solid electrolyte glass was formed to a shape having a cross-section surface with a diameter of 10 mm (cross-section area S=0.785 cm2), and a height (L) of 0.1 to 0.3 cm. After that, a heat treatment was conducted to allow the sample to be glass ceramic.
+
+Electrode terminals were attached to the upper and bottom side of the sample piece obtained, respectively, and a measurement was conducted by the alternating current impedance method (frequency range: 5 MHz to 0.5 Hz, amplitude: 10 mV) to obtain a Cole-Cole plot. The real part Z′ (Ω) at the point where −Z″ (Ω) was the smallest near the right end of a circular arc observed in the higher-frequency region was set to the bulk resistance R (Ω) of an electrolyte. With the bulk resistance, according to the following formula, the ionic conductivity a (S/cm) was calculated.
+
+R=ρ(L/S)
+
+σ=1/ρ
+
+The measurement was conducted with the distance of a lead being about 60 cm.

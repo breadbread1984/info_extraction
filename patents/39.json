@@ -1,0 +1,10 @@
+{
+    "electrolyte": {"Li":"0.40","P":"0.08","Sn":"0.04", "S":"0.48"},
+    "precursors": {"Li2S":"none","P2S5":"none","SnS2":"none"},
+    "conductivity": "1",
+    "synthesis_method": "The electrolyte synthesis process involves mixing Li2S, SnS2, and P2S5 in a high-energy ball mill at a molar ratio of 5:1:1, ball-milling for 1 hour in an argon atmosphere, pressing the mixed powder into a tablet, calcining at 600°C for 8 hours to obtain Li10SnP2S12 as a crystalline inorganic solid electrolyte, and then mixing Li10SnP2S12 crystal particles with Li2S and P2S5 in a mass ratio of 4:110 in an argon atmosphere for 12 hours at 370 rpm to prepare a solid electrolyte material. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

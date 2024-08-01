@@ -1,0 +1,15 @@
+assistant
+The original text of the first example in the given document is:
+
+Example 1:
+In a 1L reaction vessel equipped with a stirring blade, 15.3g of lithium sulfide and 24.7g of phosphorus pentasulfide were added under a nitrogen atmosphere. After the stirring blade was operated, 400mL of tetrahydrofuran previously cooled to-20 ℃ was introduced into the vessel. After naturally raising the temperature to room temperature (23 ℃), the stirring was continued for 72 hours, the obtained reaction mixture slurry was put into a glass filter (pore size: 40 to 100 μm) to obtain a solid content, and the solid content was dried at 90 ℃ to obtain 38g of Li as a white powder3PS4(purity: 90 mass%).
+
+The key points of this example are:
+
+- Lithium sulfide (Li2S) and phosphorus pentasulfide (P2S5) were mixed in a 1L reaction vessel under nitrogen atmosphere.
+- Tetrahydrofuran (THF) was added to the vessel after cooling to -20°C.
+- The mixture was stirred at room temperature for 72 hours.
+- The reaction mixture was filtered through a glass filter with a pore size of 40 to 100 μm.
+- The solid content was dried at 90°C to yield 38g of lithium sulfide-phosphorus pentasulfide complex (Li3PS4) as a white powder.
+
+This example demonstrates a method to produce lithium sulfide-phosphorus pentasulfide complex (Li3PS4) using a liquid phase method, which is an electrolyte precursor for solid electrolytes.

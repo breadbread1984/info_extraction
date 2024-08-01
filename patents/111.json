@@ -1,0 +1,10 @@
+{
+    "electrolyte": {"Li":"0.51","P":"0.06","B":"0.03", "S":"0.40"},
+    "precursors": "none",
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involved weighing raw materials in a glove box under an argon atmosphere, mixing to prepare a powder, pelletizing a portion, firing it in a quartz ampoule at 600°C for 8 hours to obtain a sulfide-based pellet, pressing the pellet into a plate, attaching gold electrodes, conducting AC impedance measurements, and verifying the presence of an aldirodite phase using XRD. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

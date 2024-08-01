@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"Li2S":"none","P2S5":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involved mixing lithium sulfide (Li2S) and phosphorus pentasulfide (P2S5) in a specific molar ratio, placing the mixture in a zirconium oxide tank with zirconium balls, subjecting it to 40 hours of mechanical milling at 370rpm in a planetary ball mill under an argon atmosphere to obtain the sulfide solid electrolyte material. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

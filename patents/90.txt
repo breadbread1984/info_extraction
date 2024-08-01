@@ -1,0 +1,10 @@
+assistant
+The original text of the first example is as follows:
+
+(Example 1)
+
+(Li2S, manufactured by Nippon Chemical Industrial Co., Ltd.), 2 (P2S5, manufactured by Aldrich) and lithium iodide (LiI, manufactured by Aldrich) were used as starting materials. Next, Li2S and P2S5 were weighed so as to have a molar ratio (Li3PS4, ortho composition) of 75 Li2S 25 P2S5. Next, LiI was weighed so that the ratio of LiI was 14 mol%. The weighed starting material was mixed with agate for 5 minutes and 2 g of the mixture was charged into a planetary ball mill container (45 cc, made of ZrO2), dehydrated heptane (water amount: 30 ppm or less, 4 g) Further, a ZrO2 ball (φ = 5 mm, 53 g) was introduced to completely seal the container. The container was placed in a planetary ball mill (trade name: P7, manufactured by Fritsch Gmbh) and subjected to mechanical milling for 40 hours at a base of 500 rpm. Thereafter, the mixture was dried at 100 °C to remove the heptane to obtain a sulfide glass.
+
+Next, 0.5 g of the obtained sulfide glass was placed in a glass tube, and the glass tube was placed in a sealed container made of SUS. The sealed container was heated at 190 °C for 10 hours to obtain glass ceramics. Molar composition of glass-ceramics thus obtained, which corresponds to xLiI · (100-x) x = 14 in (0.75Li2S · 0.25P2S5).
+
+This example demonstrates the production of a sulfide solid electrolyte material through a process involving mechanical milling and subsequent heat treatment. The material is synthesized by amorphizing a raw material composition containing Li2S, P2S5, and LiI, followed by heating the resulting sulfide glass to a specific temperature to synthesize glass ceramics with desired properties.

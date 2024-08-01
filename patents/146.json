@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"NMP":"3326.4g","LiOH":"287.4g"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involved manufacturing lithium sulfide by reacting N-methyl-2-pyrrolidone (NMP) and lithium hydroxide with hydrogen sulfide in an autoclave, followed by purification through multiple NMP washings and drying at 230°C under a nitrogen stream to obtain purified lithium sulfide with measured impurity content. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

@@ -1,0 +1,25 @@
+assistant
+The original text of the first example is as follows:
+
+**Example 1: Synthesis of Lithium-Containing Negative Electrode Active Material by Molten Salt Method**
+
+**Materials:**
+- Silicon monoxide (SiO powder having an average particle size of 50 μm)
+- Lithium hydroxide monohydrate (LiOH.H2O)
+- Lithium nitrate (LiNO3)
+
+**Procedure:**
+1. Weigh 2 g of SiO powder, 2 g of LiOH.H2O, and 15 g of LiNO3.
+2. Put these powders into a crucible and transfer it to an electric furnace at 270°C.
+3. Heat the contents at 270°C for 5 hours in an argon atmosphere.
+4. Take out the crucible from the electric furnace and cool it at room temperature.
+5. Add ethanol to the solidified molten salt to dissolve it, resulting in a suspension.
+6. Filter and dry the suspension to obtain a powdery reaction product.
+
+**Analysis:**
+- Elemental analysis using inductively coupled plasma (ICP) revealed that 8.7% by mass of Li was contained in the reaction product with respect to 100% by mass of the reaction product.
+- X-ray diffraction (XRD) measurement using CuKα rays showed a diffraction peak derived from crystalline Li2SiO3 and a halo derived from Si fine particles. The Si fine particles had a crystal grain size of 4 nm.
+- SEM images of the particle cross-sections showed that the composition of the particles was almost uniform from the surface to the center, indicating that the composition was consistent throughout the particle. No uneven distribution of Si fine particles was observed.
+
+**Conclusion:**
+The synthesis of a lithium-containing negative electrode active material by the molten salt method resulted in a material containing composite particles of Si fine particles and Li2SiO3 phase. The SEM images confirmed that the composition was uniform across the particle, and the presence of pores was noted, which could help reduce volume expansion and contraction due to lithium occlusion and release.

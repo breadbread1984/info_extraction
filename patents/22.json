@@ -1,0 +1,10 @@
+{
+    "electrolyte": {"Li":"0.40","P":"0.07","S":"0.48", "Si":"0.05"},
+    "precursors": {"Li2S":"none","P2S5":"none","LiCl":"none", "SiS2":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involved mixing lithium sulfide, 5-sulfide 2, silicon sulfide, and lithium chloride in specified proportions, ball milling the mixture for 40 hours in a zirconia pot under argon, transferring the resulting ion conductive material powder into a carbon-coated quartz tube, vacuum-sealing, heating in a furnace to 550°C for 8 hours, and cooling to room temperature to yield a sulfide solid electrolyte material with a composition of 0.11(LiCl)·(Li3.4Si0.4P0.6S4). ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

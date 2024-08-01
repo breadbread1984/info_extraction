@@ -1,0 +1,16 @@
+assistant
+The original text of the first example is:
+
+Example 1: P2-Na0.67Ni0.33Mn0.67O2 
+
+    Figure 1(A) shows the X-ray diffraction pattern of the known material Na0.67Ni0.33Mn0.67O2 (sample number X1657). The pattern shows that this material conforms to a layered P2-type structure.
+
+Referring to Figures 1(B) - (C):
+
+   The data shown in Figures 1(B) - (C) are derived from the constant current cycling data for a Na0.67Ni0.33Mn0.67O2 cathode active material in a Na-ion cell (Cell#311044) where this cathode material was coupled with a Hard Carbon (Carbotron P(J)) anode material. The electrolyte used was a 0.5 M solution of NaClO4 in propylene carbonate. The constant current data were collected at an approximate current density of 0.125 mA/cm2 between voltage limits of 1.00 and 4.20 V. To ensure that the Na-ion cell was fully charged, the cell was potentiostatically held at 4.2 V at the end of the constant current charging process until the current density dropped to 10% of the constant current value. The testing was carried out at 30°C.
+
+During the cell charging process, sodium ions are extracted from the cathode active material, and inserted into the Hard Carbon anode. During the subsequent discharge process, sodium ions are extracted from the Hard Carbon and re-inserted into the cathode active material.
+
+Figure 1(B) shows the cell voltage profile (i.e. Na-ion Cell Voltage [V] versus Cumulative Cathode Specific Capacity [mAh/g]) for the first 4 charge/discharge cycles of the Hard Carbon // Na0.67Ni0.33Mn0.67O2 cell. These data demonstrate that the level of voltage hysteresis (i.e. the voltage difference between the charge and discharge processes) is large indicating the relatively poor kinetic reversibility of the Na-ion extraction-insertion reactions in this cathode material.
+
+Figure 1(C) shows the constant current cycle life profile (i.e. the relationship between Cathode Specific Capacity for Discharge [mAh/g] and cycle number for the Hard Carbon// Na0.67Ni0.33Mn0.67O2 cell. For cycle 1 the discharge specific capacity for the cathode is about 127 mAh/g. For cycle 20 the discharge specific capacity for the cathode is about 61 mAh/g. This represents a capacity fade of about 52 % over 20 cycles or an average of 2.6 % per cycle. The cathode material under test clearly demonstrates relatively poor capacity retention behaviour.

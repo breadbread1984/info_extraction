@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"LiCl":"409.3mg", "YCl":"547.3mg"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involved weighing 409.3mg of LiCl, 547.3mg of YCl, and 49.4mg of SrCl2 in an argon atmosphere, followed by mixing and grinding at 600rpm for 12 hours using a planetary ball mill to produce the solid electrolyte material. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

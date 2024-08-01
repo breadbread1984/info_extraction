@@ -1,0 +1,9 @@
+assistant
+The original text of the first example is:
+
+```
+[ production of solid electrolyte Material ]
+Raw material powders LiBr and YBr are put in an argon atmosphere with a dew point of-60 ℃ or lower3As LiBr in terms of mole ratios: YBr (Yttrium barium copper ferrite)32.7: 1.1. They were ground in a mortar and mixed. Thereafter, a milling treatment was performed at 600rpm for 25 hours using a planetary ball mill. Further, the resultant was fired in a furnace at 400 ℃ for 48 hours in an Ar (argon) atmosphere.
+
+By the above operation, the powder of the solid electrolyte material of example 1 containing the Li-deficient crystal phase was obtained.
+```

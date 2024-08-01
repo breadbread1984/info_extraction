@@ -1,0 +1,10 @@
+{
+    "electrolyte": {"Li":"0.40","P":"0.08","Ge":"0.04", "S":"0.48"},
+    "precursors": {"Li2S":"none","P2S5":"none","GeS2":"none", "LiBr":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involves mixing lithium sulfide, diphosphorus pentasulfide, germanium sulfide, and lithium bromide in specified proportions in an argon-filled glove box, milling the mixture in a zirconia pot with zirconia balls for 40 hours, then calcining the resulting amorphized ion conductive material in a quartz tube under vacuum, increasing the temperature to 400°C over 6 hours, holding at 400°C for 8 hours, and slowly cooling to room temperature to obtain a sulfide solid electrolyte material with the composition 0.11(LiBr).(Li3.35Ge0.35P0.65S4). ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

@@ -1,0 +1,10 @@
+{
+    "electrolyte": {"Li":"0.44","P":"0.08","Cl":"0.13", "S":"0.35"},
+    "precursors": {"Li2S":"none","P2S5":"none","LiCl":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process entailed using Li2S, P2S5, and LiCl to create a Li5.4PS4.4Cl1.6 solid electrolyte by milling the raw materials with heptane, pelletizing the precursor powder, vacuum-sealing, firing at 350°C for 3 hours, and finally crushing the pellets to yield the solid electrolyte powder. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

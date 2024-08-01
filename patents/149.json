@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"WO3":"1.08g","H2O":"100g","0.25Ni 0.91Co 0.06Al 0.03O":"150g"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involves mixing an oxide containing Ni with lithium hydroxide, washing the resulting mixture with water and tungsten oxide, drying the powder, and then sieving it to obtain a positive electrode active material with a lithium tungstate compound on the surface of the primary particles. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

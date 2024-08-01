@@ -1,0 +1,10 @@
+{
+    "electrolyte": {"Li":"0.79","P":"0.21"},
+    "precursors": {"Li2S":"0.5503g","P2S5":"0.8874g","LiCl":"0.2850g"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involves charging lithium, lithium sulfide, P2S5, and LiCl into a zirconia pot with dehydrated heptane, grinding in a planetary ball mill for 20 hours to produce sulfide solid electrolyte glass, which is then vacuum-sealed in a carbon-coated quartz tube, heated at 500°C for 3 hours to obtain sulfide solid electrolyte particles. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

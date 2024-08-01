@@ -1,0 +1,6 @@
+assistant
+The original text of the first example is:
+
+[Example 1] Li 2 S powder, P 2 S 5 powder, LiCl powder and LiBr powder were used as raw material powders. These powders were weighed so as to have a composition of Li 5.4 PS 4.4 Cl 0.8 Br 0.8 and a total amount of 5 g. The Li 2 S powder, a Li 2 S reagent and purity 99.5% LiOH reagent purity of 99.9% purity was used a model raw material powder were mixed so that as shown in Table 1. The raw material powder was pulverized and mixed using a ball mill to obtain a mixed powder. The mixed powder was then fired. The firing was carried out in an atmosphere of 100% hydrogen sulfide gas. The flow rate was 100 cm 3 / min. The firing temperature was set to 500 ° C., and the firing time was 8 hours. In this way, a sulfide solid electrolyte having an algyrodite type crystal structure was obtained. It was confirmed by XRD measurement that it had an algyrodite type crystal structure.
+
+In this example, the raw materials were weighed to achieve a specific composition, mixed using a ball mill, and then fired in a hydrogen sulfide atmosphere at 500°C for 8 hours to produce a sulfide solid electrolyte with an algyrodite type crystal structure.

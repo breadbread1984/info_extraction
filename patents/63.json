@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"SiO":"none","C":"none", "LiH":"none"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involves preparing amorphous SiO powder, heat treating it with a carbonized gas, coating it with conductive carbon, pulverizing LiH powder, mixing it with the coated SiO powder to achieve a specific Li/H ratio, and subjecting the mixture to a heat treatment process in an argon atmosphere furnace at 600°C for 72 hours for lithium doping. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

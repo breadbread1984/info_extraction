@@ -1,0 +1,10 @@
+{
+    "electrolyte": "none",
+    "precursors": {"Li2S":"19.3145g","P2S5":"18.8759g","GeS2":"211.6148g", "Li2O":"0.1948g"},
+    "conductivity": "none",
+    "synthesis_method": "The electrolyte synthesis process involves mixing specific amounts of Li2S, Li2O2, GeS2, and P2S5, grinding them in a roller mill with zirconia grinding beads to obtain a precursor, pressing the precursor into sheets, calcining them at 680°C for 20 minutes, and grinding the resulting block into powder to obtain sulfide solid electrolyte powder. ",
+    "structure": {
+  "crystal_system": "none",
+  "space_group": "none"
+  }
+  }

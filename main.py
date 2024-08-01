@@ -60,8 +60,9 @@ def main(unused_argv):
       text = ''.join([doc.page_content for doc in loader.load()])
       example = example_chain_.invoke({'patent': text})
       output = chain.invoke({'context': example})
+      results = {'example': example, 'output': output}
       with open(join(FLAGS.output_dir, '%s_meta.txt' % splitext(f)[0]), 'w') as fp:
-        fp.write(output)
+        fp.write(json.dumps(results))
 
 if __name__ == "__main__":
   add_options()

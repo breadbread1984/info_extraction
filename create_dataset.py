@@ -43,9 +43,9 @@ def main(unused_argv):
         else:
           raise Exception('unknown mode')
         messages = {"messages": [
-          {'role': system_message},
-          {'user': text},
-          {'assistant': label if type(label) is str else json.dumps(label)}
+          {'role': 'system', 'content': system_message},
+          {'role': 'user', 'content': text},
+          {'role': 'assistant', 'content': label if type(label) is str else json.dumps(label)}
         ]}
         output_file.write(json.dumps(messages, ensure_ascii = False) + '\n')
 

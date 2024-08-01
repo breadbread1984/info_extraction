@@ -33,7 +33,7 @@ def main(unused_argv):
         with open(text_path, 'r') as text_file:
           text = text_file.read()
         with open(label_path, 'r') as label_file:
-          label = json.loads(label_file)
+          label = json.loads(label_file.read())
         if FLAGS.mode == 'electrolyte':
           label = label['electrolyte']
         elif FLAGS.mode == 'precursors':

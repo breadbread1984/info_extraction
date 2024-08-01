@@ -179,7 +179,7 @@ def Customized(locally = True, ckpt = None):
       logits_processor.append(TopPLogitsWarper(0.8))
       inputs = self.tokenizer(prompt, return_tensors = 'pt')
       inputs = inputs.to(device('cuda'))
-      outputs = self.model.generate(**inputs, logits_processor = logits_processor, use_cache = True, do_sample = True, return_dict_in_generate = True)
+      outputs = self.model.generate(**inputs, logits_processor = logits_processor, use_cache = True, do_sample = True, max_length = 131072, return_dict_in_generate = True)
       outputs = self.tokenizer.batch_decode(outputs.sequence, skip_special_tokens = True)
       return outputs[0][len(prompt):]
     @property

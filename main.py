@@ -7,6 +7,7 @@ from tqdm import tqdm
 import json
 from langchain.document_loaders import UnstructuredPDFLoader, UnstructuredHTMLLoader, TextLoader
 from langchain.graphs import Neo4jGraph
+from langchain_experimental.graph_transformers.llm import LLMGraphTransformer
 from prompts import extract_triplets_template, cypher_generation_template, entity_generation_template, triplets_qa_template
 from models import Llama3, Qwen2
 

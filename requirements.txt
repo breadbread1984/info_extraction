@@ -3,6 +3,7 @@ absl-py
 torch
 transformers
 langchain-community
+langchain-experimental
 gradio
 unstructured
 pdf2image

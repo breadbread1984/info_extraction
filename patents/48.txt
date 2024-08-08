@@ -1,6 +1,0 @@
-assistant
-The original text of the first example is:
-
-Example 1: Preparation of Li3-x ClO1-x Halx (Li2.963 ClO0.963 F0.037)
-
-6.528 g of LiNO3 powder and 0.048 g of LiF powder were dissolved in 100 ml of HNO3 (0.1 M) and reacted at room temperature for 12 hours. After the reaction, it is dried using a rotary evaporator and an electric oven. The dried powder is sintered at 900 °C for 3 days and then dropped to room temperature at a rate of 3 °C / min. The synthesized powder is washed several times with distilled water to remove unreacted materials and then calcined in air at 600 °C for 1 hour. The synthesized material was hand mixed with LiCl powder (2.1 g) to prepare a grinding mixed powder. 3 ml H2O was added to the mixed powder to prepare a gel-like mixture. Then, the resultant was heat-treated in an autoclave at 600 °C for 2 hours or more in an oxygen atmosphere, and then dried at the same temperature for about 1 hour to prepare Li2.963 ClO0.963 F0.037.

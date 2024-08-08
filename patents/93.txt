@@ -1,8 +1,0 @@
-assistant
-The original text of the first example is:
-
-**Example 1**
-
-Lithium sulfide (Li2S, purity: 99.9%, available from Nippon chemical industrial Co., Ltd.), phosphorus pentasulfide (P2S5, purity: 99%, available from Sigma-Aldrich Co. LLC), and lithium iodide (LiI, purity: 99%, available from Sigma-Aldrich Co. LLC) were employed as starting materials. 
-
-Next, Li2S and P2S5 were weighed to achieve that a molar ratio of Li2S to P2S5 is 75 to 25 (Li3PS4, ortho composition). Next, LiI was weighed to achieve a LiI ratio of 30 mol %. The weighed starting material 2 g, dehydrous heptane 4 g (water content: 30 ppm or less) and ZrO2 ball (ϕ=5 mm, 53 g) were supplied into a container (45 cc, made of ZrO2) of planetary ball mill, and then the container was fully closed tightly. The container was attached to a planetary ball mill machine (available from Fritsch Co., Ltd. P7), and then mechanical milling was performed for 1 hour at intervals of 15 minutes repetitively 40 times at 500 rpm of the rotation speed of base table. The resultant sample was dried at 120° C. for ten hours using hot plate to eliminate heptane for providing a sulfide glass. The molar composition of the resultant sulfide glass is xLiI.(100-x) (0.75Li2S.0.25P2S5), in which x equals to 30.

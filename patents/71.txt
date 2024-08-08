@@ -1,8 +1,0 @@
-assistant
-The original text of the first example for producing the solid ion conductor compound is:
-
-Example 1: Production of (Li5.69 Cu0.06)P(S4.70(SO4)0.05)Cl1.25
-
-In an Ar-atmosphere glove box with a lithium precursor Li2S, phosphorus (P) precursor P2S5, chlorine (Cl) precursor LiCl, copper (Cu) precursor Cu2S, and SO4 precursor Li2SO4 are combined in a chemical ratio so that the desired composition (Li5.69 Cu0.06)P(S4.70(SO4)0.05)Cl1.25 is obtained. After that, in an Ar atmosphere planetary ball mill containing zirconia (YSZ) balls, the mixture was crushed and mixed at 100 rpm for 1 hour, and then crushed and mixed at 800 rpm for 30 minutes to prepare the mixture. Obtained. The resulting mixture was pressed at a minor axis pressure to prepare pellets with a thickness of about 10 mm and a diameter of about 13 mm. After covering the prepared pellets with gold leaf, they were placed in a carbon crucible, and the carbon crucible was vacuum-sealed using a quartz glass tube. The vacuum-sealed pellets are heated from room temperature to 500 °C. at 1.0 °C./min using an electric furnace, heat-treated at 500 °C. for 12 hours, and then cooled to room temperature at 1.0 °C./min. Then, a solid ion conductor compound was produced.
-
-The composition of the produced solid ion conductor compound is (Li5.69 Cu0.06)P(S4.70(SO4)0.05)Cl1.25 (substituted cation (Cu). The ratio was 0.01, and the ratio of substituted anions (SO4) was 0.01).

@@ -1,6 +1,0 @@
-assistant
-The original text of the first example is as follows:
-
-```
-(Example 1) 1. Synthesis of sulfide-based solid electrolyte Li 2 S (manufactured by Mitsuwa Chemical Industry Co., Ltd.), P 2 S 5 (manufactured by Aldrich Co., Ltd.), LiI (manufactured by Kojundo Chemical Co., Ltd.), LiBr (manufactured by Kojundo Chemical Co., Ltd.), LiBr (high (manufactured by Junjun Kagaku Co., Ltd.) were weighed so as to obtain a target composition, and these raw materials were put into a 45 mL ZrO 2 pot together with a Φ5 mm ZrO 2 ball. These raw materials were milled at 500 rpm for 20 hours to obtain sulfide glass powder. 500 mg of this sulfide glass powder was pelletized, placed in a quartz tube and vacuum-sealed. After firing the pellets at 200° C. for 3 hours, the pellets were pulverized in a mortar to obtain a sulfide-based solid electrolyte having a composition of 15LiBr·10LiI·75 (0.75Li 2 S·0.25P 2 S 5 ). A glass-ceramic powder was obtained.
-```

@@ -1,8 +1,0 @@
-assistant
-The original text of the first example is as follows:
-
-Example 1
-
-A sulfide solid electrolyte was prepared and evaluated in the same manner as in Example 1, except that the treatment time by the planetary ball mill was set to 60 hours. A result is shown in Table 1.
-
-As a result of XRD measurement, peaks derived from the aramidite-type crystal structure were observed at 2θ = 15.5, 18.0, 25.5, 30.0, 31.4, 45.2, and 48.0 deg. On the other hand, a peak derived from the Li 3 PS 4 crystal structure of 17.6±0.4 deg was not observed.

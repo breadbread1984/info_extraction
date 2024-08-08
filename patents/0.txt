@@ -1,6 +1,0 @@
-assistant
-The original text of the first example is as follows:
-
-Lithium sulfide (Li2S) powder and phosphorous pentasulfide (P2S5) so that the raw material composition (mol%) shown in Table 1 was obtained. Using a powder, lithium chloride (LiCl) powder, and lithium bromide (LiBr) powder, each was weighed to 75 g in total, and pulverized and mixed with a ball mill for 6 hours to prepare a mixed powder. This mixed powder was filled into a container made of carbon, and this was heated at a heating rate of 200°C/h while flowing hydrogen sulfide gas (H2S, purity 100%) at 1.0 L/min in a tubular electric furnace, it was fired at 500°C for 4 hours. Thereafter, the sample was crushed in a mortar and erected with a sieve having an opening of 53 μm to obtain a powdery sample (sulphide-based compound as a solid electrolyte).
-
-At this time, the above weighing, mixing, set to the electric furnace, extraction from the electric furnace, crushing, and sizing were all carried out in a glove box substituted with sufficiently dried Ar gas (with a dew point of -60°C or less).

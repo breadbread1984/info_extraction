@@ -1,7 +1,0 @@
-assistant
-The original text of the first example is:
-
-Example 1, Example 2, Example 3, Example 4
-Powders of sulfide-based particles having a crystal phase of a cubic argyrodite-type crystal structure having respective compositions indicated in Table 1 were each exposed in a glove box regulated at a dew-point temperature of −30° C. for 6 hours to carry out a surface modification treatment. After the exposure, no drying treatment was carried out. Thus, solid electrolytes (measuring samples) were each obtained.
-
-The dew-point temperature of the atmosphere in the glove box was regulated by regulating the amount of moisture while mixing with air having a high dew-point temperature in the glove box. No particular temperature control was made.

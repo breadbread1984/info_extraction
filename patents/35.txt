@@ -1,8 +1,0 @@
-assistant
-The original text of the first example is as follows:
-
-In order to generate a new crystal phase in the present disclosure, lithium sulfide (Li2S) powder, phosphorus pentoxide (P2S5) powder, and lithium chloride (LiCl) to have a composition of Li5.2 PS4.2 Cl0.9 Br0.9) Powder and lithium bromide (LiBr) powder were each weighed so that the total amount was 5 g, heptane was added, pulverized and mixed for 10 hours with a wet pulverization mixing ball mill, and then vacuum-dried with a vacuum dryer to obtain a mixed powder.
-
-Then, the obtained mixed powder was filled up to 80% by volume of a container made of carbon (40 mm×30 mm×20 mm, non-hermetic), and hydrogen sulfide gas (H2S) was passed through at 1.0 L/min in a tubular electric furnace. After heating at 300°C (pum temperature) for 4 hours, it was further heated at 500°C (pum temperature) for 4 hours. The temperature rising rate was set at 200°C/hr. Thereafter, the sample was coarsely pulverized with a mortar, heptane was added, pulverized and mixed for 2 hours with a wet pulverizing and mixing ball mill, and sieved with a horizontal rotating sieve having an opening of 53 μm, and a powdery sulfur-containing compound (Sample) was obtained.
-
-At this time, the weighing, mixing, setting in the electric furnace, extraction from the electric furnace, disintegration and sizing operations were all carried out in a glove box substituted with sufficiently dried Ar gas (dew point -60°C or less), composition formula: Li5.2 A powdery sulfur-containing compound (sample) represented by PS4.2 Cl0.9 Br0.9 was obtained.

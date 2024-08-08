@@ -1,9 +1,0 @@
-assistant
-The original text of the first example is:
-
-Comparative example 1
-Li is mixed with 2 S (Furuuchi chemical Co., ltd.) 0.5503g, P 2 S 5 0.8874g of (Aldrich Co.) and 0.2850g of LiCl (high purity chemical Co.) were charged into a zirconia pot (45 mL) containing zirconia balls of 5mm diameter, and 4g of dehydrated heptane (Kanto chemical Co.) was then added and covered. This was placed in a planetary ball mill (manufactured by Fritsch corporation, P-7) and subjected to mechanical grinding for 20 hours, thereby obtaining sulfide solid electrolyte glass.
-
-The sulfide solid electrolyte glass was placed in a quartz tube with a carbon-coated layer for vacuum sealing, thereby manufacturing an ampoule. It was heated at 500 ℃ for 3 hours, thereby obtaining sulfide solid electrolyte particles C1. The Li/P molar ratio of the sulfide solid electrolyte particle C1 was 3.8.
-
-The oxygen/sulfur element ratio of the surface of the obtained sulfide solid electrolyte particle C1 and a position 30nm away from the surface was measured by XPS measurement described later. The results are shown in table 1.

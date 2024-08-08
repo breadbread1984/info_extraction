@@ -1,7 +1,0 @@
-assistant
-The original text of the first example is:
-
-[Comparative Example 1-1]
-Li 2 S (manufactured by Nippon Chemical Co.), P 2 S 5 (Aldrich Co.) and LiI a and the (nitppo Chemical Co., Ltd.) as the starting material, Li 2 S to  0.558 g, P 2 S 5 0.900  g, 0.542 g of LiI Weighed and mixed with agate for 5 minutes. The mixture was charged into a container (45 cc, made of ZrO 2 ) of a planetary ball mill and dehydrated heptane (water amount: 30 ppm or less, 4 g) was charged and further a ZrO 2 ball (φ = 5 mm, 53 g) And the container was completely sealed. The container was mounted on a planetary ball mill (manufactured by Fritz P7) and mechanical milling was carried out for 20 hours at a rotational speed of 500 rpm. Thereafter, heptane was removed by drying at 110 DEG C for 1 hour to obtain a sulfide glass. The composition is expressed in terms of molar value of 20LiI · 80 (0.75Li 2 S · 0.25P 2 S 5 ), and this composition is designated as composition A.
-
-Next, 0.5 g of the obtained glass sulfide was vacuum-sealed in a quartz tube, and heat treatment was performed at 170 占 폚. Specifically, a sample was preliminarily put in a furnace maintained at 170 占 폚 and subjected to a heat treatment for 3 hours to obtain a sulfide solid electrolyte material which is a glass ceramics.

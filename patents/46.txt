@@ -1,8 +1,0 @@
-assistant
-The original text of the first example is as follows:
-
-**Example 1-1**
-
-Lithium sulfide (Li 2 S), phosphorus pentoxide (P 2 S 5 ), and lithium iodide (LiI) are used as starting materials. Next, in a glove box under an Ar atmosphere (dew point -70 ° C), Li 2 S and P 2 S 5 were weighed so as to have a molar ratio (Li 3 PS 4, ortho composition) of 75Li 2 S · 25P 2 S 5. Next, LiI was weighed so that LiI was 10 mol%. 2 g of the mixture was charged into a planetary ball mill container (45 cc, made of ZrO 2 ), dehydrated heptane (water amount 30 ppm or less, 4 g) was added, and further a ZrO 2 ball (φ = 5 mm, And the container was completely closed (Ar atmosphere). The container was mounted on a planetary ball mill (P7 ™ manufactured by Frituchu Corporation) and subjected to mechanical milling for 1 hour at a rotation speed of 500 rpm and for 15 minutes at rest for 40 times. Thereafter, the obtained sample was dried on a hot plate to remove heptane to obtain a sulfide solid electrolyte material. The composition of the obtained sulfide solid electrolyte material was 10LiI · 90 (0.75Li 2 S · 0.25P 2 S 5 ).
-
-This example demonstrates the synthesis of a sulfide solid electrolyte material through wet mechanical milling, utilizing lithium sulfide, phosphorus pentoxide, and lithium iodide as starting materials. The resulting material is characterized by its ortho composition and contains lithium iodide, contributing to its high lithium ion conductivity.

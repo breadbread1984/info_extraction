@@ -1,7 +1,0 @@
-assistant
-The original text of the first example is as follows:
-
-<First step>  
-In the first step, a composite compound using a nickel compound, a cobalt compound, and at least one compound selected from a manganese compound, an aluminum compound, and a magnesium compound (including at least one of a manganese compound and an aluminum compound) is prepared after being weighed so that the ratio of each element (Ni / Co / Mn) is 5.0 / 2.0 / 3.0 in terms of molar ratio. These are put into water and an aqueous solution is obtained by dissolution. To this aqueous solution, a mixture of a caustic soda solution and an ammonia solution is added as a precipitant and mixed with stirring, and nickel sulfate, cobalt sulfate, and manganese sulfate are subjected to a coprecipitation reaction in a wet manner. After the reaction product is obtained by overflowing, it is washed with water and dried to obtain a composite compound precursor.
-
-Next, lithium carbonate and the obtained composite compound precursor are mixed in a mortar for 1 hour so that the ratio [Li / (Ni + Co + Mn)] of Li and Ni, Co and Mn is 1.04. Mix to obtain a uniform mixture. The obtained mixture was put into an alumina crucible and fired by holding at 930 °C for 5 hours in an oxidizing atmosphere to be [Li1.04(Ni0.5Co0.2Mn0.3)O2]. Lithium composite oxide particle powder was obtained.

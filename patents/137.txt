@@ -1,6 +1,0 @@
-assistant
-The original text of the first example is:
-
-Use lithium sulfide (Li₂S) and phosphoric sulfide (P₂S₅) as starting material. Their powder is weighed in argon atmosphere in a glove box, so that the mol ratio becomes Li₂S: P₂S₅ = 75: 25, and subsequently mixed in an agate mortar. Through doing this, the 1g material compositions are obtained. Subsequently, the 1g material compositions that obtain are put into a 45ml zirconia jar, and zirconia balls (Φ 10mm, 10 balls) are put into the jar and completed subsequently airtight sealing of the jar. The jar is installed in a planetary ball mill. Then, the turntable rotating speed with 370rpm is carried out mechanical lapping for 40 hours. Through doing this, the solid electrolyte material (75Li based on sulfide 2S·25P 2S 5 Glass) is obtained. Subsequently, cupric oxide (CuO) is added as an inhibitor to become 30% based on the solid electrolyte material of sulfide to what obtain, subsequently mixed in an agate mortar. Through doing this, the lithium ion conducting material is obtained.
-
-In summary, the first example describes the synthesis of a lithium ion conducting material by mixing lithium sulfide and phosphoric sulfide in a specific molar ratio, followed by mechanical lapping, and then adding cupric oxide as an inhibitor.

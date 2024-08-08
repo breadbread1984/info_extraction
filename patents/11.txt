@@ -1,8 +1,0 @@
-assistant
-The original text of the first example is as follows:
-
-The materials were synthesized to provide a composition below.
-
-0.85Li6PS5Cl + 0.09Li7SiS5Cl + 0.06Li7SiO5Cl
-
-All experiments were performed in a glove box or a dry room which prevents the materials from being exposed to moisture and oxygen. Starting materials Li2S of 0.88185 gram (g), P2S5 of 0.70412 g, LiCl of 0.316 g, SiO2 of 0.06718 g were weighed, respectively. The starting materials was placed in a milling container and mixed at 300 rpm for more than 2 hours to homogeneously mix the materials. After the mixture was recovered, it was compressed by a hydraulic press to form the pellets. The pellets were put into a quartz tube for the heat treatment and sealed in a vacuum atmosphere in which the degree of vacuum is less than 0.04 mmHg. After heating up to 550°C at a heat-rise ratio of 2°C/minute, the temperature of the quartz tube was maintained for 6 hours and then cooled naturally. The pelletized sample having gone through the heat treatment was ground to synthesize Li6.15P0.85Si0.15S4.7O0.3Cl in powder form.

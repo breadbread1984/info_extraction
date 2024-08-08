@@ -40,6 +40,7 @@ def Llama3(locally = False):
       eos_token_id = [128001,128008,128009],
       use_cache = True,
     )
+  llm.pipeline.tokenizer.pad_token_id = 128001
   return tokenizer, llm
 
 def Qwen2(locally = False):

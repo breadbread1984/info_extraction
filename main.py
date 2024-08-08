@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 
-from shutil import rmtree
-from os import walk, mkdir
+from os import walk
 from os.path import splitext, join, exists
 from absl import flags, app
 from tqdm import tqdm
@@ -23,8 +22,6 @@ def add_options():
   flags.DEFINE_enum('model', default = 'qwen2', enum_values = {'llama3', 'qwen2'}, help = 'model name')
 
 def main(unused_argv):
-  if exists(FLAGS.output_dir): rmtree(FLAGS.output_dir)
-  mkdir(FLAGS.output_dir)
   if FLAGS.model == 'llama3':
     tokenizer, llm = Llama3(FLAGS.locally)
   elif FLAGS.model == 'qwen2':

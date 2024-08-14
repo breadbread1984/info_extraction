@@ -20,7 +20,7 @@ def add_options():
   flags.DEFINE_string('user', default = 'neo4j', help = 'user name')
   flags.DEFINE_string('password', default = 'neo4j', help = 'password')
   flags.DEFINE_string('database', default = 'neo4j', help = 'database')
-  flags.DEFINE_enum('model', default = 'qwen2', enum_values = {'llama3', 'llama3_fa2', 'qwen2', 'qwen2_fa2'}, help = 'model name')
+  flags.DEFINE_enum('model', default = 'llama3_fa2', enum_values = {'llama3', 'llama3_fa2', 'qwen2', 'qwen2_fa2'}, help = 'model name')
 
 def main(unused_argv):
   if FLAGS.model == 'llama3':

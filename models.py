@@ -9,9 +9,10 @@ from langchain_community.llms import HuggingFaceEndpoint
 from langchain_community.llms.huggingface_pipeline import HuggingFacePipeline
 from langchain_openai import ChatOpenAI
 from langchain.llms.base import LLM
+import configs
 
 def Llama3(locally = False):
-  login(token = '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')
+  login(token = configs.huggingface_key)
   tokenizer = AutoTokenizer.from_pretrained('meta-llama/Meta-Llama-3.1-8B-Instruct')
   if locally:
     llm = HuggingFacePipeline.from_model_id(
@@ -29,7 +30,7 @@ def Llama3(locally = False):
       }
     )
   else:
-    environ['HUGGINGFACEHUB_API_TOKEN'] = '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'
+    environ['HUGGINGFACEHUB_API_TOKEN'] = configs.huggingface_key
     llm = HuggingFaceEndpoint(
       endpoint_url = "meta-llama/Meta-Llama-3.1-8B-Instruct",
       task = "text-generation",
@@ -72,7 +73,7 @@ def Llama3_FA2(locally = False):
   return llm.tokenizer, llm
 
 def Qwen2(locally = False):
-  login(token = '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')
+  login(token = configs.huggingface_key)
   tokenizer = AutoTokenizer.from_pretrained('Qwen/Qwen2-7B-Instruct')
   if locally:
     llm = HuggingFacePipeline.from_model_id(
@@ -89,7 +90,7 @@ def Qwen2(locally = False):
       }
     )
   else:
-    environ['HUGGINGFACEHUB_API_TOKEN'] = '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'
+    environ['HUGGINGFACEHUB_API_TOKEN'] = configs.huggingface_key
     llm = HuggingFaceEndpoint(
       endpoint_url = 'Qwen/Qwen2-7B-Instruct',
       task = 'text-generation',
@@ -126,3 +127,14 @@ def Qwen2_FA2(locally = False):
   llm = Qwen2_FA2()
   return llm.tokenizer, llm
 
+def GPT4O(locally = False):
+  assert locally == False, "openai chatbot can only called remotely"
+  llm = ChatOpenAI(
+    model = "gpt-4o",
+    temperature = 0,
+    max_tokens = None,
+    timeout = None,
+    max_retires = 2,
+    api_key = configs.openai_api_key
+  )
+  return llm

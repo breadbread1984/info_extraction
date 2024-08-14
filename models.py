@@ -100,7 +100,7 @@ def Qwen2(locally = False):
   return tokenizer, llm
 
 def Qwen2_FA2(locally = False):
-  assert locally = True, "must be locally!"
+  assert locally == True, "must be locally!"
   class Qwen2FA2(LLM):
     tokenizer: AutoTokenizer = None
     model: AutoModelForCausalLM = None

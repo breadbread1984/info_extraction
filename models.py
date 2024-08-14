@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 from os import environ
+import torch
 from torch import device
 from huggingface_hub import login
 from transformers import AutoTokenizer, AutoModelForCausalLM, LogitsProcessorList, \

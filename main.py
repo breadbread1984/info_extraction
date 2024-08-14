@@ -9,7 +9,7 @@ from langchain.document_loaders import UnstructuredPDFLoader, UnstructuredHTMLLo
 from langchain.graphs import Neo4jGraph
 from langchain_experimental.graph_transformers.llm import LLMGraphTransformer
 from prompts import extract_triplets_template, cypher_generation_template, entity_generation_template, triplets_qa_template
-from models import Llama3, Qwen2
+from models import Llama3, Qwen2, Llama3_FA2, Qwen2_FA2
 
 FLAGS = flags.FLAGS
 
@@ -20,13 +20,17 @@ def add_options():
   flags.DEFINE_string('user', default = 'neo4j', help = 'user name')
   flags.DEFINE_string('password', default = 'neo4j', help = 'password')
   flags.DEFINE_string('database', default = 'neo4j', help = 'database')
-  flags.DEFINE_enum('model', default = 'qwen2', enum_values = {'llama3', 'qwen2'}, help = 'model name')
+  flags.DEFINE_enum('model', default = 'qwen2', enum_values = {'llama3', 'llama3_fa2', 'qwen2', 'qwen2_fa2'}, help = 'model name')
 
 def main(unused_argv):
   if FLAGS.model == 'llama3':
     tokenizer, llm = Llama3(FLAGS.locally)
   elif FLAGS.model == 'qwen2':
     tokenizer, llm = Qwen2(FLAGS.locally)
+  elif FLAGS.model == 'llama3_fa2':
+    tokenizer, llm = Llama3_FA2(True)
+  elif FLAGS.model == 'qwen2_fa2':
+    tokenizer, llm = Qwen2_FA2(True)
   else:
     raise Exception('unknown model!')
 
